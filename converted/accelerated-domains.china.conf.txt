@@ -76312,7 +76312,6 @@
 [/verywind.com/]https://223.5.5.5/dns-query
 [/veryxiang.com/]https://223.5.5.5/dns-query
 [/veryzhun.com/]https://223.5.5.5/dns-query
-[/vsean.net/]https://223.5.5.5/dns-query
 [/veshop.jp/]https://223.5.5.5/dns-query
 [/vesystem.com/]https://223.5.5.5/dns-query
 [/vetoolchain.com/]https://223.5.5.5/dns-query
