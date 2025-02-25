@@ -1,6 +1,6 @@
 https://tunnel.redteam.club:57443/dns-query/maxshell
-tls://maxshell.redteam.club:5853
-quic://maxshell.redteam.club:5853
+tls://maxshell.redteam.club:58531
+quic://maxshell.redteam.club:58532
 [/0.zone/]https://223.5.5.5/dns-query
 [/00.net/]https://223.5.5.5/dns-query
 [/000.link/]https://223.5.5.5/dns-query
