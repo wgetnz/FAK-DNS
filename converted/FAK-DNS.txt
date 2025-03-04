@@ -512,7 +512,6 @@ quic://dns.tunnel.redteam.club:853
 [/020zhucegongsi.com/]https://223.5.5.5/dns-query
 [/020zp.net/]https://223.5.5.5/dns-query
 [/021-116114.com/]https://223.5.5.5/dns-query
-[/021-tp.com/]https://223.5.5.5/dns-query
 [/021-zszx.com/]https://223.5.5.5/dns-query
 [/021.com/]https://223.5.5.5/dns-query
 [/021.net/]https://223.5.5.5/dns-query
@@ -791,7 +790,6 @@ quic://dns.tunnel.redteam.club:853
 [/0554news.com/]https://223.5.5.5/dns-query
 [/0554shdz.com/]https://223.5.5.5/dns-query
 [/0554zp.com/]https://223.5.5.5/dns-query
-[/0557120.com/]https://223.5.5.5/dns-query
 [/0559jqdq.com/]https://223.5.5.5/dns-query
 [/0561house.com/]https://223.5.5.5/dns-query
 [/0564abc.com/]https://223.5.5.5/dns-query
@@ -801,7 +799,6 @@ quic://dns.tunnel.redteam.club:853
 [/0570fc.com/]https://223.5.5.5/dns-query
 [/0570zs.com/]https://223.5.5.5/dns-query
 [/057191.com/]https://223.5.5.5/dns-query
-[/0571bike.com/]https://223.5.5.5/dns-query
 [/0571ok.com/]https://223.5.5.5/dns-query
 [/0571zp.com/]https://223.5.5.5/dns-query
 [/0573fang.com/]https://223.5.5.5/dns-query
@@ -809,7 +806,6 @@ quic://dns.tunnel.redteam.club:853
 [/0573ren.com/]https://223.5.5.5/dns-query
 [/0574bbs.com/]https://223.5.5.5/dns-query
 [/0574nbjg.com/]https://223.5.5.5/dns-query
-[/0574yw.com/]https://223.5.5.5/dns-query
 [/0575.host/]https://223.5.5.5/dns-query
 [/0575bbs.com/]https://223.5.5.5/dns-query
 [/0575life.com/]https://223.5.5.5/dns-query
@@ -1333,7 +1329,6 @@ quic://dns.tunnel.redteam.club:853
 [/109876543210.com/]https://223.5.5.5/dns-query
 [/109ya.com/]https://223.5.5.5/dns-query
 [/10bests.com/]https://223.5.5.5/dns-query
-[/10besty.com/]https://223.5.5.5/dns-query
 [/10fang.com/]https://223.5.5.5/dns-query
 [/10gjkj.com/]https://223.5.5.5/dns-query
 [/10gt.com/]https://223.5.5.5/dns-query
@@ -1553,6 +1548,7 @@ quic://dns.tunnel.redteam.club:853
 [/123456.la/]https://223.5.5.5/dns-query
 [/12345good.com/]https://223.5.5.5/dns-query
 [/12345good.net/]https://223.5.5.5/dns-query
+[/12345o.com/]https://223.5.5.5/dns-query
 [/12348.net/]https://223.5.5.5/dns-query
 [/12349.net/]https://223.5.5.5/dns-query
 [/1234biao.com/]https://223.5.5.5/dns-query
@@ -1572,6 +1568,7 @@ quic://dns.tunnel.redteam.club:853
 [/12366cn.com/]https://223.5.5.5/dns-query
 [/123684.com/]https://223.5.5.5/dns-query
 [/123865.com/]https://223.5.5.5/dns-query
+[/123912.com/]https://223.5.5.5/dns-query
 [/123952.com/]https://223.5.5.5/dns-query
 [/123957.com/]https://223.5.5.5/dns-query
 [/123aa.com/]https://223.5.5.5/dns-query
@@ -1592,7 +1589,6 @@ quic://dns.tunnel.redteam.club:853
 [/123hala.com/]https://223.5.5.5/dns-query
 [/123hao.com/]https://223.5.5.5/dns-query
 [/123hdp.com/]https://223.5.5.5/dns-query
-[/123jci.com/]https://223.5.5.5/dns-query
 [/123k.cc/]https://223.5.5.5/dns-query
 [/123kanfang.com/]https://223.5.5.5/dns-query
 [/123langlang.com/]https://223.5.5.5/dns-query
@@ -1733,7 +1729,6 @@ quic://dns.tunnel.redteam.club:853
 [/13800.net/]https://223.5.5.5/dns-query
 [/13800100.co/]https://223.5.5.5/dns-query
 [/13800100.com/]https://223.5.5.5/dns-query
-[/13826414468.com/]https://223.5.5.5/dns-query
 [/138379.com/]https://223.5.5.5/dns-query
 [/138gzs.com/]https://223.5.5.5/dns-query
 [/138top.com/]https://223.5.5.5/dns-query
@@ -1764,7 +1759,6 @@ quic://dns.tunnel.redteam.club:853
 [/13cr.com/]https://223.5.5.5/dns-query
 [/13e7.com/]https://223.5.5.5/dns-query
 [/13ejob.com/]https://223.5.5.5/dns-query
-[/13eu.com/]https://223.5.5.5/dns-query
 [/13freight.com/]https://223.5.5.5/dns-query
 [/13gm.com/]https://223.5.5.5/dns-query
 [/13jue.com/]https://223.5.5.5/dns-query
@@ -1968,7 +1962,6 @@ quic://dns.tunnel.redteam.club:853
 [/169666.xyz/]https://223.5.5.5/dns-query
 [/169700.com/]https://223.5.5.5/dns-query
 [/16999.com/]https://223.5.5.5/dns-query
-[/169gold.net/]https://223.5.5.5/dns-query
 [/169it.com/]https://223.5.5.5/dns-query
 [/169kang.com/]https://223.5.5.5/dns-query
 [/169ol.com/]https://223.5.5.5/dns-query
@@ -1981,7 +1974,6 @@ quic://dns.tunnel.redteam.club:853
 [/16game.net/]https://223.5.5.5/dns-query
 [/16hyt.com/]https://223.5.5.5/dns-query
 [/16ker.com/]https://223.5.5.5/dns-query
-[/16kxsw.com/]https://223.5.5.5/dns-query
 [/16lao.com/]https://223.5.5.5/dns-query
 [/16map.com/]https://223.5.5.5/dns-query
 [/16mngb.com/]https://223.5.5.5/dns-query
@@ -2021,7 +2013,6 @@ quic://dns.tunnel.redteam.club:853
 [/17207.com/]https://223.5.5.5/dns-query
 [/172haoka.vip/]https://223.5.5.5/dns-query
 [/172l.com/]https://223.5.5.5/dns-query
-[/172llk.com/]https://223.5.5.5/dns-query
 [/172tt.com/]https://223.5.5.5/dns-query
 [/173.com/]https://223.5.5.5/dns-query
 [/1732.com/]https://223.5.5.5/dns-query
@@ -2428,6 +2419,7 @@ quic://dns.tunnel.redteam.club:853
 [/19pay.net/]https://223.5.5.5/dns-query
 [/19ued.com/]https://223.5.5.5/dns-query
 [/19where.com/]https://223.5.5.5/dns-query
+[/19x19.com/]https://223.5.5.5/dns-query
 [/19yxw.com/]https://223.5.5.5/dns-query
 [/19zhan.com/]https://223.5.5.5/dns-query
 [/1a22.com/]https://223.5.5.5/dns-query
@@ -2894,7 +2886,6 @@ quic://dns.tunnel.redteam.club:853
 [/2345soso.com/]https://223.5.5.5/dns-query
 [/234du.com/]https://223.5.5.5/dns-query
 [/234f.com/]https://223.5.5.5/dns-query
-[/235.net/]https://223.5.5.5/dns-query
 [/2356.com/]https://223.5.5.5/dns-query
 [/236400.com/]https://223.5.5.5/dns-query
 [/236501.xyz/]https://223.5.5.5/dns-query
@@ -2950,7 +2941,6 @@ quic://dns.tunnel.redteam.club:853
 [/24hmb.com/]https://223.5.5.5/dns-query
 [/24jiankong.com/]https://223.5.5.5/dns-query
 [/24k99.com/]https://223.5.5.5/dns-query
-[/24kdh.com/]https://223.5.5.5/dns-query
 [/24ker.com/]https://223.5.5.5/dns-query
 [/24kplus.com/]https://223.5.5.5/dns-query
 [/24maker.com/]https://223.5.5.5/dns-query
@@ -2965,7 +2955,6 @@ quic://dns.tunnel.redteam.club:853
 [/2500sz.com/]https://223.5.5.5/dns-query
 [/250340.com/]https://223.5.5.5/dns-query
 [/251km.com/]https://223.5.5.5/dns-query
-[/252538.com/]https://223.5.5.5/dns-query
 [/25285577.com/]https://223.5.5.5/dns-query
 [/2529.com/]https://223.5.5.5/dns-query
 [/253.com/]https://223.5.5.5/dns-query
@@ -3030,6 +3019,7 @@ quic://dns.tunnel.redteam.club:853
 [/26595.com/]https://223.5.5.5/dns-query
 [/265g.com/]https://223.5.5.5/dns-query
 [/265o.com/]https://223.5.5.5/dns-query
+[/266.com/]https://223.5.5.5/dns-query
 [/266.la/]https://223.5.5.5/dns-query
 [/266680.com/]https://223.5.5.5/dns-query
 [/266wan.com/]https://223.5.5.5/dns-query
@@ -3969,6 +3959,7 @@ quic://dns.tunnel.redteam.club:853
 [/391065.com/]https://223.5.5.5/dns-query
 [/3911.com/]https://223.5.5.5/dns-query
 [/391k.com/]https://223.5.5.5/dns-query
+[/392766.net/]https://223.5.5.5/dns-query
 [/393.com/]https://223.5.5.5/dns-query
 [/3937.com/]https://223.5.5.5/dns-query
 [/3952j.com/]https://223.5.5.5/dns-query
@@ -4090,6 +4081,7 @@ quic://dns.tunnel.redteam.club:853
 [/3gosc.com/]https://223.5.5.5/dns-query
 [/3gpk.net/]https://223.5.5.5/dns-query
 [/3gqqw.com/]https://223.5.5.5/dns-query
+[/3gsdxu.com/]https://223.5.5.5/dns-query
 [/3gsou.com/]https://223.5.5.5/dns-query
 [/3gu.com/]https://223.5.5.5/dns-query
 [/3gus.com/]https://223.5.5.5/dns-query
@@ -4942,7 +4934,6 @@ quic://dns.tunnel.redteam.club:853
 [/51lingji.com/]https://223.5.5.5/dns-query
 [/51liucheng.com/]https://223.5.5.5/dns-query
 [/51lucy.com/]https://223.5.5.5/dns-query
-[/51luying.com/]https://223.5.5.5/dns-query
 [/51lzr.com/]https://223.5.5.5/dns-query
 [/51mag.com/]https://223.5.5.5/dns-query
 [/51maiquan.com/]https://223.5.5.5/dns-query
@@ -5198,7 +5189,6 @@ quic://dns.tunnel.redteam.club:853
 [/51youdian.com/]https://223.5.5.5/dns-query
 [/51yougo.com/]https://223.5.5.5/dns-query
 [/51youth.com/]https://223.5.5.5/dns-query
-[/51youz.com/]https://223.5.5.5/dns-query
 [/51ys.com/]https://223.5.5.5/dns-query
 [/51ytg.com/]https://223.5.5.5/dns-query
 [/51yuansu.com/]https://223.5.5.5/dns-query
@@ -5279,7 +5269,6 @@ quic://dns.tunnel.redteam.club:853
 [/5210601.com/]https://223.5.5.5/dns-query
 [/52112.com/]https://223.5.5.5/dns-query
 [/5211413.com/]https://223.5.5.5/dns-query
-[/52115211.com/]https://223.5.5.5/dns-query
 [/5211game.com/]https://223.5.5.5/dns-query
 [/521698.com/]https://223.5.5.5/dns-query
 [/52177.com/]https://223.5.5.5/dns-query
@@ -5343,7 +5332,6 @@ quic://dns.tunnel.redteam.club:853
 [/52bjd.com/]https://223.5.5.5/dns-query
 [/52bji.com/]https://223.5.5.5/dns-query
 [/52bjy.com/]https://223.5.5.5/dns-query
-[/52bqg.com/]https://223.5.5.5/dns-query
 [/52bus.com/]https://223.5.5.5/dns-query
 [/52bwg.com/]https://223.5.5.5/dns-query
 [/52by.com/]https://223.5.5.5/dns-query
@@ -6091,7 +6079,6 @@ quic://dns.tunnel.redteam.club:853
 [/5kda.com/]https://223.5.5.5/dns-query
 [/5khouse.com/]https://223.5.5.5/dns-query
 [/5kmw.com/]https://223.5.5.5/dns-query
-[/5kolrzr5.work/]https://223.5.5.5/dns-query
 [/5kwuke.com/]https://223.5.5.5/dns-query
 [/5lanren.com/]https://223.5.5.5/dns-query
 [/5lbw.com/]https://223.5.5.5/dns-query
@@ -6182,6 +6169,7 @@ quic://dns.tunnel.redteam.club:853
 [/6000feet.com/]https://223.5.5.5/dns-query
 [/6002255.com/]https://223.5.5.5/dns-query
 [/600280.com/]https://223.5.5.5/dns-query
+[/600282.net/]https://223.5.5.5/dns-query
 [/6006.xin/]https://223.5.5.5/dns-query
 [/600895.com/]https://223.5.5.5/dns-query
 [/600yj.com/]https://223.5.5.5/dns-query
@@ -6401,7 +6389,6 @@ quic://dns.tunnel.redteam.club:853
 [/66825.com/]https://223.5.5.5/dns-query
 [/668559.com/]https://223.5.5.5/dns-query
 [/6686com1042.app/]https://223.5.5.5/dns-query
-[/6686com740.app/]https://223.5.5.5/dns-query
 [/6688.com/]https://223.5.5.5/dns-query
 [/668app.com/]https://223.5.5.5/dns-query
 [/668cdn.cc/]https://223.5.5.5/dns-query
@@ -6672,6 +6659,7 @@ quic://dns.tunnel.redteam.club:853
 [/6z6z.com/]https://223.5.5.5/dns-query
 [/6ze.net/]https://223.5.5.5/dns-query
 [/6zu.com/]https://223.5.5.5/dns-query
+[/7-11bj.com/]https://223.5.5.5/dns-query
 [/7-meeting.com/]https://223.5.5.5/dns-query
 [/7-mi.net/]https://223.5.5.5/dns-query
 [/7-vk.com/]https://223.5.5.5/dns-query
@@ -6700,7 +6688,6 @@ quic://dns.tunnel.redteam.club:853
 [/70soft.com/]https://223.5.5.5/dns-query
 [/70ym.com/]https://223.5.5.5/dns-query
 [/70yx.com/]https://223.5.5.5/dns-query
-[/71.com/]https://223.5.5.5/dns-query
 [/71.net/]https://223.5.5.5/dns-query
 [/711199.com/]https://223.5.5.5/dns-query
 [/7114.com/]https://223.5.5.5/dns-query
@@ -7273,7 +7260,6 @@ quic://dns.tunnel.redteam.club:853
 [/8203app.com/]https://223.5.5.5/dns-query
 [/8211.com/]https://223.5.5.5/dns-query
 [/82129.org/]https://223.5.5.5/dns-query
-[/821346.com/]https://223.5.5.5/dns-query
 [/821ccyy07.com/]https://223.5.5.5/dns-query
 [/82250856.com/]https://223.5.5.5/dns-query
 [/822644.com/]https://223.5.5.5/dns-query
@@ -7351,7 +7337,6 @@ quic://dns.tunnel.redteam.club:853
 [/85384.com/]https://223.5.5.5/dns-query
 [/853lab.com/]https://223.5.5.5/dns-query
 [/854255.com/]https://223.5.5.5/dns-query
-[/854622.com/]https://223.5.5.5/dns-query
 [/8558.org/]https://223.5.5.5/dns-query
 [/85679999.com/]https://223.5.5.5/dns-query
 [/85880234.com/]https://223.5.5.5/dns-query
@@ -7431,7 +7416,6 @@ quic://dns.tunnel.redteam.club:853
 [/86ps.net/]https://223.5.5.5/dns-query
 [/86rexian.com/]https://223.5.5.5/dns-query
 [/86sb.com/]https://223.5.5.5/dns-query
-[/86sh-edu.com/]https://223.5.5.5/dns-query
 [/86tec.com/]https://223.5.5.5/dns-query
 [/86ty.com/]https://223.5.5.5/dns-query
 [/86uuu.com/]https://223.5.5.5/dns-query
@@ -7510,7 +7494,6 @@ quic://dns.tunnel.redteam.club:853
 [/8858924.com/]https://223.5.5.5/dns-query
 [/8860.net/]https://223.5.5.5/dns-query
 [/8864.com/]https://223.5.5.5/dns-query
-[/8864.org/]https://223.5.5.5/dns-query
 [/8866.org/]https://223.5.5.5/dns-query
 [/886623.com/]https://223.5.5.5/dns-query
 [/8866886688.com/]https://223.5.5.5/dns-query
@@ -7571,7 +7554,6 @@ quic://dns.tunnel.redteam.club:853
 [/88lan.com/]https://223.5.5.5/dns-query
 [/88laser.com/]https://223.5.5.5/dns-query
 [/88lianmengtu.com/]https://223.5.5.5/dns-query
-[/88lm06.com/]https://223.5.5.5/dns-query
 [/88lm12.com/]https://223.5.5.5/dns-query
 [/88lm15.com/]https://223.5.5.5/dns-query
 [/88lot.com/]https://223.5.5.5/dns-query
@@ -7690,7 +7672,6 @@ quic://dns.tunnel.redteam.club:853
 [/8ryx.com/]https://223.5.5.5/dns-query
 [/8s123.com/]https://223.5.5.5/dns-query
 [/8so.net/]https://223.5.5.5/dns-query
-[/8suan.com/]https://223.5.5.5/dns-query
 [/8t.cx/]https://223.5.5.5/dns-query
 [/8tgh.com/]https://223.5.5.5/dns-query
 [/8tool.club/]https://223.5.5.5/dns-query
@@ -8555,7 +8536,6 @@ quic://dns.tunnel.redteam.club:853
 [/9clive.com/]https://223.5.5.5/dns-query
 [/9conn.net/]https://223.5.5.5/dns-query
 [/9d19.com/]https://223.5.5.5/dns-query
-[/9d4d.com/]https://223.5.5.5/dns-query
 [/9damao.com/]https://223.5.5.5/dns-query
 [/9damao.net/]https://223.5.5.5/dns-query
 [/9day.cc/]https://223.5.5.5/dns-query
@@ -8986,6 +8966,7 @@ quic://dns.tunnel.redteam.club:853
 [/actime.net/]https://223.5.5.5/dns-query
 [/actions-semi.com/]https://223.5.5.5/dns-query
 [/actionsky.com/]https://223.5.5.5/dns-query
+[/activation-gp.com/]https://223.5.5.5/dns-query
 [/activeclub.net/]https://223.5.5.5/dns-query
 [/activepower.net/]https://223.5.5.5/dns-query
 [/activity04.com/]https://223.5.5.5/dns-query
@@ -9017,7 +8998,6 @@ quic://dns.tunnel.redteam.club:853
 [/ad778.com/]https://223.5.5.5/dns-query
 [/adagaa.com/]https://223.5.5.5/dns-query
 [/adamcoder.com/]https://223.5.5.5/dns-query
-[/adamoid.com/]https://223.5.5.5/dns-query
 [/adanachina.com/]https://223.5.5.5/dns-query
 [/adanxing.com/]https://223.5.5.5/dns-query
 [/adapay.tech/]https://223.5.5.5/dns-query
@@ -9378,7 +9358,6 @@ quic://dns.tunnel.redteam.club:853
 [/ahkemi.com/]https://223.5.5.5/dns-query
 [/ahkende.com/]https://223.5.5.5/dns-query
 [/ahkjksw.com/]https://223.5.5.5/dns-query
-[/ahkphb.com/]https://223.5.5.5/dns-query
 [/ahkxsoft.com/]https://223.5.5.5/dns-query
 [/ahlcn.com/]https://223.5.5.5/dns-query
 [/ahlib.com/]https://223.5.5.5/dns-query
@@ -9777,7 +9756,6 @@ quic://dns.tunnel.redteam.club:853
 [/airchinacargo.com/]https://223.5.5.5/dns-query
 [/airchinagroup.com/]https://223.5.5.5/dns-query
 [/airchinaim.com/]https://223.5.5.5/dns-query
-[/airchinajet.com/]https://223.5.5.5/dns-query
 [/airchinamedia.com/]https://223.5.5.5/dns-query
 [/aircourses.com/]https://223.5.5.5/dns-query
 [/airdali.com/]https://223.5.5.5/dns-query
@@ -9805,7 +9783,6 @@ quic://dns.tunnel.redteam.club:853
 [/airtac.com/]https://223.5.5.5/dns-query
 [/airtofly.com/]https://223.5.5.5/dns-query
 [/airtu.me/]https://223.5.5.5/dns-query
-[/airu.love/]https://223.5.5.5/dns-query
 [/airwalltech.com/]https://223.5.5.5/dns-query
 [/airwh.com/]https://223.5.5.5/dns-query
 [/airworksoft.com/]https://223.5.5.5/dns-query
@@ -10266,6 +10243,7 @@ quic://dns.tunnel.redteam.club:853
 [/aliyunddos1021.com/]https://223.5.5.5/dns-query
 [/aliyunddos1022.com/]https://223.5.5.5/dns-query
 [/aliyunddos1023.com/]https://223.5.5.5/dns-query
+[/aliyunddos1024.com/]https://223.5.5.5/dns-query
 [/aliyunddos1025.com/]https://223.5.5.5/dns-query
 [/aliyunddos1026.com/]https://223.5.5.5/dns-query
 [/aliyunddos1027.com/]https://223.5.5.5/dns-query
@@ -10475,6 +10453,7 @@ quic://dns.tunnel.redteam.club:853
 [/amunion.com/]https://223.5.5.5/dns-query
 [/amuren.com/]https://223.5.5.5/dns-query
 [/amusic.shop/]https://223.5.5.5/dns-query
+[/amvns1.cc/]https://223.5.5.5/dns-query
 [/amyroutes.com/]https://223.5.5.5/dns-query
 [/amysql.com/]https://223.5.5.5/dns-query
 [/amyxun.com/]https://223.5.5.5/dns-query
@@ -10697,6 +10676,7 @@ quic://dns.tunnel.redteam.club:853
 [/antebao.com/]https://223.5.5.5/dns-query
 [/antebo.com/]https://223.5.5.5/dns-query
 [/antekoptics.net/]https://223.5.5.5/dns-query
+[/antespace.com/]https://223.5.5.5/dns-query
 [/antfans.com/]https://223.5.5.5/dns-query
 [/antfin-inc.com/]https://223.5.5.5/dns-query
 [/antfin.com/]https://223.5.5.5/dns-query
@@ -11086,7 +11066,6 @@ quic://dns.tunnel.redteam.club:853
 [/applysquare.net/]https://223.5.5.5/dns-query
 [/appmifile.com/]https://223.5.5.5/dns-query
 [/appnode.com/]https://223.5.5.5/dns-query
-[/appointen.lol/]https://223.5.5.5/dns-query
 [/appol.com/]https://223.5.5.5/dns-query
 [/appotronics.com/]https://223.5.5.5/dns-query
 [/apppoo.com/]https://223.5.5.5/dns-query
@@ -11269,7 +11248,6 @@ quic://dns.tunnel.redteam.club:853
 [/art-child.com/]https://223.5.5.5/dns-query
 [/art138.com/]https://223.5.5.5/dns-query
 [/art238.com/]https://223.5.5.5/dns-query
-[/art456.com/]https://223.5.5.5/dns-query
 [/artacode.com/]https://223.5.5.5/dns-query
 [/artaime.com/]https://223.5.5.5/dns-query
 [/artbookinchina.com/]https://223.5.5.5/dns-query
@@ -11296,11 +11274,11 @@ quic://dns.tunnel.redteam.club:853
 [/artlianhe.com/]https://223.5.5.5/dns-query
 [/artlinkart.com/]https://223.5.5.5/dns-query
 [/artlnk.com/]https://223.5.5.5/dns-query
+[/artmuseumonline.org/]https://223.5.5.5/dns-query
 [/artnchina.com/]https://223.5.5.5/dns-query
 [/artopia-group.com/]https://223.5.5.5/dns-query
 [/artp.cc/]https://223.5.5.5/dns-query
 [/artpangu.com/]https://223.5.5.5/dns-query
-[/artplusall.com/]https://223.5.5.5/dns-query
 [/artpro.com/]https://223.5.5.5/dns-query
 [/artpro.vip/]https://223.5.5.5/dns-query
 [/artproglobal.com/]https://223.5.5.5/dns-query
@@ -11474,7 +11452,6 @@ quic://dns.tunnel.redteam.club:853
 [/asurada.zone/]https://223.5.5.5/dns-query
 [/asus-sh.com/]https://223.5.5.5/dns-query
 [/asussmart.com/]https://223.5.5.5/dns-query
-[/asussz-zp.com/]https://223.5.5.5/dns-query
 [/asusw.net/]https://223.5.5.5/dns-query
 [/asvm.net/]https://223.5.5.5/dns-query
 [/aswetalk.net/]https://223.5.5.5/dns-query
@@ -11510,6 +11487,7 @@ quic://dns.tunnel.redteam.club:853
 [/athaitao.com/]https://223.5.5.5/dns-query
 [/athensgamulch.com/]https://223.5.5.5/dns-query
 [/athmapp.com/]https://223.5.5.5/dns-query
+[/athub.com/]https://223.5.5.5/dns-query
 [/atianqi.com/]https://223.5.5.5/dns-query
 [/atido.com/]https://223.5.5.5/dns-query
 [/atimeli.com/]https://223.5.5.5/dns-query
@@ -11687,6 +11665,7 @@ quic://dns.tunnel.redteam.club:853
 [/avbdx.com/]https://223.5.5.5/dns-query
 [/avc-mr.com/]https://223.5.5.5/dns-query
 [/avc-ott.com/]https://223.5.5.5/dns-query
+[/avdgw.com/]https://223.5.5.5/dns-query
 [/avemaria.fun/]https://223.5.5.5/dns-query
 [/aves.art/]https://223.5.5.5/dns-query
 [/avfline.com/]https://223.5.5.5/dns-query
@@ -11735,7 +11714,6 @@ quic://dns.tunnel.redteam.club:853
 [/aword.net/]https://223.5.5.5/dns-query
 [/awotuan.com/]https://223.5.5.5/dns-query
 [/awoyun.com/]https://223.5.5.5/dns-query
-[/awqmjnevv.com/]https://223.5.5.5/dns-query
 [/awsamazonlab.com/]https://223.5.5.5/dns-query
 [/awsdns-cn-01.biz/]https://223.5.5.5/dns-query
 [/awsdns-cn-01.net/]https://223.5.5.5/dns-query
@@ -12426,6 +12404,7 @@ quic://dns.tunnel.redteam.club:853
 [/banghaiwai.com/]https://223.5.5.5/dns-query
 [/bangivf.com/]https://223.5.5.5/dns-query
 [/bangjiantong.com/]https://223.5.5.5/dns-query
+[/bangju.net/]https://223.5.5.5/dns-query
 [/bangkaixin.com/]https://223.5.5.5/dns-query
 [/bangkao.com/]https://223.5.5.5/dns-query
 [/bangkaow.com/]https://223.5.5.5/dns-query
@@ -12484,7 +12463,6 @@ quic://dns.tunnel.redteam.club:853
 [/bankofvolc.com/]https://223.5.5.5/dns-query
 [/bankofyk.com/]https://223.5.5.5/dns-query
 [/bankpublish.com/]https://223.5.5.5/dns-query
-[/banksgd.com/]https://223.5.5.5/dns-query
 [/banksteel.com/]https://223.5.5.5/dns-query
 [/bankyy.net/]https://223.5.5.5/dns-query
 [/banlikanban.com/]https://223.5.5.5/dns-query
@@ -12550,7 +12528,6 @@ quic://dns.tunnel.redteam.club:853
 [/baobeiy.com/]https://223.5.5.5/dns-query
 [/baocdn.com/]https://223.5.5.5/dns-query
 [/baochaojianghu.com/]https://223.5.5.5/dns-query
-[/baochenxs.com/]https://223.5.5.5/dns-query
 [/baochenykk.com/]https://223.5.5.5/dns-query
 [/baochunyiran.com/]https://223.5.5.5/dns-query
 [/baodan100.com/]https://223.5.5.5/dns-query
@@ -12619,6 +12596,7 @@ quic://dns.tunnel.redteam.club:853
 [/baomidou.com/]https://223.5.5.5/dns-query
 [/baomihua.com/]https://223.5.5.5/dns-query
 [/baoming.com/]https://223.5.5.5/dns-query
+[/baoming.work/]https://223.5.5.5/dns-query
 [/baomingge.com/]https://223.5.5.5/dns-query
 [/baomitu.com/]https://223.5.5.5/dns-query
 [/baomtx.com/]https://223.5.5.5/dns-query
@@ -12925,7 +12903,6 @@ quic://dns.tunnel.redteam.club:853
 [/bcysh.com/]https://223.5.5.5/dns-query
 [/bczcdn.com/]https://223.5.5.5/dns-query
 [/bczs.net/]https://223.5.5.5/dns-query
-[/bd-apaas.com/]https://223.5.5.5/dns-query
 [/bd-caict.com/]https://223.5.5.5/dns-query
 [/bd-film.cc/]https://223.5.5.5/dns-query
 [/bd-film.co/]https://223.5.5.5/dns-query
@@ -12963,7 +12940,6 @@ quic://dns.tunnel.redteam.club:853
 [/bdispatch.com/]https://223.5.5.5/dns-query
 [/bdjjy.com/]https://223.5.5.5/dns-query
 [/bdjz.vip/]https://223.5.5.5/dns-query
-[/bdkbp.com/]https://223.5.5.5/dns-query
 [/bdkyr.com/]https://223.5.5.5/dns-query
 [/bdlcqjw.com/]https://223.5.5.5/dns-query
 [/bdmozon.com/]https://223.5.5.5/dns-query
@@ -13139,12 +13115,15 @@ quic://dns.tunnel.redteam.club:853
 [/beijing-marathon.com/]https://223.5.5.5/dns-query
 [/beijing-office.com/]https://223.5.5.5/dns-query
 [/beijing-time.org/]https://223.5.5.5/dns-query
+[/beijing101.com/]https://223.5.5.5/dns-query
 [/beijing120.com/]https://223.5.5.5/dns-query
 [/beijing518.com/]https://223.5.5.5/dns-query
 [/beijingbang.com/]https://223.5.5.5/dns-query
 [/beijingbaomu.com/]https://223.5.5.5/dns-query
 [/beijingcenterforthearts.com/]https://223.5.5.5/dns-query
 [/beijingfenxiangkeji.com/]https://223.5.5.5/dns-query
+[/beijingfojiao.com/]https://223.5.5.5/dns-query
+[/beijinghuiyizhongxin.com/]https://223.5.5.5/dns-query
 [/beijingkbd.com/]https://223.5.5.5/dns-query
 [/beijingnorthstar.com/]https://223.5.5.5/dns-query
 [/beijingrc.com/]https://223.5.5.5/dns-query
@@ -13152,7 +13131,9 @@ quic://dns.tunnel.redteam.club:853
 [/beijingrenyi.com/]https://223.5.5.5/dns-query
 [/beijingsanchi.com/]https://223.5.5.5/dns-query
 [/beijingsheying.net/]https://223.5.5.5/dns-query
+[/beijingtaixie.com/]https://223.5.5.5/dns-query
 [/beijingtoon.com/]https://223.5.5.5/dns-query
+[/beijingtrucks.com/]https://223.5.5.5/dns-query
 [/beijingwatch.com/]https://223.5.5.5/dns-query
 [/beijingxiantour.com/]https://223.5.5.5/dns-query
 [/beijingxinzhuoyue.com/]https://223.5.5.5/dns-query
@@ -13353,7 +13334,6 @@ quic://dns.tunnel.redteam.club:853
 [/bestlee.net/]https://223.5.5.5/dns-query
 [/bestlosslessmusic.com/]https://223.5.5.5/dns-query
 [/bestone.vip/]https://223.5.5.5/dns-query
-[/bestopview.com/]https://223.5.5.5/dns-query
 [/bestpay.net/]https://223.5.5.5/dns-query
 [/bestpeng.com/]https://223.5.5.5/dns-query
 [/bestqliang.com/]https://223.5.5.5/dns-query
@@ -13608,7 +13588,6 @@ quic://dns.tunnel.redteam.club:853
 [/bianzhirensheng.com/]https://223.5.5.5/dns-query
 [/biao12.com/]https://223.5.5.5/dns-query
 [/biao689.com/]https://223.5.5.5/dns-query
-[/biaobiaoge.com/]https://223.5.5.5/dns-query
 [/biaoceo.com/]https://223.5.5.5/dns-query
 [/biaodan.info/]https://223.5.5.5/dns-query
 [/biaodan100.com/]https://223.5.5.5/dns-query
@@ -13718,6 +13697,7 @@ quic://dns.tunnel.redteam.club:853
 [/bigniu.com/]https://223.5.5.5/dns-query
 [/bignox.com/]https://223.5.5.5/dns-query
 [/bigo.sg/]https://223.5.5.5/dns-query
+[/bigogm.com/]https://223.5.5.5/dns-query
 [/bigolive.tv/]https://223.5.5.5/dns-query
 [/bigops.com/]https://223.5.5.5/dns-query
 [/bigplayers.com/]https://223.5.5.5/dns-query
@@ -13803,6 +13783,7 @@ quic://dns.tunnel.redteam.club:853
 [/bimige.net/]https://223.5.5.5/dns-query
 [/bimiwuxs.com/]https://223.5.5.5/dns-query
 [/bimjoy.com/]https://223.5.5.5/dns-query
+[/bimsa.net/]https://223.5.5.5/dns-query
 [/binary-semi.com/]https://223.5.5.5/dns-query
 [/binaryai.net/]https://223.5.5.5/dns-query
 [/binaryai.tech/]https://223.5.5.5/dns-query
@@ -13879,7 +13860,6 @@ quic://dns.tunnel.redteam.club:853
 [/biohuaxing.com/]https://223.5.5.5/dns-query
 [/biohyalux.com/]https://223.5.5.5/dns-query
 [/bioinfo-scrounger.com/]https://223.5.5.5/dns-query
-[/bioitee.com/]https://223.5.5.5/dns-query
 [/bioktech.com/]https://223.5.5.5/dns-query
 [/biolab.xyz/]https://223.5.5.5/dns-query
 [/bionav.cc/]https://223.5.5.5/dns-query
@@ -14003,7 +13983,6 @@ quic://dns.tunnel.redteam.club:853
 [/bitscn.com/]https://223.5.5.5/dns-query
 [/bitsde.com/]https://223.5.5.5/dns-query
 [/bitse.com/]https://223.5.5.5/dns-query
-[/bitsqa.com/]https://223.5.5.5/dns-query
 [/bituq.com/]https://223.5.5.5/dns-query
 [/bitvh.com/]https://223.5.5.5/dns-query
 [/biubiu.tv/]https://223.5.5.5/dns-query
@@ -14075,6 +14054,7 @@ quic://dns.tunnel.redteam.club:853
 [/bj-git.com/]https://223.5.5.5/dns-query
 [/bj-hengdeli.com/]https://223.5.5.5/dns-query
 [/bj-hzzs.com/]https://223.5.5.5/dns-query
+[/bj-ipcf.org/]https://223.5.5.5/dns-query
 [/bj-jinsly.com/]https://223.5.5.5/dns-query
 [/bj-kpn.com/]https://223.5.5.5/dns-query
 [/bj-sea.com/]https://223.5.5.5/dns-query
@@ -14089,12 +14069,14 @@ quic://dns.tunnel.redteam.club:853
 [/bj-zkhb.com/]https://223.5.5.5/dns-query
 [/bj-zywh.com/]https://223.5.5.5/dns-query
 [/bj003.com/]https://223.5.5.5/dns-query
+[/bj0yx.com/]https://223.5.5.5/dns-query
 [/bj1.api.bing.com/]https://223.5.5.5/dns-query
 [/bj1000e.com/]https://223.5.5.5/dns-query
 [/bj148.org/]https://223.5.5.5/dns-query
 [/bj159zx.com/]https://223.5.5.5/dns-query
 [/bj1777.com/]https://223.5.5.5/dns-query
 [/bj315.org/]https://223.5.5.5/dns-query
+[/bj35.com/]https://223.5.5.5/dns-query
 [/bj51.org/]https://223.5.5.5/dns-query
 [/bj520.com/]https://223.5.5.5/dns-query
 [/bj597.com/]https://223.5.5.5/dns-query
@@ -14107,6 +14089,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjadn.net/]https://223.5.5.5/dns-query
 [/bjagro.com/]https://223.5.5.5/dns-query
 [/bjaja.com/]https://223.5.5.5/dns-query
+[/bjartmuseum.com/]https://223.5.5.5/dns-query
 [/bjatv.com/]https://223.5.5.5/dns-query
 [/bjbalb.com/]https://223.5.5.5/dns-query
 [/bjbaodao.net/]https://223.5.5.5/dns-query
@@ -14114,6 +14097,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjbeifangjx.com/]https://223.5.5.5/dns-query
 [/bjbfdt.com/]https://223.5.5.5/dns-query
 [/bjbfsj.com/]https://223.5.5.5/dns-query
+[/bjbpi.com/]https://223.5.5.5/dns-query
 [/bjbtfu.com/]https://223.5.5.5/dns-query
 [/bjbus.com/]https://223.5.5.5/dns-query
 [/bjbxg8.com/]https://223.5.5.5/dns-query
@@ -14121,6 +14105,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjbzc.com/]https://223.5.5.5/dns-query
 [/bjbzszxy.com/]https://223.5.5.5/dns-query
 [/bjcae.com/]https://223.5.5.5/dns-query
+[/bjcag.com/]https://223.5.5.5/dns-query
 [/bjcancer.org/]https://223.5.5.5/dns-query
 [/bjcankao.com/]https://223.5.5.5/dns-query
 [/bjcathay.com/]https://223.5.5.5/dns-query
@@ -14156,15 +14141,19 @@ quic://dns.tunnel.redteam.club:853
 [/bjdongxin.com/]https://223.5.5.5/dns-query
 [/bjdrxy.com/]https://223.5.5.5/dns-query
 [/bjdsppa.com/]https://223.5.5.5/dns-query
+[/bjdth.com/]https://223.5.5.5/dns-query
+[/bjdw.org/]https://223.5.5.5/dns-query
 [/bjeasycom.com/]https://223.5.5.5/dns-query
 [/bjecutuning.com/]https://223.5.5.5/dns-query
 [/bjef.com/]https://223.5.5.5/dns-query
 [/bjepark.com/]https://223.5.5.5/dns-query
+[/bjesg.com/]https://223.5.5.5/dns-query
 [/bjewaytek.com/]https://223.5.5.5/dns-query
 [/bjexmail.com/]https://223.5.5.5/dns-query
 [/bjexx.com/]https://223.5.5.5/dns-query
 [/bjfmart.com/]https://223.5.5.5/dns-query
 [/bjfqy.com/]https://223.5.5.5/dns-query
+[/bjfriendshiphotel.com/]https://223.5.5.5/dns-query
 [/bjfsali.com/]https://223.5.5.5/dns-query
 [/bjfsmc.com/]https://223.5.5.5/dns-query
 [/bjfyw.org/]https://223.5.5.5/dns-query
@@ -14177,6 +14166,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjgujibaohu.com/]https://223.5.5.5/dns-query
 [/bjgumu.com/]https://223.5.5.5/dns-query
 [/bjgxhy.com/]https://223.5.5.5/dns-query
+[/bjgxs.com/]https://223.5.5.5/dns-query
 [/bjgymq.com/]https://223.5.5.5/dns-query
 [/bjgyzjw.com/]https://223.5.5.5/dns-query
 [/bjgzc.com/]https://223.5.5.5/dns-query
@@ -14203,14 +14193,17 @@ quic://dns.tunnel.redteam.club:853
 [/bjhuizhu.com/]https://223.5.5.5/dns-query
 [/bjhwbr.com/]https://223.5.5.5/dns-query
 [/bjhwtx.com/]https://223.5.5.5/dns-query
+[/bjhwxy.com/]https://223.5.5.5/dns-query
 [/bjhyly.com/]https://223.5.5.5/dns-query
 [/bjhytjxjg.com/]https://223.5.5.5/dns-query
 [/bjhzkq.com/]https://223.5.5.5/dns-query
 [/bjiab.com/]https://223.5.5.5/dns-query
+[/bjiae.net/]https://223.5.5.5/dns-query
 [/bjicpark.com/]https://223.5.5.5/dns-query
 [/bjidc.net/]https://223.5.5.5/dns-query
 [/bjidit.com/]https://223.5.5.5/dns-query
 [/bjipwqzx.com/]https://223.5.5.5/dns-query
+[/bjitic.com/]https://223.5.5.5/dns-query
 [/bjiwex.com/]https://223.5.5.5/dns-query
 [/bjjchf.com/]https://223.5.5.5/dns-query
 [/bjjdwx.com/]https://223.5.5.5/dns-query
@@ -14234,6 +14227,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjkaihua.net/]https://223.5.5.5/dns-query
 [/bjkdvm.com/]https://223.5.5.5/dns-query
 [/bjkqj.com/]https://223.5.5.5/dns-query
+[/bjkqyx.com/]https://223.5.5.5/dns-query
 [/bjkrtwl.com/]https://223.5.5.5/dns-query
 [/bjktaz.com/]https://223.5.5.5/dns-query
 [/bjktrh.com/]https://223.5.5.5/dns-query
@@ -14323,9 +14317,11 @@ quic://dns.tunnel.redteam.club:853
 [/bjsheng.com/]https://223.5.5.5/dns-query
 [/bjshyin.com/]https://223.5.5.5/dns-query
 [/bjsidao.com/]https://223.5.5.5/dns-query
+[/bjsinglewindow.com/]https://223.5.5.5/dns-query
 [/bjsj5.com/]https://223.5.5.5/dns-query
 [/bjsjac.com/]https://223.5.5.5/dns-query
 [/bjsjob.com/]https://223.5.5.5/dns-query
+[/bjsjsyly.com/]https://223.5.5.5/dns-query
 [/bjsjwl.com/]https://223.5.5.5/dns-query
 [/bjsjxtm.com/]https://223.5.5.5/dns-query
 [/bjsly.com/]https://223.5.5.5/dns-query
@@ -14342,6 +14338,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjsubway.com/]https://223.5.5.5/dns-query
 [/bjsuewin.com/]https://223.5.5.5/dns-query
 [/bjsunhouse.com/]https://223.5.5.5/dns-query
+[/bjsxdgzc.com/]https://223.5.5.5/dns-query
 [/bjsxt.com/]https://223.5.5.5/dns-query
 [/bjsydq.com/]https://223.5.5.5/dns-query
 [/bjsyqw.com/]https://223.5.5.5/dns-query
@@ -14379,6 +14376,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjwftd.com/]https://223.5.5.5/dns-query
 [/bjwfz.com/]https://223.5.5.5/dns-query
 [/bjwhds.com/]https://223.5.5.5/dns-query
+[/bjwhmedia.com/]https://223.5.5.5/dns-query
 [/bjwig.com/]https://223.5.5.5/dns-query
 [/bjwkhotel.com/]https://223.5.5.5/dns-query
 [/bjwkzl.com/]https://223.5.5.5/dns-query
@@ -14420,6 +14418,7 @@ quic://dns.tunnel.redteam.club:853
 [/bjyirui.com/]https://223.5.5.5/dns-query
 [/bjyjqi.com/]https://223.5.5.5/dns-query
 [/bjyme.com/]https://223.5.5.5/dns-query
+[/bjyouth.net/]https://223.5.5.5/dns-query
 [/bjyoxr.com/]https://223.5.5.5/dns-query
 [/bjyqsj.com/]https://223.5.5.5/dns-query
 [/bjys9.net/]https://223.5.5.5/dns-query
@@ -14617,6 +14616,7 @@ quic://dns.tunnel.redteam.club:853
 [/bluelettercn.org/]https://223.5.5.5/dns-query
 [/bluelightfuse.com/]https://223.5.5.5/dns-query
 [/bluelive.me/]https://223.5.5.5/dns-query
+[/bluenotechina.com/]https://223.5.5.5/dns-query
 [/blueplus.cc/]https://223.5.5.5/dns-query
 [/bluepoch.com/]https://223.5.5.5/dns-query
 [/bluesdream.com/]https://223.5.5.5/dns-query
@@ -15143,6 +15143,7 @@ quic://dns.tunnel.redteam.club:853
 [/bscea.org/]https://223.5.5.5/dns-query
 [/bscedge.com/]https://223.5.5.5/dns-query
 [/bscgslb.com/]https://223.5.5.5/dns-query
+[/bscomc.com/]https://223.5.5.5/dns-query
 [/bscsjsn.com/]https://223.5.5.5/dns-query
 [/bscstorage.com/]https://223.5.5.5/dns-query
 [/bscstorage.net/]https://223.5.5.5/dns-query
@@ -15263,8 +15264,6 @@ quic://dns.tunnel.redteam.club:853
 [/btiii.com/]https://223.5.5.5/dns-query
 [/btime.com/]https://223.5.5.5/dns-query
 [/btjzgc.com/]https://223.5.5.5/dns-query
-[/btlbxg.com/]https://223.5.5.5/dns-query
-[/btln.net/]https://223.5.5.5/dns-query
 [/btltl.com/]https://223.5.5.5/dns-query
 [/btmayi.cc/]https://223.5.5.5/dns-query
 [/btmeiju.com/]https://223.5.5.5/dns-query
@@ -15436,7 +15435,6 @@ quic://dns.tunnel.redteam.club:853
 [/buzhi.com/]https://223.5.5.5/dns-query
 [/buzhi5.com/]https://223.5.5.5/dns-query
 [/buzhibushi.com/]https://223.5.5.5/dns-query
-[/buzzads.com/]https://223.5.5.5/dns-query
 [/bvdwp.com/]https://223.5.5.5/dns-query
 [/bvfcdn.com/]https://223.5.5.5/dns-query
 [/bvfcdn2.com/]https://223.5.5.5/dns-query
@@ -15677,6 +15675,7 @@ quic://dns.tunnel.redteam.club:853
 [/bzd6688.com/]https://223.5.5.5/dns-query
 [/bzddrive.com/]https://223.5.5.5/dns-query
 [/bzfar.com/]https://223.5.5.5/dns-query
+[/bzfpms.com/]https://223.5.5.5/dns-query
 [/bzfscl.com/]https://223.5.5.5/dns-query
 [/bzfwq.com/]https://223.5.5.5/dns-query
 [/bzfwy.com/]https://223.5.5.5/dns-query
@@ -15784,7 +15783,6 @@ quic://dns.tunnel.redteam.club:853
 [/caac2019.com/]https://223.5.5.5/dns-query
 [/caacbook.com/]https://223.5.5.5/dns-query
 [/caacsri.com/]https://223.5.5.5/dns-query
-[/caagd.com/]https://223.5.5.5/dns-query
 [/caagei.com/]https://223.5.5.5/dns-query
 [/caaladi.com/]https://223.5.5.5/dns-query
 [/caanb.com/]https://223.5.5.5/dns-query
@@ -15794,7 +15792,6 @@ quic://dns.tunnel.redteam.club:853
 [/caayee.com/]https://223.5.5.5/dns-query
 [/cabbeen.com/]https://223.5.5.5/dns-query
 [/cabc-online.com/]https://223.5.5.5/dns-query
-[/cabck.com/]https://223.5.5.5/dns-query
 [/cabee.org/]https://223.5.5.5/dns-query
 [/cabhr.com/]https://223.5.5.5/dns-query
 [/cabinetbuy.com/]https://223.5.5.5/dns-query
@@ -15955,7 +15952,6 @@ quic://dns.tunnel.redteam.club:853
 [/cait.com/]https://223.5.5.5/dns-query
 [/cait1981.com/]https://223.5.5.5/dns-query
 [/caitaimg2.com/]https://223.5.5.5/dns-query
-[/caitpottercreativellc.com/]https://223.5.5.5/dns-query
 [/caitun.com/]https://223.5.5.5/dns-query
 [/caituyou.com/]https://223.5.5.5/dns-query
 [/caiu8.com/]https://223.5.5.5/dns-query
@@ -16232,6 +16228,7 @@ quic://dns.tunnel.redteam.club:853
 [/casvino.com/]https://223.5.5.5/dns-query
 [/casvm.com/]https://223.5.5.5/dns-query
 [/casystar.com/]https://223.5.5.5/dns-query
+[/cat-cn.com/]https://223.5.5.5/dns-query
 [/cat898.com/]https://223.5.5.5/dns-query
 [/catalike.com/]https://223.5.5.5/dns-query
 [/catalyst-loading.com/]https://223.5.5.5/dns-query
@@ -16713,7 +16710,6 @@ quic://dns.tunnel.redteam.club:853
 [/cdhxdq.com/]https://223.5.5.5/dns-query
 [/cdidc.net/]https://223.5.5.5/dns-query
 [/cditv.tv/]https://223.5.5.5/dns-query
-[/cdjact.com/]https://223.5.5.5/dns-query
 [/cdjfwy.com/]https://223.5.5.5/dns-query
 [/cdjhqczl.com/]https://223.5.5.5/dns-query
 [/cdjiaoan.com/]https://223.5.5.5/dns-query
@@ -16942,7 +16938,6 @@ quic://dns.tunnel.redteam.club:853
 [/cdxczl.com/]https://223.5.5.5/dns-query
 [/cdxrdz.com/]https://223.5.5.5/dns-query
 [/cdxsxbx.com/]https://223.5.5.5/dns-query
-[/cdxuyang.com/]https://223.5.5.5/dns-query
 [/cdxwcx.com/]https://223.5.5.5/dns-query
 [/cdxwxy.com/]https://223.5.5.5/dns-query
 [/cdxydb.com/]https://223.5.5.5/dns-query
@@ -17166,6 +17161,7 @@ quic://dns.tunnel.redteam.club:853
 [/cfdp.org/]https://223.5.5.5/dns-query
 [/cfej.net/]https://223.5.5.5/dns-query
 [/cfeks.com/]https://223.5.5.5/dns-query
+[/cfgbj.com/]https://223.5.5.5/dns-query
 [/cfgjwl.com/]https://223.5.5.5/dns-query
 [/cfgpu.com/]https://223.5.5.5/dns-query
 [/cfgyp.com/]https://223.5.5.5/dns-query
@@ -17535,6 +17531,7 @@ quic://dns.tunnel.redteam.club:853
 [/chaping.tv/]https://223.5.5.5/dns-query
 [/chappell1811.com/]https://223.5.5.5/dns-query
 [/charge-mobile.com/]https://223.5.5.5/dns-query
+[/chargedot.com/]https://223.5.5.5/dns-query
 [/chargerlab.com/]https://223.5.5.5/dns-query
 [/chargerlink.com/]https://223.5.5.5/dns-query
 [/charmdeer.com/]https://223.5.5.5/dns-query
@@ -17601,7 +17598,6 @@ quic://dns.tunnel.redteam.club:853
 [/che6che5.com/]https://223.5.5.5/dns-query
 [/cheaa.com/]https://223.5.5.5/dns-query
 [/cheapdoma.com/]https://223.5.5.5/dns-query
-[/cheapplantpots.com/]https://223.5.5.5/dns-query
 [/cheapreplicawatch.com/]https://223.5.5.5/dns-query
 [/cheapviagraws.com/]https://223.5.5.5/dns-query
 [/cheapyou.com/]https://223.5.5.5/dns-query
@@ -17823,7 +17819,6 @@ quic://dns.tunnel.redteam.club:853
 [/cheonhyeong.com/]https://223.5.5.5/dns-query
 [/cheoo.com/]https://223.5.5.5/dns-query
 [/cheoz.com/]https://223.5.5.5/dns-query
-[/cherimm.com/]https://223.5.5.5/dns-query
 [/cherymanuals.com/]https://223.5.5.5/dns-query
 [/cheshenghuo.com/]https://223.5.5.5/dns-query
 [/cheshi-img.com/]https://223.5.5.5/dns-query
@@ -17945,7 +17940,6 @@ quic://dns.tunnel.redteam.club:853
 [/china-ceec-cooperation.com/]https://223.5.5.5/dns-query
 [/china-cfa.org/]https://223.5.5.5/dns-query
 [/china-channel.com/]https://223.5.5.5/dns-query
-[/china-chuwei.com/]https://223.5.5.5/dns-query
 [/china-cicc.org/]https://223.5.5.5/dns-query
 [/china-clbj.com/]https://223.5.5.5/dns-query
 [/china-clearing.com/]https://223.5.5.5/dns-query
@@ -19200,6 +19194,7 @@ quic://dns.tunnel.redteam.club:853
 [/cihua.net/]https://223.5.5.5/dns-query
 [/ciia-top.com/]https://223.5.5.5/dns-query
 [/ciicgat.com/]https://223.5.5.5/dns-query
+[/ciicsh.com/]https://223.5.5.5/dns-query
 [/ciie.org/]https://223.5.5.5/dns-query
 [/ciif-expo.com/]https://223.5.5.5/dns-query
 [/ciiip.com/]https://223.5.5.5/dns-query
@@ -19236,6 +19231,7 @@ quic://dns.tunnel.redteam.club:853
 [/cinehello.com/]https://223.5.5.5/dns-query
 [/cingta.com/]https://223.5.5.5/dns-query
 [/ciniao.me/]https://223.5.5.5/dns-query
+[/cinic.com/]https://223.5.5.5/dns-query
 [/cinsee.com/]https://223.5.5.5/dns-query
 [/cinsos.com/]https://223.5.5.5/dns-query
 [/cinyi.com/]https://223.5.5.5/dns-query
@@ -19581,6 +19577,7 @@ quic://dns.tunnel.redteam.club:853
 [/cloudguarding.com/]https://223.5.5.5/dns-query
 [/cloudgx.net/]https://223.5.5.5/dns-query
 [/cloudhin.com/]https://223.5.5.5/dns-query
+[/cloudhlo.com/]https://223.5.5.5/dns-query
 [/cloudhua.com/]https://223.5.5.5/dns-query
 [/cloudhvacr.com/]https://223.5.5.5/dns-query
 [/cloudinnov.com/]https://223.5.5.5/dns-query
@@ -19652,7 +19649,6 @@ quic://dns.tunnel.redteam.club:853
 [/clubweixin.samsung.com/]https://223.5.5.5/dns-query
 [/cluerich.com/]https://223.5.5.5/dns-query
 [/clusterfunk.net/]https://223.5.5.5/dns-query
-[/clw001.com/]https://223.5.5.5/dns-query
 [/clwhk.com/]https://223.5.5.5/dns-query
 [/clx360.com/]https://223.5.5.5/dns-query
 [/clxlb.com/]https://223.5.5.5/dns-query
@@ -19914,6 +19910,7 @@ quic://dns.tunnel.redteam.club:853
 [/cnbooks.org/]https://223.5.5.5/dns-query
 [/cnbp.net/]https://223.5.5.5/dns-query
 [/cnbsm.com/]https://223.5.5.5/dns-query
+[/cnbugs.com/]https://223.5.5.5/dns-query
 [/cnbuses.com/]https://223.5.5.5/dns-query
 [/cnbysc.com/]https://223.5.5.5/dns-query
 [/cnbzol.com/]https://223.5.5.5/dns-query
@@ -20520,6 +20517,7 @@ quic://dns.tunnel.redteam.club:853
 [/co-farming.com/]https://223.5.5.5/dns-query
 [/co-inclusion.org/]https://223.5.5.5/dns-query
 [/co-mall.net/]https://223.5.5.5/dns-query
+[/co-plant.com/]https://223.5.5.5/dns-query
 [/co-trust.com/]https://223.5.5.5/dns-query
 [/co188.com/]https://223.5.5.5/dns-query
 [/co188cdn.com/]https://223.5.5.5/dns-query
@@ -21076,7 +21074,6 @@ quic://dns.tunnel.redteam.club:853
 [/cqem.net/]https://223.5.5.5/dns-query
 [/cqemme.com/]https://223.5.5.5/dns-query
 [/cqenergy.com/]https://223.5.5.5/dns-query
-[/cqfeiyang.xyz/]https://223.5.5.5/dns-query
 [/cqfire.com/]https://223.5.5.5/dns-query
 [/cqfjly.com/]https://223.5.5.5/dns-query
 [/cqfmbank.com/]https://223.5.5.5/dns-query
@@ -21188,7 +21185,6 @@ quic://dns.tunnel.redteam.club:853
 [/cqshenou.com/]https://223.5.5.5/dns-query
 [/cqshipping.com/]https://223.5.5.5/dns-query
 [/cqshouxi.com/]https://223.5.5.5/dns-query
-[/cqskyzj.com/]https://223.5.5.5/dns-query
 [/cqslim.com/]https://223.5.5.5/dns-query
 [/cqslim.net/]https://223.5.5.5/dns-query
 [/cqsms.net/]https://223.5.5.5/dns-query
@@ -21690,7 +21686,6 @@ quic://dns.tunnel.redteam.club:853
 [/ctsho.com/]https://223.5.5.5/dns-query
 [/ctsitravel.com/]https://223.5.5.5/dns-query
 [/ctsscs.com/]https://223.5.5.5/dns-query
-[/ctssr.com/]https://223.5.5.5/dns-query
 [/ctsto.com/]https://223.5.5.5/dns-query
 [/ctszh.com/]https://223.5.5.5/dns-query
 [/cttip.org/]https://223.5.5.5/dns-query
@@ -21788,7 +21783,6 @@ quic://dns.tunnel.redteam.club:853
 [/cupinn.com/]https://223.5.5.5/dns-query
 [/cuplayer.com/]https://223.5.5.5/dns-query
 [/cupmcn.com/]https://223.5.5.5/dns-query
-[/cuqnptrj.shop/]https://223.5.5.5/dns-query
 [/curlc.com/]https://223.5.5.5/dns-query
 [/curtisasia.com/]https://223.5.5.5/dns-query
 [/cusdvs.net/]https://223.5.5.5/dns-query
@@ -21843,7 +21837,6 @@ quic://dns.tunnel.redteam.club:853
 [/cwmcs.com/]https://223.5.5.5/dns-query
 [/cwq.com/]https://223.5.5.5/dns-query
 [/cwtc.com/]https://223.5.5.5/dns-query
-[/cwtele.com/]https://223.5.5.5/dns-query
 [/cwyan.com/]https://223.5.5.5/dns-query
 [/cwz12123.com/]https://223.5.5.5/dns-query
 [/cx-smarthome.com/]https://223.5.5.5/dns-query
@@ -21881,7 +21874,6 @@ quic://dns.tunnel.redteam.club:853
 [/cxhuoyun.com/]https://223.5.5.5/dns-query
 [/cximg.com/]https://223.5.5.5/dns-query
 [/cxisc.com/]https://223.5.5.5/dns-query
-[/cxjbh.com/]https://223.5.5.5/dns-query
 [/cxjrh.com/]https://223.5.5.5/dns-query
 [/cxjt.net/]https://223.5.5.5/dns-query
 [/cxkfwn.com/]https://223.5.5.5/dns-query
@@ -21953,6 +21945,7 @@ quic://dns.tunnel.redteam.club:853
 [/cyb-bot.com/]https://223.5.5.5/dns-query
 [/cyb800.com/]https://223.5.5.5/dns-query
 [/cybaojian.com/]https://223.5.5.5/dns-query
+[/cybertogether.net/]https://223.5.5.5/dns-query
 [/cyberv.shop/]https://223.5.5.5/dns-query
 [/cyberway-china.net/]https://223.5.5.5/dns-query
 [/cybofa.com/]https://223.5.5.5/dns-query
@@ -23170,6 +23163,7 @@ quic://dns.tunnel.redteam.club:853
 [/deepbluenetwork.com/]https://223.5.5.5/dns-query
 [/deepcloudsdp.com/]https://223.5.5.5/dns-query
 [/deepcoin.red/]https://223.5.5.5/dns-query
+[/deepcool.com/]https://223.5.5.5/dns-query
 [/deepepg.com/]https://223.5.5.5/dns-query
 [/deepermobile.com/]https://223.5.5.5/dns-query
 [/deepfun.net/]https://223.5.5.5/dns-query
@@ -23311,10 +23305,10 @@ quic://dns.tunnel.redteam.club:853
 [/deruxi.com/]https://223.5.5.5/dns-query
 [/derzh.com/]https://223.5.5.5/dns-query
 [/des8.com/]https://223.5.5.5/dns-query
+[/desano.com/]https://223.5.5.5/dns-query
 [/desay.com/]https://223.5.5.5/dns-query
 [/desaysv.com/]https://223.5.5.5/dns-query
 [/deserts.io/]https://223.5.5.5/dns-query
-[/deservee.shop/]https://223.5.5.5/dns-query
 [/deshaus.com/]https://223.5.5.5/dns-query
 [/desheng-edu.com/]https://223.5.5.5/dns-query
 [/desheng.net/]https://223.5.5.5/dns-query
@@ -23515,6 +23509,7 @@ quic://dns.tunnel.redteam.club:853
 [/dgegbj.com/]https://223.5.5.5/dns-query
 [/dgfengtu.com/]https://223.5.5.5/dns-query
 [/dgg.net/]https://223.5.5.5/dns-query
+[/dggcyy.com/]https://223.5.5.5/dns-query
 [/dggdk.com/]https://223.5.5.5/dns-query
 [/dgggs.com/]https://223.5.5.5/dns-query
 [/dgghy.com/]https://223.5.5.5/dns-query
@@ -23566,6 +23561,7 @@ quic://dns.tunnel.redteam.club:853
 [/dgsltx.com/]https://223.5.5.5/dns-query
 [/dgsme.org/]https://223.5.5.5/dns-query
 [/dgspk.com/]https://223.5.5.5/dns-query
+[/dgsztyy.com/]https://223.5.5.5/dns-query
 [/dgt-factory.com/]https://223.5.5.5/dns-query
 [/dgt25623.live/]https://223.5.5.5/dns-query
 [/dgtafl.com/]https://223.5.5.5/dns-query
@@ -23641,6 +23637,7 @@ quic://dns.tunnel.redteam.club:853
 [/dhqtech.com/]https://223.5.5.5/dns-query
 [/dhrcbank.com/]https://223.5.5.5/dns-query
 [/dhrest.com/]https://223.5.5.5/dns-query
+[/dhs-sports.com/]https://223.5.5.5/dns-query
 [/dhsky.org/]https://223.5.5.5/dns-query
 [/dhszyy.net/]https://223.5.5.5/dns-query
 [/dht5867.com/]https://223.5.5.5/dns-query
@@ -23880,7 +23877,6 @@ quic://dns.tunnel.redteam.club:853
 [/diexuan.net/]https://223.5.5.5/dns-query
 [/diexun.com/]https://223.5.5.5/dns-query
 [/dieyanli.com/]https://223.5.5.5/dns-query
-[/diezhan.me/]https://223.5.5.5/dns-query
 [/difanapp.com/]https://223.5.5.5/dns-query
 [/difersports.com/]https://223.5.5.5/dns-query
 [/diffusefuture.com/]https://223.5.5.5/dns-query
@@ -24341,6 +24337,7 @@ quic://dns.tunnel.redteam.club:853
 [/dmhmusic.com/]https://223.5.5.5/dns-query
 [/dmhy.com/]https://223.5.5.5/dns-query
 [/dmiug.com/]https://223.5.5.5/dns-query
+[/dmjk120.com/]https://223.5.5.5/dns-query
 [/dmjnb.com/]https://223.5.5.5/dns-query
 [/dmjuups.com/]https://223.5.5.5/dns-query
 [/dmjvip.com/]https://223.5.5.5/dns-query
@@ -24762,7 +24759,6 @@ quic://dns.tunnel.redteam.club:853
 [/doooor.com/]https://223.5.5.5/dns-query
 [/doooor.net/]https://223.5.5.5/dns-query
 [/door-expo.com/]https://223.5.5.5/dns-query
-[/dooreb.com/]https://223.5.5.5/dns-query
 [/doorhr.com/]https://223.5.5.5/dns-query
 [/doorzo.app/]https://223.5.5.5/dns-query
 [/doorzo.net/]https://223.5.5.5/dns-query
@@ -25053,7 +25049,6 @@ quic://dns.tunnel.redteam.club:853
 [/dramx.com/]https://223.5.5.5/dns-query
 [/drartisan.com/]https://223.5.5.5/dns-query
 [/drasy.net/]https://223.5.5.5/dns-query
-[/draveness.me/]https://223.5.5.5/dns-query
 [/drawyoo.com/]https://223.5.5.5/dns-query
 [/drbdp.com/]https://223.5.5.5/dns-query
 [/drcact.com/]https://223.5.5.5/dns-query
@@ -25219,6 +25214,7 @@ quic://dns.tunnel.redteam.club:853
 [/dtstatic.com/]https://223.5.5.5/dns-query
 [/dtston.com/]https://223.5.5.5/dns-query
 [/dttc-icp.com/]https://223.5.5.5/dns-query
+[/dttnsq.com/]https://223.5.5.5/dns-query
 [/dttt.net/]https://223.5.5.5/dns-query
 [/dtuosh.com/]https://223.5.5.5/dns-query
 [/dtuyun.com/]https://223.5.5.5/dns-query
@@ -25249,6 +25245,7 @@ quic://dns.tunnel.redteam.club:853
 [/duanwenxue.com/]https://223.5.5.5/dns-query
 [/duanxb.com/]https://223.5.5.5/dns-query
 [/duanxiansen.com/]https://223.5.5.5/dns-query
+[/duanxianxia.com/]https://223.5.5.5/dns-query
 [/duanxin.com/]https://223.5.5.5/dns-query
 [/duanxin321.com/]https://223.5.5.5/dns-query
 [/duanxin520.com/]https://223.5.5.5/dns-query
@@ -26483,10 +26480,10 @@ quic://dns.tunnel.redteam.club:853
 [/efesco.com/]https://223.5.5.5/dns-query
 [/eff-soft.com/]https://223.5.5.5/dns-query
 [/effapp.com/]https://223.5.5.5/dns-query
-[/effetspositifs.com/]https://223.5.5.5/dns-query
 [/efficient.hk/]https://223.5.5.5/dns-query
 [/effirst.com/]https://223.5.5.5/dns-query
 [/effood.net/]https://223.5.5.5/dns-query
+[/efgh11.com/]https://223.5.5.5/dns-query
 [/efivestar.com/]https://223.5.5.5/dns-query
 [/efly.cc/]https://223.5.5.5/dns-query
 [/eflybird.com/]https://223.5.5.5/dns-query
@@ -26796,7 +26793,6 @@ quic://dns.tunnel.redteam.club:853
 [/emjob.com/]https://223.5.5.5/dns-query
 [/emlinix.com/]https://223.5.5.5/dns-query
 [/emlog.net/]https://223.5.5.5/dns-query
-[/emmm.space/]https://223.5.5.5/dns-query
 [/emmmn.com/]https://223.5.5.5/dns-query
 [/emodor.com/]https://223.5.5.5/dns-query
 [/emoji6.com/]https://223.5.5.5/dns-query
@@ -26840,7 +26836,6 @@ quic://dns.tunnel.redteam.club:853
 [/ename.com/]https://223.5.5.5/dns-query
 [/ename.net/]https://223.5.5.5/dns-query
 [/enappstore.com/]https://223.5.5.5/dns-query
-[/enaw-almg3.com/]https://223.5.5.5/dns-query
 [/enbamaoyi.com/]https://223.5.5.5/dns-query
 [/enbowang.com/]https://223.5.5.5/dns-query
 [/enbrands.com/]https://223.5.5.5/dns-query
@@ -27393,7 +27388,6 @@ quic://dns.tunnel.redteam.club:853
 [/ewebsoft.com/]https://223.5.5.5/dns-query
 [/ewecha.com/]https://223.5.5.5/dns-query
 [/ewei.com/]https://223.5.5.5/dns-query
-[/eweian.com/]https://223.5.5.5/dns-query
 [/eweiqi.com/]https://223.5.5.5/dns-query
 [/eweis.com/]https://223.5.5.5/dns-query
 [/ewen.co/]https://223.5.5.5/dns-query
@@ -27477,6 +27471,7 @@ quic://dns.tunnel.redteam.club:853
 [/expku.com/]https://223.5.5.5/dns-query
 [/expodmc.com/]https://223.5.5.5/dns-query
 [/expoeye.net/]https://223.5.5.5/dns-query
+[/expohsp.com/]https://223.5.5.5/dns-query
 [/exponingbo.com/]https://223.5.5.5/dns-query
 [/expoon.com/]https://223.5.5.5/dns-query
 [/expoooo.com/]https://223.5.5.5/dns-query
@@ -27782,7 +27777,6 @@ quic://dns.tunnel.redteam.club:853
 [/fang99.com/]https://223.5.5.5/dns-query
 [/fangbei.org/]https://223.5.5.5/dns-query
 [/fangcang.com/]https://223.5.5.5/dns-query
-[/fangcdn.net/]https://223.5.5.5/dns-query
 [/fangcece.com/]https://223.5.5.5/dns-query
 [/fangchan.com/]https://223.5.5.5/dns-query
 [/fangche.net/]https://223.5.5.5/dns-query
@@ -27863,6 +27857,7 @@ quic://dns.tunnel.redteam.club:853
 [/fangyuyuan.com/]https://223.5.5.5/dns-query
 [/fangzd.com/]https://223.5.5.5/dns-query
 [/fangzew.com/]https://223.5.5.5/dns-query
+[/fangzf.me/]https://223.5.5.5/dns-query
 [/fangzhengip.com/]https://223.5.5.5/dns-query
 [/fangzhenxiu.com/]https://223.5.5.5/dns-query
 [/fangzhipeng.com/]https://223.5.5.5/dns-query
@@ -28221,7 +28216,6 @@ quic://dns.tunnel.redteam.club:853
 [/fecmall.com/]https://223.5.5.5/dns-query
 [/fecn.net/]https://223.5.5.5/dns-query
 [/fecshop.com/]https://223.5.5.5/dns-query
-[/fedfby13.com/]https://223.5.5.5/dns-query
 [/fedte.cc/]https://223.5.5.5/dns-query
 [/feeair.com/]https://223.5.5.5/dns-query
 [/feeclouds.com/]https://223.5.5.5/dns-query
@@ -28330,7 +28324,6 @@ quic://dns.tunnel.redteam.club:853
 [/feiruikeji.com/]https://223.5.5.5/dns-query
 [/feisaidi.com/]https://223.5.5.5/dns-query
 [/feisan.net/]https://223.5.5.5/dns-query
-[/feishenbj.com/]https://223.5.5.5/dns-query
 [/feishu-3rd-party-services.com/]https://223.5.5.5/dns-query
 [/feishucdn.com/]https://223.5.5.5/dns-query
 [/feishuwx.net/]https://223.5.5.5/dns-query
@@ -28381,6 +28374,7 @@ quic://dns.tunnel.redteam.club:853
 [/feling.net/]https://223.5.5.5/dns-query
 [/felink.com/]https://223.5.5.5/dns-query
 [/felix021.com/]https://223.5.5.5/dns-query
+[/felo-ev.com/]https://223.5.5.5/dns-query
 [/femrice.com/]https://223.5.5.5/dns-query
 [/fenbaner.net/]https://223.5.5.5/dns-query
 [/fenbei.com/]https://223.5.5.5/dns-query
@@ -28544,6 +28538,7 @@ quic://dns.tunnel.redteam.club:853
 [/fequan.com/]https://223.5.5.5/dns-query
 [/ferlie.net/]https://223.5.5.5/dns-query
 [/ferlytc.com/]https://223.5.5.5/dns-query
+[/ferqwo.sbs/]https://223.5.5.5/dns-query
 [/ferro-alloys.com/]https://223.5.5.5/dns-query
 [/fersese.com/]https://223.5.5.5/dns-query
 [/fescoadecco.com/]https://223.5.5.5/dns-query
@@ -28866,7 +28861,6 @@ quic://dns.tunnel.redteam.club:853
 [/fjstjt.com/]https://223.5.5.5/dns-query
 [/fjsxqy.com/]https://223.5.5.5/dns-query
 [/fjsxyqygl.com/]https://223.5.5.5/dns-query
-[/fjtaohui.com/]https://223.5.5.5/dns-query
 [/fjtelecom.com/]https://223.5.5.5/dns-query
 [/fjtianya.com/]https://223.5.5.5/dns-query
 [/fjtv.net/]https://223.5.5.5/dns-query
@@ -28935,7 +28929,6 @@ quic://dns.tunnel.redteam.club:853
 [/flashwolfcn.com/]https://223.5.5.5/dns-query
 [/flatsh.com/]https://223.5.5.5/dns-query
 [/flawcache.com/]https://223.5.5.5/dns-query
-[/flc.bet/]https://223.5.5.5/dns-query
 [/flclb.com/]https://223.5.5.5/dns-query
 [/flduo.com/]https://223.5.5.5/dns-query
 [/fle078.com/]https://223.5.5.5/dns-query
@@ -29158,7 +29151,6 @@ quic://dns.tunnel.redteam.club:853
 [/foovoo.com/]https://223.5.5.5/dns-query
 [/fooww.com/]https://223.5.5.5/dns-query
 [/foqian.com/]https://223.5.5.5/dns-query
-[/for-compass.com/]https://223.5.5.5/dns-query
 [/for-she.com/]https://223.5.5.5/dns-query
 [/for512.com/]https://223.5.5.5/dns-query
 [/for68.com/]https://223.5.5.5/dns-query
@@ -29547,6 +29539,7 @@ quic://dns.tunnel.redteam.club:853
 [/fubabafumama.com/]https://223.5.5.5/dns-query
 [/fubangauctions.com/]https://223.5.5.5/dns-query
 [/fubaofei.com/]https://223.5.5.5/dns-query
+[/fubonchina.com/]https://223.5.5.5/dns-query
 [/fubonplastic.com/]https://223.5.5.5/dns-query
 [/fucantec.com/]https://223.5.5.5/dns-query
 [/fuchen33.com/]https://223.5.5.5/dns-query
@@ -29918,7 +29911,6 @@ quic://dns.tunnel.redteam.club:853
 [/fyyyc.com/]https://223.5.5.5/dns-query
 [/fyzku.com/]https://223.5.5.5/dns-query
 [/fz-aefi.com/]https://223.5.5.5/dns-query
-[/fz-bm.com/]https://223.5.5.5/dns-query
 [/fz0752.com/]https://223.5.5.5/dns-query
 [/fz222.com/]https://223.5.5.5/dns-query
 [/fz2sc.com/]https://223.5.5.5/dns-query
@@ -29940,7 +29932,6 @@ quic://dns.tunnel.redteam.club:853
 [/fzfrp.com/]https://223.5.5.5/dns-query
 [/fzfzjx.com/]https://223.5.5.5/dns-query
 [/fzg360.com/]https://223.5.5.5/dns-query
-[/fzggyl.com/]https://223.5.5.5/dns-query
 [/fzghy.com/]https://223.5.5.5/dns-query
 [/fzgolden.com/]https://223.5.5.5/dns-query
 [/fzhlkx.com/]https://223.5.5.5/dns-query
@@ -30099,7 +30090,6 @@ quic://dns.tunnel.redteam.club:853
 [/game3vs7novel.com/]https://223.5.5.5/dns-query
 [/game5.com/]https://223.5.5.5/dns-query
 [/game5399.com/]https://223.5.5.5/dns-query
-[/game6755.com/]https://223.5.5.5/dns-query
 [/game773.com/]https://223.5.5.5/dns-query
 [/game78.com/]https://223.5.5.5/dns-query
 [/game798.com/]https://223.5.5.5/dns-query
@@ -30131,6 +30121,7 @@ quic://dns.tunnel.redteam.club:853
 [/gamefm.com/]https://223.5.5.5/dns-query
 [/gamegamept.com/]https://223.5.5.5/dns-query
 [/gamege.com/]https://223.5.5.5/dns-query
+[/gameggg.com/]https://223.5.5.5/dns-query
 [/gamehome.tv/]https://223.5.5.5/dns-query
 [/gameinns.com/]https://223.5.5.5/dns-query
 [/gamejym.com/]https://223.5.5.5/dns-query
@@ -30391,7 +30382,6 @@ quic://dns.tunnel.redteam.club:853
 [/gbrgz.com/]https://223.5.5.5/dns-query
 [/gbsrobot.com/]https://223.5.5.5/dns-query
 [/gbstape.com/]https://223.5.5.5/dns-query
-[/gbt133.cc/]https://223.5.5.5/dns-query
 [/gbt88.com/]https://223.5.5.5/dns-query
 [/gbtma.com/]https://223.5.5.5/dns-query
 [/gbtranswins.com/]https://223.5.5.5/dns-query
@@ -30573,7 +30563,6 @@ quic://dns.tunnel.redteam.club:853
 [/gdpia.com/]https://223.5.5.5/dns-query
 [/gdprm.com/]https://223.5.5.5/dns-query
 [/gdqianyou.com/]https://223.5.5.5/dns-query
-[/gdqile.com/]https://223.5.5.5/dns-query
 [/gdqynews.com/]https://223.5.5.5/dns-query
 [/gdrc.com/]https://223.5.5.5/dns-query
 [/gdrc360.com/]https://223.5.5.5/dns-query
@@ -30617,7 +30606,6 @@ quic://dns.tunnel.redteam.club:853
 [/gdtz888.com/]https://223.5.5.5/dns-query
 [/gdu-tech.com/]https://223.5.5.5/dns-query
 [/gduaee.com/]https://223.5.5.5/dns-query
-[/gdulian.com/]https://223.5.5.5/dns-query
 [/gdunis.com/]https://223.5.5.5/dns-query
 [/gdupi.com/]https://223.5.5.5/dns-query
 [/gdutbbs.com/]https://223.5.5.5/dns-query
@@ -30654,7 +30642,6 @@ quic://dns.tunnel.redteam.club:853
 [/gdzrlj.com/]https://223.5.5.5/dns-query
 [/gdzs2018.cc/]https://223.5.5.5/dns-query
 [/gdzs2018.vip/]https://223.5.5.5/dns-query
-[/gdzsgg.com/]https://223.5.5.5/dns-query
 [/gdzskj.tech/]https://223.5.5.5/dns-query
 [/gdzsxx.com/]https://223.5.5.5/dns-query
 [/gdztbz.com/]https://223.5.5.5/dns-query
@@ -30820,6 +30807,7 @@ quic://dns.tunnel.redteam.club:853
 [/geo.kaspersky.com/]https://223.5.5.5/dns-query
 [/geo2k.com/]https://223.5.5.5/dns-query
 [/geogsci.com/]https://223.5.5.5/dns-query
+[/geoharbour.com/]https://223.5.5.5/dns-query
 [/geohey.com/]https://223.5.5.5/dns-query
 [/geoidc.com/]https://223.5.5.5/dns-query
 [/geons.host/]https://223.5.5.5/dns-query
@@ -31062,6 +31050,7 @@ quic://dns.tunnel.redteam.club:853
 [/ghc168.com/]https://223.5.5.5/dns-query
 [/ghcxzb.com/]https://223.5.5.5/dns-query
 [/gheigot.com/]https://223.5.5.5/dns-query
+[/ghfast.top/]https://223.5.5.5/dns-query
 [/ghglzx.com/]https://223.5.5.5/dns-query
 [/ghgo.xyz/]https://223.5.5.5/dns-query
 [/ghgy.com/]https://223.5.5.5/dns-query
@@ -31497,7 +31486,6 @@ quic://dns.tunnel.redteam.club:853
 [/glowapp.vip/]https://223.5.5.5/dns-query
 [/glowmem.com/]https://223.5.5.5/dns-query
 [/glpenhui.com/]https://223.5.5.5/dns-query
-[/glping.net/]https://223.5.5.5/dns-query
 [/glplyf.com/]https://223.5.5.5/dns-query
 [/glqcxh.com/]https://223.5.5.5/dns-query
 [/glqh.com/]https://223.5.5.5/dns-query
@@ -31573,6 +31561,7 @@ quic://dns.tunnel.redteam.club:853
 [/glzfst.com/]https://223.5.5.5/dns-query
 [/glzh-szzx.site/]https://223.5.5.5/dns-query
 [/glzhcyy.com/]https://223.5.5.5/dns-query
+[/glzhealth.com/]https://223.5.5.5/dns-query
 [/glzip.com/]https://223.5.5.5/dns-query
 [/glzizhu.com/]https://223.5.5.5/dns-query
 [/glzj88.com/]https://223.5.5.5/dns-query
@@ -31686,13 +31675,13 @@ quic://dns.tunnel.redteam.club:853
 [/goalonez.site/]https://223.5.5.5/dns-query
 [/goapk.com/]https://223.5.5.5/dns-query
 [/gobanma.com/]https://223.5.5.5/dns-query
-[/gobelieve.io/]https://223.5.5.5/dns-query
 [/gobelike.net/]https://223.5.5.5/dns-query
 [/gobivc.com/]https://223.5.5.5/dns-query
 [/gobyd.com/]https://223.5.5.5/dns-query
 [/gocarjourney.com/]https://223.5.5.5/dns-query
 [/gocashback.com/]https://223.5.5.5/dns-query
 [/gocchina.com/]https://223.5.5.5/dns-query
+[/gocdn.cc/]https://223.5.5.5/dns-query
 [/gocea.net/]https://223.5.5.5/dns-query
 [/goceshi.com/]https://223.5.5.5/dns-query
 [/gochego.com/]https://223.5.5.5/dns-query
@@ -31921,9 +31910,7 @@ quic://dns.tunnel.redteam.club:853
 [/goodjd.com/]https://223.5.5.5/dns-query
 [/goodjili.com/]https://223.5.5.5/dns-query
 [/goodk88.com/]https://223.5.5.5/dns-query
-[/goodkejian.com/]https://223.5.5.5/dns-query
 [/goodlcm.com/]https://223.5.5.5/dns-query
-[/goodluck-co.com/]https://223.5.5.5/dns-query
 [/goodlukyeveryyear.com/]https://223.5.5.5/dns-query
 [/goodmorening.com/]https://223.5.5.5/dns-query
 [/goodnic.net/]https://223.5.5.5/dns-query
@@ -32248,7 +32235,6 @@ quic://dns.tunnel.redteam.club:853
 [/gryu.net/]https://223.5.5.5/dns-query
 [/grzmz.com/]https://223.5.5.5/dns-query
 [/grzyfey.com/]https://223.5.5.5/dns-query
-[/gs-eps.com/]https://223.5.5.5/dns-query
 [/gs090.com/]https://223.5.5.5/dns-query
 [/gs12122.com/]https://223.5.5.5/dns-query
 [/gs14.com/]https://223.5.5.5/dns-query
@@ -32320,6 +32306,7 @@ quic://dns.tunnel.redteam.club:853
 [/gssjyxrmyy.com/]https://223.5.5.5/dns-query
 [/gssltxrmyy.com/]https://223.5.5.5/dns-query
 [/gsspn.com/]https://223.5.5.5/dns-query
+[/gsstargroup.com/]https://223.5.5.5/dns-query
 [/gsstscrbyy.com/]https://223.5.5.5/dns-query
 [/gst-china.net/]https://223.5.5.5/dns-query
 [/gst.prod.dl.playstation.net/]https://223.5.5.5/dns-query
@@ -32709,6 +32696,7 @@ quic://dns.tunnel.redteam.club:853
 [/guipeng168.com/]https://223.5.5.5/dns-query
 [/guipin.com/]https://223.5.5.5/dns-query
 [/guiqingkeji.com/]https://223.5.5.5/dns-query
+[/guiququ.com/]https://223.5.5.5/dns-query
 [/guiqv.com/]https://223.5.5.5/dns-query
 [/guirong.com/]https://223.5.5.5/dns-query
 [/guishai.com/]https://223.5.5.5/dns-query
@@ -32765,6 +32753,7 @@ quic://dns.tunnel.redteam.club:853
 [/gumingnc.com/]https://223.5.5.5/dns-query
 [/gumo.pro/]https://223.5.5.5/dns-query
 [/gumodels.com/]https://223.5.5.5/dns-query
+[/gundambattle.com/]https://223.5.5.5/dns-query
 [/gungahlinproperty.com/]https://223.5.5.5/dns-query
 [/gunshitech.com/]https://223.5.5.5/dns-query
 [/guo7.com/]https://223.5.5.5/dns-query
@@ -32773,7 +32762,6 @@ quic://dns.tunnel.redteam.club:853
 [/guoanele.com/]https://223.5.5.5/dns-query
 [/guoanqi.com/]https://223.5.5.5/dns-query
 [/guoaoqiyuan.com/]https://223.5.5.5/dns-query
-[/guoaso.com/]https://223.5.5.5/dns-query
 [/guobaihui.com/]https://223.5.5.5/dns-query
 [/guobaoyou.com/]https://223.5.5.5/dns-query
 [/guobensd.com/]https://223.5.5.5/dns-query
@@ -32803,6 +32791,7 @@ quic://dns.tunnel.redteam.club:853
 [/guohanlawfirm.com/]https://223.5.5.5/dns-query
 [/guohaokeji.com/]https://223.5.5.5/dns-query
 [/guohongxin.com/]https://223.5.5.5/dns-query
+[/guohu360.com/]https://223.5.5.5/dns-query
 [/guohua88.com/]https://223.5.5.5/dns-query
 [/guohuapharm.com/]https://223.5.5.5/dns-query
 [/guohuayule.com/]https://223.5.5.5/dns-query
@@ -32816,10 +32805,10 @@ quic://dns.tunnel.redteam.club:853
 [/guojing-tech.com/]https://223.5.5.5/dns-query
 [/guojiseka.com/]https://223.5.5.5/dns-query
 [/guojixuexiao.com/]https://223.5.5.5/dns-query
+[/guojixuexiao.net/]https://223.5.5.5/dns-query
 [/guojixuexiao.org/]https://223.5.5.5/dns-query
 [/guojiyujiaxueyuanzongbu.com/]https://223.5.5.5/dns-query
 [/guojj.com/]https://223.5.5.5/dns-query
-[/guojled.com/]https://223.5.5.5/dns-query
 [/guojusoft.com/]https://223.5.5.5/dns-query
 [/guokang.com/]https://223.5.5.5/dns-query
 [/guoketest.com/]https://223.5.5.5/dns-query
@@ -32833,7 +32822,6 @@ quic://dns.tunnel.redteam.club:853
 [/guoli.com/]https://223.5.5.5/dns-query
 [/guoliangjie.com/]https://223.5.5.5/dns-query
 [/guolianglab.org/]https://223.5.5.5/dns-query
-[/guolier.com/]https://223.5.5.5/dns-query
 [/guolin.tech/]https://223.5.5.5/dns-query
 [/guolong365.com/]https://223.5.5.5/dns-query
 [/guolongplastic.com/]https://223.5.5.5/dns-query
@@ -33097,7 +33085,6 @@ quic://dns.tunnel.redteam.club:853
 [/gxbeyy.com/]https://223.5.5.5/dns-query
 [/gxbf.net/]https://223.5.5.5/dns-query
 [/gxbgdl.com/]https://223.5.5.5/dns-query
-[/gxbglz.com/]https://223.5.5.5/dns-query
 [/gxbgtf.com/]https://223.5.5.5/dns-query
 [/gxbhgas.com/]https://223.5.5.5/dns-query
 [/gxbhjg.com/]https://223.5.5.5/dns-query
@@ -34521,7 +34508,6 @@ quic://dns.tunnel.redteam.club:853
 [/gxsngc.com/]https://223.5.5.5/dns-query
 [/gxsntp.com/]https://223.5.5.5/dns-query
 [/gxsnzw.com/]https://223.5.5.5/dns-query
-[/gxsodl.com/]https://223.5.5.5/dns-query
 [/gxspas.com/]https://223.5.5.5/dns-query
 [/gxspri.com/]https://223.5.5.5/dns-query
 [/gxsq119.com/]https://223.5.5.5/dns-query
@@ -35286,7 +35272,6 @@ quic://dns.tunnel.redteam.club:853
 [/gzguangjia.com/]https://223.5.5.5/dns-query
 [/gzgx020.com/]https://223.5.5.5/dns-query
 [/gzhaigu.com/]https://223.5.5.5/dns-query
-[/gzhaiyukj.com/]https://223.5.5.5/dns-query
 [/gzhakj.com/]https://223.5.5.5/dns-query
 [/gzhand.com/]https://223.5.5.5/dns-query
 [/gzhangcha.com/]https://223.5.5.5/dns-query
@@ -35309,7 +35294,6 @@ quic://dns.tunnel.redteam.club:853
 [/gzhuake.cc/]https://223.5.5.5/dns-query
 [/gzhuayan.com/]https://223.5.5.5/dns-query
 [/gzhuiwan.com/]https://223.5.5.5/dns-query
-[/gzhuize.com/]https://223.5.5.5/dns-query
 [/gzhygk.com/]https://223.5.5.5/dns-query
 [/gzhysy.com/]https://223.5.5.5/dns-query
 [/gzhzcj.com/]https://223.5.5.5/dns-query
@@ -35540,7 +35524,6 @@ quic://dns.tunnel.redteam.club:853
 [/h3ue2s.com/]https://223.5.5.5/dns-query
 [/h3wog.com/]https://223.5.5.5/dns-query
 [/h3yun.com/]https://223.5.5.5/dns-query
-[/h4.cc/]https://223.5.5.5/dns-query
 [/h4088.com/]https://223.5.5.5/dns-query
 [/h4532.com/]https://223.5.5.5/dns-query
 [/h5-share.com/]https://223.5.5.5/dns-query
@@ -35600,7 +35583,6 @@ quic://dns.tunnel.redteam.club:853
 [/haawking.com/]https://223.5.5.5/dns-query
 [/habadog.com/]https://223.5.5.5/dns-query
 [/habbygames.com/]https://223.5.5.5/dns-query
-[/hablemeclaro.com/]https://223.5.5.5/dns-query
 [/habwjc.com/]https://223.5.5.5/dns-query
 [/hac-ker.net/]https://223.5.5.5/dns-query
 [/hach-hanna.com/]https://223.5.5.5/dns-query
@@ -35814,6 +35796,7 @@ quic://dns.tunnel.redteam.club:853
 [/haituntui.com/]https://223.5.5.5/dns-query
 [/haitunvoice.com/]https://223.5.5.5/dns-query
 [/haitunwallet.com/]https://223.5.5.5/dns-query
+[/haitunzhidao.com/]https://223.5.5.5/dns-query
 [/haituoqi.com/]https://223.5.5.5/dns-query
 [/haitutech.com/]https://223.5.5.5/dns-query
 [/haiwaicat.com/]https://223.5.5.5/dns-query
@@ -36099,7 +36082,6 @@ quic://dns.tunnel.redteam.club:853
 [/haoad.org/]https://223.5.5.5/dns-query
 [/haoamc.com/]https://223.5.5.5/dns-query
 [/haoayi.xyz/]https://223.5.5.5/dns-query
-[/haoban123.com/]https://223.5.5.5/dns-query
 [/haobangkj.com/]https://223.5.5.5/dns-query
 [/haobangscm.com/]https://223.5.5.5/dns-query
 [/haobanyi.com/]https://223.5.5.5/dns-query
@@ -36152,6 +36134,7 @@ quic://dns.tunnel.redteam.club:853
 [/haofly.net/]https://223.5.5.5/dns-query
 [/haofz.com/]https://223.5.5.5/dns-query
 [/haoge500.com/]https://223.5.5.5/dns-query
+[/haogedu.com/]https://223.5.5.5/dns-query
 [/haogongzhang.com/]https://223.5.5.5/dns-query
 [/haohaizi.com/]https://223.5.5.5/dns-query
 [/haohan-data.com/]https://223.5.5.5/dns-query
@@ -36704,7 +36687,6 @@ quic://dns.tunnel.redteam.club:853
 [/hbszzd158.com/]https://223.5.5.5/dns-query
 [/hbszzk.com/]https://223.5.5.5/dns-query
 [/hbszzx.com/]https://223.5.5.5/dns-query
-[/hbtccz.com/]https://223.5.5.5/dns-query
 [/hbtcmu.com/]https://223.5.5.5/dns-query
 [/hbtcw.com/]https://223.5.5.5/dns-query
 [/hbtengniu.com/]https://223.5.5.5/dns-query
@@ -36936,6 +36918,7 @@ quic://dns.tunnel.redteam.club:853
 [/hdpyqf.com/]https://223.5.5.5/dns-query
 [/hdrcw.com/]https://223.5.5.5/dns-query
 [/hdsay.net/]https://223.5.5.5/dns-query
+[/hdschools.org/]https://223.5.5.5/dns-query
 [/hdsdyyy.com/]https://223.5.5.5/dns-query
 [/hdslb.com/]https://223.5.5.5/dns-query
 [/hdslb.net/]https://223.5.5.5/dns-query
@@ -37320,7 +37303,6 @@ quic://dns.tunnel.redteam.club:853
 [/hengqikuaiji.com/]https://223.5.5.5/dns-query
 [/hengruisensor.com/]https://223.5.5.5/dns-query
 [/hengshan01.com/]https://223.5.5.5/dns-query
-[/hengshengchexun.com/]https://223.5.5.5/dns-query
 [/hengshengpark.com/]https://223.5.5.5/dns-query
 [/hengshuilaobaigan.net/]https://223.5.5.5/dns-query
 [/hengshuiyake.com/]https://223.5.5.5/dns-query
@@ -37346,6 +37328,7 @@ quic://dns.tunnel.redteam.club:853
 [/henhaoji.com/]https://223.5.5.5/dns-query
 [/henkuai.com/]https://223.5.5.5/dns-query
 [/henkung.com/]https://223.5.5.5/dns-query
+[/henlius.com/]https://223.5.5.5/dns-query
 [/henluoli.com/]https://223.5.5.5/dns-query
 [/henmimang.com/]https://223.5.5.5/dns-query
 [/henrayglass.com/]https://223.5.5.5/dns-query
@@ -37455,7 +37438,6 @@ quic://dns.tunnel.redteam.club:853
 [/heyinguanli.com/]https://223.5.5.5/dns-query
 [/heyinshiliu.com/]https://223.5.5.5/dns-query
 [/heyix.com/]https://223.5.5.5/dns-query
-[/heyiyg.com/]https://223.5.5.5/dns-query
 [/heymeo.net/]https://223.5.5.5/dns-query
 [/heymeowfm.com/]https://223.5.5.5/dns-query
 [/heymore.com/]https://223.5.5.5/dns-query
@@ -38260,7 +38242,6 @@ quic://dns.tunnel.redteam.club:853
 [/hn0737.com/]https://223.5.5.5/dns-query
 [/hn0746.com/]https://223.5.5.5/dns-query
 [/hn165.com/]https://223.5.5.5/dns-query
-[/hn1uzzfd.shop/]https://223.5.5.5/dns-query
 [/hn21z.com/]https://223.5.5.5/dns-query
 [/hn96520.com/]https://223.5.5.5/dns-query
 [/hnacty.com/]https://223.5.5.5/dns-query
@@ -38319,12 +38300,11 @@ quic://dns.tunnel.redteam.club:853
 [/hnetn.com/]https://223.5.5.5/dns-query
 [/hnfa.org/]https://223.5.5.5/dns-query
 [/hnfapiao.com/]https://223.5.5.5/dns-query
+[/hnfcjr.com/]https://223.5.5.5/dns-query
 [/hnfcly.com/]https://223.5.5.5/dns-query
 [/hnfdx.com/]https://223.5.5.5/dns-query
 [/hnfjz.com/]https://223.5.5.5/dns-query
 [/hnfles.com/]https://223.5.5.5/dns-query
-[/hnfxg.com/]https://223.5.5.5/dns-query
-[/hnfygg.com/]https://223.5.5.5/dns-query
 [/hnfyqmj.com/]https://223.5.5.5/dns-query
 [/hnfysg.com/]https://223.5.5.5/dns-query
 [/hngbjy.com/]https://223.5.5.5/dns-query
@@ -38383,7 +38363,6 @@ quic://dns.tunnel.redteam.club:853
 [/hnliangku.com/]https://223.5.5.5/dns-query
 [/hnlipu.com/]https://223.5.5.5/dns-query
 [/hnlshm.com/]https://223.5.5.5/dns-query
-[/hnlt888.com/]https://223.5.5.5/dns-query
 [/hnltcw.com/]https://223.5.5.5/dns-query
 [/hnlxq.com/]https://223.5.5.5/dns-query
 [/hnlyy.com/]https://223.5.5.5/dns-query
@@ -38898,6 +38877,7 @@ quic://dns.tunnel.redteam.club:853
 [/hotelcis.com/]https://223.5.5.5/dns-query
 [/hoteldig.com/]https://223.5.5.5/dns-query
 [/hotelgg.com/]https://223.5.5.5/dns-query
+[/hoteljianguo.com/]https://223.5.5.5/dns-query
 [/hotelvi.com/]https://223.5.5.5/dns-query
 [/hotelyunos.com/]https://223.5.5.5/dns-query
 [/hotent.com/]https://223.5.5.5/dns-query
@@ -39198,7 +39178,6 @@ quic://dns.tunnel.redteam.club:853
 [/hsg2oi3c.com/]https://223.5.5.5/dns-query
 [/hsgjj.com/]https://223.5.5.5/dns-query
 [/hsgjysj.com/]https://223.5.5.5/dns-query
-[/hsguangyu.com/]https://223.5.5.5/dns-query
 [/hshan.com/]https://223.5.5.5/dns-query
 [/hshdyw.com/]https://223.5.5.5/dns-query
 [/hshhlj.com/]https://223.5.5.5/dns-query
@@ -39261,7 +39240,6 @@ quic://dns.tunnel.redteam.club:853
 [/hswyvz.com/]https://223.5.5.5/dns-query
 [/hsxedu.com/]https://223.5.5.5/dns-query
 [/hsxjjs.com/]https://223.5.5.5/dns-query
-[/hsxnpx.com/]https://223.5.5.5/dns-query
 [/hsxt.com/]https://223.5.5.5/dns-query
 [/hsxt.net/]https://223.5.5.5/dns-query
 [/hsxxad.com/]https://223.5.5.5/dns-query
@@ -39288,11 +39266,9 @@ quic://dns.tunnel.redteam.club:853
 [/hszzsyzx.net/]https://223.5.5.5/dns-query
 [/hszzzx.net/]https://223.5.5.5/dns-query
 [/ht-cao.com/]https://223.5.5.5/dns-query
-[/ht-ep.com/]https://223.5.5.5/dns-query
 [/ht-rc.com/]https://223.5.5.5/dns-query
 [/ht-saae.com/]https://223.5.5.5/dns-query
 [/ht-tech.com/]https://223.5.5.5/dns-query
-[/ht-yoga.com/]https://223.5.5.5/dns-query
 [/ht0775.com/]https://223.5.5.5/dns-query
 [/ht1832.com/]https://223.5.5.5/dns-query
 [/ht500.com/]https://223.5.5.5/dns-query
@@ -39832,7 +39808,6 @@ quic://dns.tunnel.redteam.club:853
 [/hubpd.com/]https://223.5.5.5/dns-query
 [/hubsound.com/]https://223.5.5.5/dns-query
 [/hubstudio.vip/]https://223.5.5.5/dns-query
-[/hubu.com/]https://223.5.5.5/dns-query
 [/hubulab.com/]https://223.5.5.5/dns-query
 [/hubwiz.com/]https://223.5.5.5/dns-query
 [/hubyd.org/]https://223.5.5.5/dns-query
@@ -40227,7 +40202,6 @@ quic://dns.tunnel.redteam.club:853
 [/huoduan.com/]https://223.5.5.5/dns-query
 [/huofar.com/]https://223.5.5.5/dns-query
 [/huofutp.com/]https://223.5.5.5/dns-query
-[/huogz.com/]https://223.5.5.5/dns-query
 [/huohao8.com/]https://223.5.5.5/dns-query
 [/huohoo.com/]https://223.5.5.5/dns-query
 [/huohuacdn.com/]https://223.5.5.5/dns-query
@@ -40700,7 +40674,6 @@ quic://dns.tunnel.redteam.club:853
 [/hz-xin.com/]https://223.5.5.5/dns-query
 [/hz-zjsh.com/]https://223.5.5.5/dns-query
 [/hz3ds.com/]https://223.5.5.5/dns-query
-[/hz5800.com/]https://223.5.5.5/dns-query
 [/hz66.com/]https://223.5.5.5/dns-query
 [/hz6z.com/]https://223.5.5.5/dns-query
 [/hz8z.net/]https://223.5.5.5/dns-query
@@ -41193,6 +41166,7 @@ quic://dns.tunnel.redteam.club:853
 [/icaifu.com/]https://223.5.5.5/dns-query
 [/icaile.com/]https://223.5.5.5/dns-query
 [/icall.me/]https://223.5.5.5/dns-query
+[/ican-x.com/]https://223.5.5.5/dns-query
 [/ican365.net/]https://223.5.5.5/dns-query
 [/icandata.com/]https://223.5.5.5/dns-query
 [/icangshu111.com/]https://223.5.5.5/dns-query
@@ -41656,6 +41630,7 @@ quic://dns.tunnel.redteam.club:853
 [/ifaxin.com/]https://223.5.5.5/dns-query
 [/ifaxin.org/]https://223.5.5.5/dns-query
 [/ifconfig.cc/]https://223.5.5.5/dns-query
+[/ifcresidence.com/]https://223.5.5.5/dns-query
 [/ifdian.net/]https://223.5.5.5/dns-query
 [/ifedge.com/]https://223.5.5.5/dns-query
 [/ifeehei.xyz/]https://223.5.5.5/dns-query
@@ -42133,6 +42108,7 @@ quic://dns.tunnel.redteam.club:853
 [/imbeiyu.com/]https://223.5.5.5/dns-query
 [/imblog.in/]https://223.5.5.5/dns-query
 [/imbtk.com/]https://223.5.5.5/dns-query
+[/imcclinics.com/]https://223.5.5.5/dns-query
 [/imcec.org/]https://223.5.5.5/dns-query
 [/imcivf.com/]https://223.5.5.5/dns-query
 [/imcn.me/]https://223.5.5.5/dns-query
@@ -42346,7 +42322,6 @@ quic://dns.tunnel.redteam.club:853
 [/ind-app-comp.com/]https://223.5.5.5/dns-query
 [/ind-map.com/]https://223.5.5.5/dns-query
 [/ind9ed.com/]https://223.5.5.5/dns-query
-[/indcars.com/]https://223.5.5.5/dns-query
 [/indexea.com/]https://223.5.5.5/dns-query
 [/indexedu.com/]https://223.5.5.5/dns-query
 [/indexedu.net/]https://223.5.5.5/dns-query
@@ -42490,6 +42465,7 @@ quic://dns.tunnel.redteam.club:853
 [/inputmore.com/]https://223.5.5.5/dns-query
 [/inqan.com/]https://223.5.5.5/dns-query
 [/inrice.com/]https://223.5.5.5/dns-query
+[/inrice.zone/]https://223.5.5.5/dns-query
 [/inrugao.com/]https://223.5.5.5/dns-query
 [/insagee.com/]https://223.5.5.5/dns-query
 [/insarticle.com/]https://223.5.5.5/dns-query
@@ -42601,6 +42577,7 @@ quic://dns.tunnel.redteam.club:853
 [/iok.la/]https://223.5.5.5/dns-query
 [/iol8.com/]https://223.5.5.5/dns-query
 [/ioms.cc/]https://223.5.5.5/dns-query
+[/ioncol.com/]https://223.5.5.5/dns-query
 [/ioneball.com/]https://223.5.5.5/dns-query
 [/ionewu.com/]https://223.5.5.5/dns-query
 [/iooeoo.com/]https://223.5.5.5/dns-query
@@ -42610,6 +42587,7 @@ quic://dns.tunnel.redteam.club:853
 [/iophthalmology.net/]https://223.5.5.5/dns-query
 [/ioqoo.com/]https://223.5.5.5/dns-query
 [/iorca.net/]https://223.5.5.5/dns-query
+[/iornnl.xyz/]https://223.5.5.5/dns-query
 [/ios-auto.net/]https://223.5.5.5/dns-query
 [/ios222.com/]https://223.5.5.5/dns-query
 [/ios98.com/]https://223.5.5.5/dns-query
@@ -43011,7 +42989,6 @@ quic://dns.tunnel.redteam.club:853
 [/iswifting.com/]https://223.5.5.5/dns-query
 [/iswx.net/]https://223.5.5.5/dns-query
 [/isyour.love/]https://223.5.5.5/dns-query
-[/iszy.xyz/]https://223.5.5.5/dns-query
 [/it-bound.com/]https://223.5.5.5/dns-query
 [/it-hr.net/]https://223.5.5.5/dns-query
 [/it007.com/]https://223.5.5.5/dns-query
@@ -43581,6 +43558,7 @@ quic://dns.tunnel.redteam.club:853
 [/jaja123.com/]https://223.5.5.5/dns-query
 [/jajgstx.com/]https://223.5.5.5/dns-query
 [/jajjd.com/]https://223.5.5.5/dns-query
+[/jaka.com/]https://223.5.5.5/dns-query
 [/jakeai.com/]https://223.5.5.5/dns-query
 [/jakehu.me/]https://223.5.5.5/dns-query
 [/jakobzhao.online/]https://223.5.5.5/dns-query
@@ -43865,7 +43843,6 @@ quic://dns.tunnel.redteam.club:853
 [/jdplay.com/]https://223.5.5.5/dns-query
 [/jdpta.com/]https://223.5.5.5/dns-query
 [/jdpz44.com/]https://223.5.5.5/dns-query
-[/jdqzr.com/]https://223.5.5.5/dns-query
 [/jdrns.com/]https://223.5.5.5/dns-query
 [/jdrpr.com/]https://223.5.5.5/dns-query
 [/jds-china.com/]https://223.5.5.5/dns-query
@@ -43952,7 +43929,6 @@ quic://dns.tunnel.redteam.club:853
 [/jellythink.com/]https://223.5.5.5/dns-query
 [/jemincare.com/]https://223.5.5.5/dns-query
 [/jemydaz.com/]https://223.5.5.5/dns-query
-[/jenglishj.com/]https://223.5.5.5/dns-query
 [/jenno-cn.com/]https://223.5.5.5/dns-query
 [/jeongen.com/]https://223.5.5.5/dns-query
 [/jeoshi.com/]https://223.5.5.5/dns-query
@@ -43996,7 +43972,6 @@ quic://dns.tunnel.redteam.club:853
 [/jfbcb.com/]https://223.5.5.5/dns-query
 [/jfbuilding.com/]https://223.5.5.5/dns-query
 [/jfcdns.com/]https://223.5.5.5/dns-query
-[/jfcgf.com/]https://223.5.5.5/dns-query
 [/jfcoo.com/]https://223.5.5.5/dns-query
 [/jfdaily.com/]https://223.5.5.5/dns-query
 [/jfduoduo.com/]https://223.5.5.5/dns-query
@@ -44005,7 +43980,6 @@ quic://dns.tunnel.redteam.club:853
 [/jfgjwl.com/]https://223.5.5.5/dns-query
 [/jfgou.com/]https://223.5.5.5/dns-query
 [/jfh.com/]https://223.5.5.5/dns-query
-[/jfhgjmy.com/]https://223.5.5.5/dns-query
 [/jfhzfsn.com/]https://223.5.5.5/dns-query
 [/jfinal.com/]https://223.5.5.5/dns-query
 [/jfinfo.com/]https://223.5.5.5/dns-query
@@ -44101,6 +44075,7 @@ quic://dns.tunnel.redteam.club:853
 [/jhnsyh.com/]https://223.5.5.5/dns-query
 [/jhonge.net/]https://223.5.5.5/dns-query
 [/jhonse.com/]https://223.5.5.5/dns-query
+[/jhotel-shanghai.com/]https://223.5.5.5/dns-query
 [/jhqshfly.com/]https://223.5.5.5/dns-query
 [/jhrcbank.com/]https://223.5.5.5/dns-query
 [/jhscm.com/]https://223.5.5.5/dns-query
@@ -44411,7 +44386,6 @@ quic://dns.tunnel.redteam.club:853
 [/jiaoben.net/]https://223.5.5.5/dns-query
 [/jiaobu365.com/]https://223.5.5.5/dns-query
 [/jiaobuser.com/]https://223.5.5.5/dns-query
-[/jiaochengji.com/]https://223.5.5.5/dns-query
 [/jiaochengzhijia.com/]https://223.5.5.5/dns-query
 [/jiaoda306.com/]https://223.5.5.5/dns-query
 [/jiaodian.pub/]https://223.5.5.5/dns-query
@@ -44513,7 +44487,6 @@ quic://dns.tunnel.redteam.club:853
 [/jiayoujsq.com/]https://223.5.5.5/dns-query
 [/jiayouxueba.com/]https://223.5.5.5/dns-query
 [/jiayu.yoga/]https://223.5.5.5/dns-query
-[/jiayu0x.com/]https://223.5.5.5/dns-query
 [/jiayuan-law.com/]https://223.5.5.5/dns-query
 [/jiayuan.com/]https://223.5.5.5/dns-query
 [/jiayuanzhang.com/]https://223.5.5.5/dns-query
@@ -44618,7 +44591,6 @@ quic://dns.tunnel.redteam.club:853
 [/jierili.com/]https://223.5.5.5/dns-query
 [/jieruchaosheng.com/]https://223.5.5.5/dns-query
 [/jieshangwei.com/]https://223.5.5.5/dns-query
-[/jiesheng.net/]https://223.5.5.5/dns-query
 [/jieshengit.com/]https://223.5.5.5/dns-query
 [/jieshimt8.com/]https://223.5.5.5/dns-query
 [/jieshu.me/]https://223.5.5.5/dns-query
@@ -44894,6 +44866,7 @@ quic://dns.tunnel.redteam.club:853
 [/jingshistudy.com/]https://223.5.5.5/dns-query
 [/jingshun-wl.com/]https://223.5.5.5/dns-query
 [/jingsocial.com/]https://223.5.5.5/dns-query
+[/jingtang.xyz/]https://223.5.5.5/dns-query
 [/jingtanggame.com/]https://223.5.5.5/dns-query
 [/jingtanhaoshop.com/]https://223.5.5.5/dns-query
 [/jingtao58.com/]https://223.5.5.5/dns-query
@@ -44938,6 +44911,7 @@ quic://dns.tunnel.redteam.club:853
 [/jingzhoulawyer.com/]https://223.5.5.5/dns-query
 [/jingzhunyunting.com/]https://223.5.5.5/dns-query
 [/jingzhusz.com/]https://223.5.5.5/dns-query
+[/jinhaihujingqu.com/]https://223.5.5.5/dns-query
 [/jinhaisujiao.com/]https://223.5.5.5/dns-query
 [/jinhe-energy.com/]https://223.5.5.5/dns-query
 [/jinher.com/]https://223.5.5.5/dns-query
@@ -44958,6 +44932,7 @@ quic://dns.tunnel.redteam.club:853
 [/jiniutech.com/]https://223.5.5.5/dns-query
 [/jinjiang-group.com/]https://223.5.5.5/dns-query
 [/jinjiang.com/]https://223.5.5.5/dns-query
+[/jinjiang.tv/]https://223.5.5.5/dns-query
 [/jinjianginns.com/]https://223.5.5.5/dns-query
 [/jinjie.tech/]https://223.5.5.5/dns-query
 [/jinjiedu.com/]https://223.5.5.5/dns-query
@@ -45370,6 +45345,7 @@ quic://dns.tunnel.redteam.club:853
 [/jiyoujia.com/]https://223.5.5.5/dns-query
 [/jiyouwang.com/]https://223.5.5.5/dns-query
 [/jiyuanfangchan.com/]https://223.5.5.5/dns-query
+[/jiyue-auto.com/]https://223.5.5.5/dns-query
 [/jiyuncn.com/]https://223.5.5.5/dns-query
 [/jiyunhudong.com/]https://223.5.5.5/dns-query
 [/jiyuntang.com/]https://223.5.5.5/dns-query
@@ -45470,7 +45446,6 @@ quic://dns.tunnel.redteam.club:853
 [/jjtravel.com/]https://223.5.5.5/dns-query
 [/jjttjx.com/]https://223.5.5.5/dns-query
 [/jjw.com/]https://223.5.5.5/dns-query
-[/jjwbc.com/]https://223.5.5.5/dns-query
 [/jjwli.com/]https://223.5.5.5/dns-query
 [/jjwxc.com/]https://223.5.5.5/dns-query
 [/jjwxc.net/]https://223.5.5.5/dns-query
@@ -45508,7 +45483,6 @@ quic://dns.tunnel.redteam.club:853
 [/jkcorkpads.com/]https://223.5.5.5/dns-query
 [/jkcsjd.com/]https://223.5.5.5/dns-query
 [/jkdsz.com/]https://223.5.5.5/dns-query
-[/jkerwvxbottom.store/]https://223.5.5.5/dns-query
 [/jkfwvip.com/]https://223.5.5.5/dns-query
 [/jkfy5.com/]https://223.5.5.5/dns-query
 [/jkh-ym.com/]https://223.5.5.5/dns-query
@@ -45580,6 +45554,7 @@ quic://dns.tunnel.redteam.club:853
 [/jlguowen.com/]https://223.5.5.5/dns-query
 [/jlgxmob.com/]https://223.5.5.5/dns-query
 [/jlgyjj.com/]https://223.5.5.5/dns-query
+[/jlhs.net/]https://223.5.5.5/dns-query
 [/jlinh.com/]https://223.5.5.5/dns-query
 [/jljgdj.org/]https://223.5.5.5/dns-query
 [/jljinding.com/]https://223.5.5.5/dns-query
@@ -45681,7 +45656,6 @@ quic://dns.tunnel.redteam.club:853
 [/jmyleather.com/]https://223.5.5.5/dns-query
 [/jmyna.net/]https://223.5.5.5/dns-query
 [/jmyqsl.com/]https://223.5.5.5/dns-query
-[/jmyspx.com/]https://223.5.5.5/dns-query
 [/jmzcgs.com/]https://223.5.5.5/dns-query
 [/jmzgo.com/]https://223.5.5.5/dns-query
 [/jmzns.com/]https://223.5.5.5/dns-query
@@ -45869,6 +45843,7 @@ quic://dns.tunnel.redteam.club:853
 [/josephcz.xyz/]https://223.5.5.5/dns-query
 [/joshreso.com/]https://223.5.5.5/dns-query
 [/joshua317.com/]https://223.5.5.5/dns-query
+[/jotop.com/]https://223.5.5.5/dns-query
 [/jotop.net/]https://223.5.5.5/dns-query
 [/jouav.com/]https://223.5.5.5/dns-query
 [/joudou.com/]https://223.5.5.5/dns-query
@@ -46010,7 +45985,6 @@ quic://dns.tunnel.redteam.club:853
 [/jr18.com/]https://223.5.5.5/dns-query
 [/jravity.com/]https://223.5.5.5/dns-query
 [/jrdaimao.com/]https://223.5.5.5/dns-query
-[/jrekg.com/]https://223.5.5.5/dns-query
 [/jrexam.com/]https://223.5.5.5/dns-query
 [/jrfcg.com/]https://223.5.5.5/dns-query
 [/jrgang.com/]https://223.5.5.5/dns-query
@@ -46071,6 +46045,7 @@ quic://dns.tunnel.redteam.club:853
 [/jsbestop.com/]https://223.5.5.5/dns-query
 [/jsbexam.com/]https://223.5.5.5/dns-query
 [/jsbgj.com/]https://223.5.5.5/dns-query
+[/jsbomao.com/]https://223.5.5.5/dns-query
 [/jsbzwh.com/]https://223.5.5.5/dns-query
 [/jscdn.ink/]https://223.5.5.5/dns-query
 [/jscdwlw.com/]https://223.5.5.5/dns-query
@@ -46082,6 +46057,8 @@ quic://dns.tunnel.redteam.club:853
 [/jsclearing.com/]https://223.5.5.5/dns-query
 [/jscmjt.com/]https://223.5.5.5/dns-query
 [/jscnc.net/]https://223.5.5.5/dns-query
+[/jscnnet.com/]https://223.5.5.5/dns-query
+[/jscrg.com/]https://223.5.5.5/dns-query
 [/jscsdr.com/]https://223.5.5.5/dns-query
 [/jscsfc.com/]https://223.5.5.5/dns-query
 [/jscssimg.com/]https://223.5.5.5/dns-query
@@ -46105,8 +46082,10 @@ quic://dns.tunnel.redteam.club:853
 [/jseduinfo.com/]https://223.5.5.5/dns-query
 [/jseepub.com/]https://223.5.5.5/dns-query
 [/jsendian.com/]https://223.5.5.5/dns-query
+[/jsenews.com/]https://223.5.5.5/dns-query
 [/jseoptics.com/]https://223.5.5.5/dns-query
 [/jser.io/]https://223.5.5.5/dns-query
+[/jsfj.net/]https://223.5.5.5/dns-query
 [/jsfmly.com/]https://223.5.5.5/dns-query
 [/jsfof.com/]https://223.5.5.5/dns-query
 [/jsform.com/]https://223.5.5.5/dns-query
@@ -46158,6 +46137,7 @@ quic://dns.tunnel.redteam.club:853
 [/jshyzh.net/]https://223.5.5.5/dns-query
 [/jsifa.org/]https://223.5.5.5/dns-query
 [/jsinfo.net/]https://223.5.5.5/dns-query
+[/jsirfe.com/]https://223.5.5.5/dns-query
 [/jsiteec.org/]https://223.5.5.5/dns-query
 [/jsjclykz.com/]https://223.5.5.5/dns-query
 [/jsjdgy.com/]https://223.5.5.5/dns-query
@@ -46172,6 +46152,7 @@ quic://dns.tunnel.redteam.club:853
 [/jsjs.cc/]https://223.5.5.5/dns-query
 [/jsjs.org/]https://223.5.5.5/dns-query
 [/jsjslk.com/]https://223.5.5.5/dns-query
+[/jsjtxx.com/]https://223.5.5.5/dns-query
 [/jsjxh03.com/]https://223.5.5.5/dns-query
 [/jsjyrcb.com/]https://223.5.5.5/dns-query
 [/jsk365.com/]https://223.5.5.5/dns-query
@@ -46230,7 +46211,6 @@ quic://dns.tunnel.redteam.club:853
 [/jsqt.com/]https://223.5.5.5/dns-query
 [/jsrc.com/]https://223.5.5.5/dns-query
 [/jsrcu.com/]https://223.5.5.5/dns-query
-[/jsrdxl.com/]https://223.5.5.5/dns-query
 [/jsrmzscl.com/]https://223.5.5.5/dns-query
 [/jsrrcb.com/]https://223.5.5.5/dns-query
 [/jsrsrc.com/]https://223.5.5.5/dns-query
@@ -46311,6 +46291,7 @@ quic://dns.tunnel.redteam.club:853
 [/jsxpbc.com/]https://223.5.5.5/dns-query
 [/jsxxzh.com/]https://223.5.5.5/dns-query
 [/jsxy.biz/]https://223.5.5.5/dns-query
+[/jsxyfy.com/]https://223.5.5.5/dns-query
 [/jsxzty.com/]https://223.5.5.5/dns-query
 [/jsybjz.com/]https://223.5.5.5/dns-query
 [/jsycsy.com/]https://223.5.5.5/dns-query
@@ -46359,7 +46340,6 @@ quic://dns.tunnel.redteam.club:853
 [/jtgloble.com/]https://223.5.5.5/dns-query
 [/jtgzfw.com/]https://223.5.5.5/dns-query
 [/jthcsx.com/]https://223.5.5.5/dns-query
-[/jtimg.com/]https://223.5.5.5/dns-query
 [/jtj-kr.com/]https://223.5.5.5/dns-query
 [/jtjr99.com/]https://223.5.5.5/dns-query
 [/jtlw.com/]https://223.5.5.5/dns-query
@@ -46493,6 +46473,7 @@ quic://dns.tunnel.redteam.club:853
 [/jukejia.com/]https://223.5.5.5/dns-query
 [/juketai.net/]https://223.5.5.5/dns-query
 [/jukeyouxuan.com/]https://223.5.5.5/dns-query
+[/jukichina.com/]https://223.5.5.5/dns-query
 [/jukuu.com/]https://223.5.5.5/dns-query
 [/julaibao.com/]https://223.5.5.5/dns-query
 [/julanhp.com/]https://223.5.5.5/dns-query
@@ -46764,7 +46745,6 @@ quic://dns.tunnel.redteam.club:853
 [/jx-189.com/]https://223.5.5.5/dns-query
 [/jx-bank.com/]https://223.5.5.5/dns-query
 [/jx-lhmy.com/]https://223.5.5.5/dns-query
-[/jx-nc.com/]https://223.5.5.5/dns-query
 [/jx.la/]https://223.5.5.5/dns-query
 [/jx09.com/]https://223.5.5.5/dns-query
 [/jx116114.com/]https://223.5.5.5/dns-query
@@ -47079,6 +47059,7 @@ quic://dns.tunnel.redteam.club:853
 [/jzhfz.com/]https://223.5.5.5/dns-query
 [/jzhkr.com/]https://223.5.5.5/dns-query
 [/jzhlgg.com/]https://223.5.5.5/dns-query
+[/jzhx.net/]https://223.5.5.5/dns-query
 [/jzj2009.com/]https://223.5.5.5/dns-query
 [/jzj9999.com/]https://223.5.5.5/dns-query
 [/jzjgift.com/]https://223.5.5.5/dns-query
@@ -47977,6 +47958,7 @@ quic://dns.tunnel.redteam.club:853
 [/kings3d.com/]https://223.5.5.5/dns-query
 [/kingsemi.com/]https://223.5.5.5/dns-query
 [/kingslicer.com/]https://223.5.5.5/dns-query
+[/kingsmen-gc.com/]https://223.5.5.5/dns-query
 [/kingsoft-office-service.com/]https://223.5.5.5/dns-query
 [/kingsoft.com/]https://223.5.5.5/dns-query
 [/kingsoft.net/]https://223.5.5.5/dns-query
@@ -48235,12 +48217,12 @@ quic://dns.tunnel.redteam.club:853
 [/kmxg.net/]https://223.5.5.5/dns-query
 [/kmxkh.com/]https://223.5.5.5/dns-query
 [/kmxqt.com/]https://223.5.5.5/dns-query
-[/kmxszaoautomatic.cloud/]https://223.5.5.5/dns-query
 [/kmxyj.com/]https://223.5.5.5/dns-query
 [/kmyanyou.com/]https://223.5.5.5/dns-query
 [/kmyestar.com/]https://223.5.5.5/dns-query
 [/kmzscc.com/]https://223.5.5.5/dns-query
 [/kmzx.org/]https://223.5.5.5/dns-query
+[/kn-nanjing.com/]https://223.5.5.5/dns-query
 [/kn120.com/]https://223.5.5.5/dns-query
 [/knewbi.com/]https://223.5.5.5/dns-query
 [/knewone.com/]https://223.5.5.5/dns-query
@@ -48492,10 +48474,8 @@ quic://dns.tunnel.redteam.club:853
 [/kshot.com/]https://223.5.5.5/dns-query
 [/kshtxf.com/]https://223.5.5.5/dns-query
 [/kshuwx.com/]https://223.5.5.5/dns-query
-[/kshxdzby.com/]https://223.5.5.5/dns-query
 [/ksjgs.com/]https://223.5.5.5/dns-query
 [/ksjhaoka.com/]https://223.5.5.5/dns-query
-[/ksjkh.com/]https://223.5.5.5/dns-query
 [/ksjxgs.com/]https://223.5.5.5/dns-query
 [/kskwai.com/]https://223.5.5.5/dns-query
 [/kslyt.com/]https://223.5.5.5/dns-query
@@ -48577,6 +48557,7 @@ quic://dns.tunnel.redteam.club:853
 [/ktlstbg.com/]https://223.5.5.5/dns-query
 [/ktmap.com/]https://223.5.5.5/dns-query
 [/ktmv.com/]https://223.5.5.5/dns-query
+[/ktmwan.net/]https://223.5.5.5/dns-query
 [/ktokib.com/]https://223.5.5.5/dns-query
 [/ktplay.com/]https://223.5.5.5/dns-query
 [/ktqzsj.com/]https://223.5.5.5/dns-query
@@ -48799,7 +48780,6 @@ quic://dns.tunnel.redteam.club:853
 [/kuiniuca.com/]https://223.5.5.5/dns-query
 [/kuishiba.com/]https://223.5.5.5/dns-query
 [/kuishuling.com/]https://223.5.5.5/dns-query
-[/kuiziqiyun.com/]https://223.5.5.5/dns-query
 [/kujiale.com/]https://223.5.5.5/dns-query
 [/kujiang.com/]https://223.5.5.5/dns-query
 [/kujiang.net/]https://223.5.5.5/dns-query
@@ -49051,7 +49031,6 @@ quic://dns.tunnel.redteam.club:853
 [/kyec.cc/]https://223.5.5.5/dns-query
 [/kyedu.cc/]https://223.5.5.5/dns-query
 [/kyemall.com/]https://223.5.5.5/dns-query
-[/kygf5.com/]https://223.5.5.5/dns-query
 [/kygz1.com/]https://223.5.5.5/dns-query
 [/kyhtech.com/]https://223.5.5.5/dns-query
 [/kyjlhz.com/]https://223.5.5.5/dns-query
@@ -49065,7 +49044,6 @@ quic://dns.tunnel.redteam.club:853
 [/kylinos.com/]https://223.5.5.5/dns-query
 [/kylinpet.com/]https://223.5.5.5/dns-query
 [/kymjs.com/]https://223.5.5.5/dns-query
-[/kymnz.com/]https://223.5.5.5/dns-query
 [/kynwg.com/]https://223.5.5.5/dns-query
 [/kyo.hk/]https://223.5.5.5/dns-query
 [/kyoceraconnect.com/]https://223.5.5.5/dns-query
@@ -49243,6 +49221,7 @@ quic://dns.tunnel.redteam.club:853
 [/lakwdian.com/]https://223.5.5.5/dns-query
 [/lalaba.com/]https://223.5.5.5/dns-query
 [/lalaedu.com/]https://223.5.5.5/dns-query
+[/lalavision.com/]https://223.5.5.5/dns-query
 [/lalawaimai.com/]https://223.5.5.5/dns-query
 [/lalkk.com/]https://223.5.5.5/dns-query
 [/lamabang.com/]https://223.5.5.5/dns-query
@@ -49456,7 +49435,6 @@ quic://dns.tunnel.redteam.club:853
 [/lanyunone.com/]https://223.5.5.5/dns-query
 [/lanyus.com/]https://223.5.5.5/dns-query
 [/lanyusf.com/]https://223.5.5.5/dns-query
-[/lanzhisky.com/]https://223.5.5.5/dns-query
 [/lanzhouhongyuan.com/]https://223.5.5.5/dns-query
 [/lanzhouvw.com/]https://223.5.5.5/dns-query
 [/lanzhuwh.com/]https://223.5.5.5/dns-query
@@ -49795,7 +49773,6 @@ quic://dns.tunnel.redteam.club:853
 [/lcyhdl.com/]https://223.5.5.5/dns-query
 [/lcyidc.com/]https://223.5.5.5/dns-query
 [/lcykgg.com/]https://223.5.5.5/dns-query
-[/lcylcy.cc/]https://223.5.5.5/dns-query
 [/lcyp.net/]https://223.5.5.5/dns-query
 [/lcyrny.com/]https://223.5.5.5/dns-query
 [/lcysc.com/]https://223.5.5.5/dns-query
@@ -49821,13 +49798,9 @@ quic://dns.tunnel.redteam.club:853
 [/ldfdcw.com/]https://223.5.5.5/dns-query
 [/ldgbetq.lol/]https://223.5.5.5/dns-query
 [/ldgdhhu.lol/]https://223.5.5.5/dns-query
-[/ldgs0i.lol/]https://223.5.5.5/dns-query
 [/ldgsitg.lol/]https://223.5.5.5/dns-query
 [/ldgslb.com/]https://223.5.5.5/dns-query
-[/ldgslu.lol/]https://223.5.5.5/dns-query
-[/ldgtlz.lol/]https://223.5.5.5/dns-query
 [/ldgyscu.lol/]https://223.5.5.5/dns-query
-[/ldgzn6.lol/]https://223.5.5.5/dns-query
 [/ldhrd.com/]https://223.5.5.5/dns-query
 [/ldhxbj.com/]https://223.5.5.5/dns-query
 [/ldj-edujy.com/]https://223.5.5.5/dns-query
@@ -49877,6 +49850,7 @@ quic://dns.tunnel.redteam.club:853
 [/leader755.com/]https://223.5.5.5/dns-query
 [/leaderhero.com/]https://223.5.5.5/dns-query
 [/leaderlawyer.com/]https://223.5.5.5/dns-query
+[/leaderobot.com/]https://223.5.5.5/dns-query
 [/leadge.com/]https://223.5.5.5/dns-query
 [/leadlan.com/]https://223.5.5.5/dns-query
 [/leadmoad.com/]https://223.5.5.5/dns-query
@@ -49898,7 +49872,6 @@ quic://dns.tunnel.redteam.club:853
 [/leangoo.com/]https://223.5.5.5/dns-query
 [/leanote.com/]https://223.5.5.5/dns-query
 [/leansoftx.com/]https://223.5.5.5/dns-query
-[/leantaipei.com/]https://223.5.5.5/dns-query
 [/leanwind.com/]https://223.5.5.5/dns-query
 [/leanyon.com/]https://223.5.5.5/dns-query
 [/leap-pc.com/]https://223.5.5.5/dns-query
@@ -50372,7 +50345,6 @@ quic://dns.tunnel.redteam.club:853
 [/lgxly.com/]https://223.5.5.5/dns-query
 [/lgyudiao.com/]https://223.5.5.5/dns-query
 [/lgzowo.com/]https://223.5.5.5/dns-query
-[/lgzypx.com/]https://223.5.5.5/dns-query
 [/lgzzu.com/]https://223.5.5.5/dns-query
 [/lh-lx.com/]https://223.5.5.5/dns-query
 [/lh.link/]https://223.5.5.5/dns-query
@@ -50854,6 +50826,7 @@ quic://dns.tunnel.redteam.club:853
 [/lingkawaii.ltd/]https://223.5.5.5/dns-query
 [/lingkebang.com/]https://223.5.5.5/dns-query
 [/lingkou.com/]https://223.5.5.5/dns-query
+[/lingkou.xyz/]https://223.5.5.5/dns-query
 [/lingkuyun.com/]https://223.5.5.5/dns-query
 [/lingla.com/]https://223.5.5.5/dns-query
 [/linglingkaimen.com/]https://223.5.5.5/dns-query
@@ -50946,6 +50919,7 @@ quic://dns.tunnel.redteam.club:853
 [/linkbux.com/]https://223.5.5.5/dns-query
 [/linkchant.com/]https://223.5.5.5/dns-query
 [/linkchina.hk/]https://223.5.5.5/dns-query
+[/linkcubecloud.net/]https://223.5.5.5/dns-query
 [/linkdialy.com/]https://223.5.5.5/dns-query
 [/linkease.com/]https://223.5.5.5/dns-query
 [/linked-f.com/]https://223.5.5.5/dns-query
@@ -51120,7 +51094,6 @@ quic://dns.tunnel.redteam.club:853
 [/lishixinzhi.com/]https://223.5.5.5/dns-query
 [/lishiyixue.com/]https://223.5.5.5/dns-query
 [/lishizhishi.com/]https://223.5.5.5/dns-query
-[/lishouhong.com/]https://223.5.5.5/dns-query
 [/lishugoucun.com/]https://223.5.5.5/dns-query
 [/lishuhang.me/]https://223.5.5.5/dns-query
 [/lishuhao.ltd/]https://223.5.5.5/dns-query
@@ -51219,7 +51192,6 @@ quic://dns.tunnel.redteam.club:853
 [/liukebao.com/]https://223.5.5.5/dns-query
 [/liulan.net/]https://223.5.5.5/dns-query
 [/liulan7.net/]https://223.5.5.5/dns-query
-[/liulanmi.com/]https://223.5.5.5/dns-query
 [/liulanqi.com/]https://223.5.5.5/dns-query
 [/liulanqi.net/]https://223.5.5.5/dns-query
 [/liulantao.com/]https://223.5.5.5/dns-query
@@ -51255,6 +51227,7 @@ quic://dns.tunnel.redteam.club:853
 [/liupuzhuo.net/]https://223.5.5.5/dns-query
 [/liuqh.icu/]https://223.5.5.5/dns-query
 [/liurust.com/]https://223.5.5.5/dns-query
+[/liushen.fun/]https://223.5.5.5/dns-query
 [/liushidong.com/]https://223.5.5.5/dns-query
 [/liushuai6.com/]https://223.5.5.5/dns-query
 [/liusibo.com/]https://223.5.5.5/dns-query
@@ -51306,7 +51279,6 @@ quic://dns.tunnel.redteam.club:853
 [/liuzhosoft.com/]https://223.5.5.5/dns-query
 [/liuzhoufushan.com/]https://223.5.5.5/dns-query
 [/liuzhoukaichuang.com/]https://223.5.5.5/dns-query
-[/liuzhouleiyi.com/]https://223.5.5.5/dns-query
 [/liuzhourm.com/]https://223.5.5.5/dns-query
 [/liuzhousteel.com/]https://223.5.5.5/dns-query
 [/liuzhuni.com/]https://223.5.5.5/dns-query
@@ -51333,6 +51305,7 @@ quic://dns.tunnel.redteam.club:853
 [/livevideostack.com/]https://223.5.5.5/dns-query
 [/livotre.com/]https://223.5.5.5/dns-query
 [/liwai.com/]https://223.5.5.5/dns-query
+[/liwanggui.com/]https://223.5.5.5/dns-query
 [/liweicar.com/]https://223.5.5.5/dns-query
 [/liweijia.com/]https://223.5.5.5/dns-query
 [/liweijituan.com/]https://223.5.5.5/dns-query
@@ -52213,6 +52186,7 @@ quic://dns.tunnel.redteam.club:853
 [/lubiao.com/]https://223.5.5.5/dns-query
 [/lubotv.com/]https://223.5.5.5/dns-query
 [/luboyun.com/]https://223.5.5.5/dns-query
+[/luchentech.com/]https://223.5.5.5/dns-query
 [/luchuang.com/]https://223.5.5.5/dns-query
 [/luchuanquan.com/]https://223.5.5.5/dns-query
 [/luciaz.me/]https://223.5.5.5/dns-query
@@ -52481,7 +52455,6 @@ quic://dns.tunnel.redteam.club:853
 [/lvjuelaw.com/]https://223.5.5.5/dns-query
 [/lvjuf.com/]https://223.5.5.5/dns-query
 [/lvjunzx.com/]https://223.5.5.5/dns-query
-[/lvjuwangfc.com/]https://223.5.5.5/dns-query
 [/lvke.wiki/]https://223.5.5.5/dns-query
 [/lvkhouse.com/]https://223.5.5.5/dns-query
 [/lvkun.site/]https://223.5.5.5/dns-query
@@ -52741,7 +52714,6 @@ quic://dns.tunnel.redteam.club:853
 [/lysteel.com/]https://223.5.5.5/dns-query
 [/lysy360.com/]https://223.5.5.5/dns-query
 [/lysyzx.com/]https://223.5.5.5/dns-query
-[/lytdcb.com/]https://223.5.5.5/dns-query
 [/lythw.com/]https://223.5.5.5/dns-query
 [/lytning.xyz/]https://223.5.5.5/dns-query
 [/lytoufang.com/]https://223.5.5.5/dns-query
@@ -52906,7 +52878,6 @@ quic://dns.tunnel.redteam.club:853
 [/lzmy123.com/]https://223.5.5.5/dns-query
 [/lznbjz.com/]https://223.5.5.5/dns-query
 [/lznetease.com/]https://223.5.5.5/dns-query
-[/lznuoli.com/]https://223.5.5.5/dns-query
 [/lzoam.com/]https://223.5.5.5/dns-query
 [/lzolm.com/]https://223.5.5.5/dns-query
 [/lzorient.com/]https://223.5.5.5/dns-query
@@ -52961,7 +52932,6 @@ quic://dns.tunnel.redteam.club:853
 [/lzwopu.com/]https://223.5.5.5/dns-query
 [/lzwsgs.com/]https://223.5.5.5/dns-query
 [/lzwx.com/]https://223.5.5.5/dns-query
-[/lzwyg.com/]https://223.5.5.5/dns-query
 [/lzxbook.com/]https://223.5.5.5/dns-query
 [/lzxder.xyz/]https://223.5.5.5/dns-query
 [/lzxfmc.com/]https://223.5.5.5/dns-query
@@ -53151,7 +53121,6 @@ quic://dns.tunnel.redteam.club:853
 [/magfx-jbkk.com/]https://223.5.5.5/dns-query
 [/magi.com/]https://223.5.5.5/dns-query
 [/magic-school.com/]https://223.5.5.5/dns-query
-[/magicchinese.net/]https://223.5.5.5/dns-query
 [/magicdata.io/]https://223.5.5.5/dns-query
 [/magich5page.com/]https://223.5.5.5/dns-query
 [/magicleaders.com/]https://223.5.5.5/dns-query
@@ -53271,7 +53240,6 @@ quic://dns.tunnel.redteam.club:853
 [/maituan.com/]https://223.5.5.5/dns-query
 [/maitube.com/]https://223.5.5.5/dns-query
 [/maiwe.com/]https://223.5.5.5/dns-query
-[/maiwei.com/]https://223.5.5.5/dns-query
 [/maiweikj.com/]https://223.5.5.5/dns-query
 [/maixhub.com/]https://223.5.5.5/dns-query
 [/maixiaba.com/]https://223.5.5.5/dns-query
@@ -53293,6 +53261,7 @@ quic://dns.tunnel.redteam.club:853
 [/majiang520.com/]https://223.5.5.5/dns-query
 [/majilive.com/]https://223.5.5.5/dns-query
 [/major-epoch.com/]https://223.5.5.5/dns-query
+[/majorbio.com/]https://223.5.5.5/dns-query
 [/majorsec.com/]https://223.5.5.5/dns-query
 [/majorstougod.com/]https://223.5.5.5/dns-query
 [/majsoul.com/]https://223.5.5.5/dns-query
@@ -53482,7 +53451,6 @@ quic://dns.tunnel.redteam.club:853
 [/maodouapp.com/]https://223.5.5.5/dns-query
 [/maodouketang.com/]https://223.5.5.5/dns-query
 [/maoercdn.com/]https://223.5.5.5/dns-query
-[/maofengwl.com/]https://223.5.5.5/dns-query
 [/maoflag.net/]https://223.5.5.5/dns-query
 [/maogang.com/]https://223.5.5.5/dns-query
 [/maogepingbeauty.com/]https://223.5.5.5/dns-query
@@ -53635,6 +53603,7 @@ quic://dns.tunnel.redteam.club:853
 [/mat-test.com/]https://223.5.5.5/dns-query
 [/matao.com/]https://223.5.5.5/dns-query
 [/matchboxnetwork.com/]https://223.5.5.5/dns-query
+[/matchsaas.com/]https://223.5.5.5/dns-query
 [/matchupexpo.com/]https://223.5.5.5/dns-query
 [/matchvs.com/]https://223.5.5.5/dns-query
 [/mate.vip/]https://223.5.5.5/dns-query
@@ -53783,6 +53752,7 @@ quic://dns.tunnel.redteam.club:853
 [/mcake.com/]https://223.5.5.5/dns-query
 [/mcbbs.net/]https://223.5.5.5/dns-query
 [/mcbeam.pro/]https://223.5.5.5/dns-query
+[/mcc460.pub.3gppnetwork.org/]https://223.5.5.5/dns-query
 [/mccbim.com/]https://223.5.5.5/dns-query
 [/mcchcdn.com/]https://223.5.5.5/dns-query
 [/mcchina.com/]https://223.5.5.5/dns-query
@@ -53922,6 +53892,7 @@ quic://dns.tunnel.redteam.club:853
 [/meekdai.com/]https://223.5.5.5/dns-query
 [/meeket.com/]https://223.5.5.5/dns-query
 [/meeshow.com/]https://223.5.5.5/dns-query
+[/meet-in-shanghai.net/]https://223.5.5.5/dns-query
 [/meet99.com/]https://223.5.5.5/dns-query
 [/meetbf.com/]https://223.5.5.5/dns-query
 [/meetfave.com/]https://223.5.5.5/dns-query
@@ -54071,7 +54042,6 @@ quic://dns.tunnel.redteam.club:853
 [/meilvtong.com/]https://223.5.5.5/dns-query
 [/meimeidu.com/]https://223.5.5.5/dns-query
 [/meimeifa.com/]https://223.5.5.5/dns-query
-[/meimeio.com/]https://223.5.5.5/dns-query
 [/meimeiriji.com/]https://223.5.5.5/dns-query
 [/meimeiyouxin.com/]https://223.5.5.5/dns-query
 [/meimianjiafang.com/]https://223.5.5.5/dns-query
@@ -54107,7 +54077,6 @@ quic://dns.tunnel.redteam.club:853
 [/meishanren.com/]https://223.5.5.5/dns-query
 [/meishe-app.com/]https://223.5.5.5/dns-query
 [/meisheapp.com/]https://223.5.5.5/dns-query
-[/meishengjj.com/]https://223.5.5.5/dns-query
 [/meishesdk.com/]https://223.5.5.5/dns-query
 [/meishi.cc/]https://223.5.5.5/dns-query
 [/meishi13.com/]https://223.5.5.5/dns-query
@@ -54178,7 +54147,6 @@ quic://dns.tunnel.redteam.club:853
 [/meizhou.com/]https://223.5.5.5/dns-query
 [/meizhou.net/]https://223.5.5.5/dns-query
 [/meizhuangbk.com/]https://223.5.5.5/dns-query
-[/meizhuhotels.com/]https://223.5.5.5/dns-query
 [/meizitu.net/]https://223.5.5.5/dns-query
 [/meizu.com.hk/]https://223.5.5.5/dns-query
 [/meizu.com/]https://223.5.5.5/dns-query
@@ -54303,6 +54271,7 @@ quic://dns.tunnel.redteam.club:853
 [/metacd.com/]https://223.5.5.5/dns-query
 [/metal-min.com/]https://223.5.5.5/dns-query
 [/metal-tube.com/]https://223.5.5.5/dns-query
+[/metal.com/]https://223.5.5.5/dns-query
 [/metalchina.com/]https://223.5.5.5/dns-query
 [/metaluxuryagent.com/]https://223.5.5.5/dns-query
 [/metalyoung.com/]https://223.5.5.5/dns-query
@@ -54413,6 +54382,7 @@ quic://dns.tunnel.redteam.club:853
 [/mgtv.com/]https://223.5.5.5/dns-query
 [/mgw999.com/]https://223.5.5.5/dns-query
 [/mgwxw.com/]https://223.5.5.5/dns-query
+[/mgx3nu.com/]https://223.5.5.5/dns-query
 [/mgxzsy.com/]https://223.5.5.5/dns-query
 [/mgyd178.com/]https://223.5.5.5/dns-query
 [/mgygs.com/]https://223.5.5.5/dns-query
@@ -54421,7 +54391,6 @@ quic://dns.tunnel.redteam.club:853
 [/mgzf.com/]https://223.5.5.5/dns-query
 [/mgzxzs.com/]https://223.5.5.5/dns-query
 [/mh160.cc/]https://223.5.5.5/dns-query
-[/mh2288.com/]https://223.5.5.5/dns-query
 [/mh456.com/]https://223.5.5.5/dns-query
 [/mh51.com/]https://223.5.5.5/dns-query
 [/mh9.cc/]https://223.5.5.5/dns-query
@@ -54458,7 +54427,6 @@ quic://dns.tunnel.redteam.club:853
 [/mhyun.net/]https://223.5.5.5/dns-query
 [/mhzd.cc/]https://223.5.5.5/dns-query
 [/mhzd.net/]https://223.5.5.5/dns-query
-[/mhzsg.com/]https://223.5.5.5/dns-query
 [/mi-ae.net/]https://223.5.5.5/dns-query
 [/mi-dong.com/]https://223.5.5.5/dns-query
 [/mi-dun.com/]https://223.5.5.5/dns-query
@@ -54707,7 +54675,6 @@ quic://dns.tunnel.redteam.club:853
 [/milejia.com/]https://223.5.5.5/dns-query
 [/milemovie.com/]https://223.5.5.5/dns-query
 [/mileshub.net/]https://223.5.5.5/dns-query
-[/milfuns.com/]https://223.5.5.5/dns-query
 [/milianshe.com/]https://223.5.5.5/dns-query
 [/miliantech.com/]https://223.5.5.5/dns-query
 [/miliao.com/]https://223.5.5.5/dns-query
@@ -55033,6 +55000,7 @@ quic://dns.tunnel.redteam.club:853
 [/mizhionline.com/]https://223.5.5.5/dns-query
 [/mizhizbf.vip/]https://223.5.5.5/dns-query
 [/mj110.net/]https://223.5.5.5/dns-query
+[/mj31ir.com/]https://223.5.5.5/dns-query
 [/mj85.com/]https://223.5.5.5/dns-query
 [/mjasoft.com/]https://223.5.5.5/dns-query
 [/mjceo.com/]https://223.5.5.5/dns-query
@@ -55226,7 +55194,6 @@ quic://dns.tunnel.redteam.club:853
 [/mnaafjk.com/]https://223.5.5.5/dns-query
 [/mnancheng.com/]https://223.5.5.5/dns-query
 [/mnbvtgv.com/]https://223.5.5.5/dns-query
-[/mnc011.mcc460.pub.3gppnetwork.org/]https://223.5.5.5/dns-query
 [/mnengine.com/]https://223.5.5.5/dns-query
 [/mnghjkiitik.cfd/]https://223.5.5.5/dns-query
 [/mnihyc.com/]https://223.5.5.5/dns-query
@@ -55480,7 +55447,6 @@ quic://dns.tunnel.redteam.club:853
 [/momobako.com/]https://223.5.5.5/dns-query
 [/momocdn.com/]https://223.5.5.5/dns-query
 [/momoda8.com/]https://223.5.5.5/dns-query
-[/momodamimasuo.com/]https://223.5.5.5/dns-query
 [/momooyo.com/]https://223.5.5.5/dns-query
 [/momoshifu.com/]https://223.5.5.5/dns-query
 [/momotn.com/]https://223.5.5.5/dns-query
@@ -55525,7 +55491,6 @@ quic://dns.tunnel.redteam.club:853
 [/moonbitlang.com/]https://223.5.5.5/dns-query
 [/mooncell.wiki/]https://223.5.5.5/dns-query
 [/mooncoalition.com/]https://223.5.5.5/dns-query
-[/moonflower.fun/]https://223.5.5.5/dns-query
 [/moonfly.net/]https://223.5.5.5/dns-query
 [/mooninbox.com/]https://223.5.5.5/dns-query
 [/moonjer.com/]https://223.5.5.5/dns-query
@@ -55635,7 +55600,6 @@ quic://dns.tunnel.redteam.club:853
 [/moulem.com/]https://223.5.5.5/dns-query
 [/moumi.com/]https://223.5.5.5/dns-query
 [/mounriver.com/]https://223.5.5.5/dns-query
-[/mounstar.com/]https://223.5.5.5/dns-query
 [/mountor.net/]https://223.5.5.5/dns-query
 [/mounui.com/]https://223.5.5.5/dns-query
 [/mouoo.com/]https://223.5.5.5/dns-query
@@ -55646,7 +55610,6 @@ quic://dns.tunnel.redteam.club:853
 [/movcam.com/]https://223.5.5.5/dns-query
 [/movesee.com/]https://223.5.5.5/dns-query
 [/movesky.net/]https://223.5.5.5/dns-query
-[/movetomodesty.com/]https://223.5.5.5/dns-query
 [/movie365.tv/]https://223.5.5.5/dns-query
 [/moviemore.com/]https://223.5.5.5/dns-query
 [/moviereviewtoday.com/]https://223.5.5.5/dns-query
@@ -55720,7 +55683,6 @@ quic://dns.tunnel.redteam.club:853
 [/mqc168.com/]https://223.5.5.5/dns-query
 [/mqcoffee.com/]https://223.5.5.5/dns-query
 [/mqguitar.com/]https://223.5.5.5/dns-query
-[/mqjnpj.com/]https://223.5.5.5/dns-query
 [/mqmgroup.com/]https://223.5.5.5/dns-query
 [/mqsyr.com/]https://223.5.5.5/dns-query
 [/mqttdkx.vip/]https://223.5.5.5/dns-query
@@ -55776,7 +55738,6 @@ quic://dns.tunnel.redteam.club:853
 [/mrwish.net/]https://223.5.5.5/dns-query
 [/mryunwei.com/]https://223.5.5.5/dns-query
 [/mryys.com/]https://223.5.5.5/dns-query
-[/mrzhang.site/]https://223.5.5.5/dns-query
 [/mrzhenggang.com/]https://223.5.5.5/dns-query
 [/ms08067.com/]https://223.5.5.5/dns-query
 [/ms211.com/]https://223.5.5.5/dns-query
@@ -55824,7 +55785,6 @@ quic://dns.tunnel.redteam.club:853
 [/mspacecd.com/]https://223.5.5.5/dns-query
 [/mspharm.com/]https://223.5.5.5/dns-query
 [/msproduct.download.prss.microsoft.com/]https://223.5.5.5/dns-query
-[/msproductuat.download.prss.microsoft.com/]https://223.5.5.5/dns-query
 [/msrtvu.net/]https://223.5.5.5/dns-query
 [/msstatic.com/]https://223.5.5.5/dns-query
 [/mst-jc.com/]https://223.5.5.5/dns-query
@@ -56397,7 +56357,6 @@ quic://dns.tunnel.redteam.club:853
 [/mysore-yoga.com/]https://223.5.5.5/dns-query
 [/myspain.org/]https://223.5.5.5/dns-query
 [/mysqlab.net/]https://223.5.5.5/dns-query
-[/mysqlops.com/]https://223.5.5.5/dns-query
 [/mysqlpub.com/]https://223.5.5.5/dns-query
 [/myssl.com/]https://223.5.5.5/dns-query
 [/mystao.com/]https://223.5.5.5/dns-query
@@ -56571,7 +56530,6 @@ quic://dns.tunnel.redteam.club:853
 [/naimal.com/]https://223.5.5.5/dns-query
 [/naimei.com/]https://223.5.5.5/dns-query
 [/naiping.net/]https://223.5.5.5/dns-query
-[/naisiw.com/]https://223.5.5.5/dns-query
 [/naitang.com/]https://223.5.5.5/dns-query
 [/naitta.com/]https://223.5.5.5/dns-query
 [/naiveadmin.com/]https://223.5.5.5/dns-query
@@ -56767,7 +56725,6 @@ quic://dns.tunnel.redteam.club:853
 [/nbabm.com/]https://223.5.5.5/dns-query
 [/nbahero.com/]https://223.5.5.5/dns-query
 [/nbahi.com/]https://223.5.5.5/dns-query
-[/nbahjx.com/]https://223.5.5.5/dns-query
 [/nbaidai.com/]https://223.5.5.5/dns-query
 [/nball.cc/]https://223.5.5.5/dns-query
 [/nbaoke.com/]https://223.5.5.5/dns-query
@@ -56889,7 +56846,6 @@ quic://dns.tunnel.redteam.club:853
 [/ncsjhf.com/]https://223.5.5.5/dns-query
 [/ncsszjs.com/]https://223.5.5.5/dns-query
 [/ncsyco.com/]https://223.5.5.5/dns-query
-[/nctcwl.com/]https://223.5.5.5/dns-query
 [/nctry.com/]https://223.5.5.5/dns-query
 [/nctvcloud.com/]https://223.5.5.5/dns-query
 [/nctzsj.com/]https://223.5.5.5/dns-query
@@ -56933,13 +56889,13 @@ quic://dns.tunnel.redteam.club:853
 [/ne21.com/]https://223.5.5.5/dns-query
 [/ne365.com/]https://223.5.5.5/dns-query
 [/nealee.com/]https://223.5.5.5/dns-query
-[/nearbymarts.com/]https://223.5.5.5/dns-query
 [/nearcharge.com/]https://223.5.5.5/dns-query
 [/nearsnet.com/]https://223.5.5.5/dns-query
 [/nease.net/]https://223.5.5.5/dns-query
 [/neat-reader.com/]https://223.5.5.5/dns-query
 [/neatifyapp.com/]https://223.5.5.5/dns-query
 [/nebulogy.com/]https://223.5.5.5/dns-query
+[/neccsh.com/]https://223.5.5.5/dns-query
 [/nedigitals.com/]https://223.5.5.5/dns-query
 [/neeca.net/]https://223.5.5.5/dns-query
 [/needexam.com/]https://223.5.5.5/dns-query
@@ -57119,6 +57075,7 @@ quic://dns.tunnel.redteam.club:853
 [/newhopbattery.com/]https://223.5.5.5/dns-query
 [/newhopeagri.com/]https://223.5.5.5/dns-query
 [/newhopegroup.com/]https://223.5.5.5/dns-query
+[/newhqnotary.com/]https://223.5.5.5/dns-query
 [/newhtml.net/]https://223.5.5.5/dns-query
 [/newhua.com/]https://223.5.5.5/dns-query
 [/newhxcapi.com/]https://223.5.5.5/dns-query
@@ -57263,7 +57220,6 @@ quic://dns.tunnel.redteam.club:853
 [/ngrok.cc/]https://223.5.5.5/dns-query
 [/ngrvvcr.com/]https://223.5.5.5/dns-query
 [/ngty556.com/]https://223.5.5.5/dns-query
-[/ngwsdq.com/]https://223.5.5.5/dns-query
 [/ngwxw.com/]https://223.5.5.5/dns-query
 [/nh.com/]https://223.5.5.5/dns-query
 [/nhaidu.com/]https://223.5.5.5/dns-query
@@ -57333,6 +57289,7 @@ quic://dns.tunnel.redteam.club:853
 [/nicky1605.com/]https://223.5.5.5/dns-query
 [/nicolaszhao.com/]https://223.5.5.5/dns-query
 [/niconiconi.cc/]https://223.5.5.5/dns-query
+[/nicosu.com/]https://223.5.5.5/dns-query
 [/nicotine.vip/]https://223.5.5.5/dns-query
 [/nics365.com/]https://223.5.5.5/dns-query
 [/nicsbuy.com/]https://223.5.5.5/dns-query
@@ -57409,7 +57366,6 @@ quic://dns.tunnel.redteam.club:853
 [/ningzhishidai.com/]https://223.5.5.5/dns-query
 [/ninjacn.com/]https://223.5.5.5/dns-query
 [/ninjadq.com/]https://223.5.5.5/dns-query
-[/ninjia.online/]https://223.5.5.5/dns-query
 [/ninthpalace360.com/]https://223.5.5.5/dns-query
 [/nio.com/]https://223.5.5.5/dns-query
 [/nioapis.com/]https://223.5.5.5/dns-query
@@ -57487,6 +57443,7 @@ quic://dns.tunnel.redteam.club:853
 [/niwodai.net/]https://223.5.5.5/dns-query
 [/niwota.com/]https://223.5.5.5/dns-query
 [/niwoxuexi.com/]https://223.5.5.5/dns-query
+[/nix.pub/]https://223.5.5.5/dns-query
 [/nixi.win/]https://223.5.5.5/dns-query
 [/nixingtao.com/]https://223.5.5.5/dns-query
 [/nixwang.com/]https://223.5.5.5/dns-query
@@ -57499,6 +57456,7 @@ quic://dns.tunnel.redteam.club:853
 [/nj-qiyiguo.net/]https://223.5.5.5/dns-query
 [/nj-ss.com/]https://223.5.5.5/dns-query
 [/nj-tencentclb.cloud/]https://223.5.5.5/dns-query
+[/nj12320.org/]https://223.5.5.5/dns-query
 [/nj1937.org/]https://223.5.5.5/dns-query
 [/nj29jt.net/]https://223.5.5.5/dns-query
 [/njatl.com/]https://223.5.5.5/dns-query
@@ -57506,6 +57464,7 @@ quic://dns.tunnel.redteam.club:853
 [/njbaoxun.com/]https://223.5.5.5/dns-query
 [/njbj888.com/]https://223.5.5.5/dns-query
 [/njbnw.com/]https://223.5.5.5/dns-query
+[/njbpvi.org/]https://223.5.5.5/dns-query
 [/njc100.com/]https://223.5.5.5/dns-query
 [/njcdata.com/]https://223.5.5.5/dns-query
 [/njcedu.com/]https://223.5.5.5/dns-query
@@ -57521,14 +57480,19 @@ quic://dns.tunnel.redteam.club:853
 [/njdcrc.com/]https://223.5.5.5/dns-query
 [/njdewo.com/]https://223.5.5.5/dns-query
 [/njdfwb.com/]https://223.5.5.5/dns-query
+[/njeport.com/]https://223.5.5.5/dns-query
 [/njfkdq.com/]https://223.5.5.5/dns-query
 [/njfklngl.com/]https://223.5.5.5/dns-query
 [/njflt.com/]https://223.5.5.5/dns-query
 [/njfmyd.com/]https://223.5.5.5/dns-query
 [/njfmz.com/]https://223.5.5.5/dns-query
+[/njfybjy.com/]https://223.5.5.5/dns-query
 [/njgb.com/]https://223.5.5.5/dns-query
+[/njgdbus.com/]https://223.5.5.5/dns-query
 [/njgdmm.com/]https://223.5.5.5/dns-query
+[/njgh.org/]https://223.5.5.5/dns-query
 [/njgjj.com/]https://223.5.5.5/dns-query
+[/njgjyy.com/]https://223.5.5.5/dns-query
 [/njgljy.com/]https://223.5.5.5/dns-query
 [/njglyy.com/]https://223.5.5.5/dns-query
 [/njgulan.com/]https://223.5.5.5/dns-query
@@ -57540,15 +57504,19 @@ quic://dns.tunnel.redteam.club:853
 [/njhszoo.com/]https://223.5.5.5/dns-query
 [/njhzypiano.com/]https://223.5.5.5/dns-query
 [/njibhu.com/]https://223.5.5.5/dns-query
+[/njicg.com/]https://223.5.5.5/dns-query
+[/njjcbio.com/]https://223.5.5.5/dns-query
 [/njjn.com/]https://223.5.5.5/dns-query
 [/njjsyy.com/]https://223.5.5.5/dns-query
 [/njjuntong.com/]https://223.5.5.5/dns-query
 [/njjydt.com/]https://223.5.5.5/dns-query
+[/njjz.net/]https://223.5.5.5/dns-query
 [/njkeeryq.com/]https://223.5.5.5/dns-query
 [/njkefayuan.com/]https://223.5.5.5/dns-query
 [/njkhui.com/]https://223.5.5.5/dns-query
 [/njkilter.com/]https://223.5.5.5/dns-query
 [/njkoopan.com/]https://223.5.5.5/dns-query
+[/njkq.net/]https://223.5.5.5/dns-query
 [/njl114.com/]https://223.5.5.5/dns-query
 [/njlg56.com/]https://223.5.5.5/dns-query
 [/njlianyang.com/]https://223.5.5.5/dns-query
@@ -57562,17 +57530,23 @@ quic://dns.tunnel.redteam.club:853
 [/njmapp.com/]https://223.5.5.5/dns-query
 [/njmbwxzx.com/]https://223.5.5.5/dns-query
 [/njmuseum.com/]https://223.5.5.5/dns-query
+[/njmuseumadmin.com/]https://223.5.5.5/dns-query
 [/njnewgreen.com/]https://223.5.5.5/dns-query
 [/njodu.com/]https://223.5.5.5/dns-query
 [/njqxrc.com/]https://223.5.5.5/dns-query
+[/njrsxh.com/]https://223.5.5.5/dns-query
 [/njsc-trade.com/]https://223.5.5.5/dns-query
+[/njsech.com/]https://223.5.5.5/dns-query
 [/njsech.net/]https://223.5.5.5/dns-query
 [/njsenwo.com/]https://223.5.5.5/dns-query
+[/njshsh.com/]https://223.5.5.5/dns-query
 [/njsjz.com/]https://223.5.5.5/dns-query
+[/njslawyers.org/]https://223.5.5.5/dns-query
 [/njsujing.com/]https://223.5.5.5/dns-query
 [/njsutong.com/]https://223.5.5.5/dns-query
 [/njsxbw.com/]https://223.5.5.5/dns-query
 [/njsyue.com/]https://223.5.5.5/dns-query
+[/njszy.com/]https://223.5.5.5/dns-query
 [/njtapery.com/]https://223.5.5.5/dns-query
 [/njtjyq.com/]https://223.5.5.5/dns-query
 [/njtrabon.com/]https://223.5.5.5/dns-query
@@ -57594,11 +57568,14 @@ quic://dns.tunnel.redteam.club:853
 [/njxzbedu.com/]https://223.5.5.5/dns-query
 [/njxzwh.com/]https://223.5.5.5/dns-query
 [/njycwy.com/]https://223.5.5.5/dns-query
+[/njyfpca.org/]https://223.5.5.5/dns-query
 [/njyouwin.com/]https://223.5.5.5/dns-query
 [/njyshb.com/]https://223.5.5.5/dns-query
 [/njyule.club/]https://223.5.5.5/dns-query
 [/njyxdq.com/]https://223.5.5.5/dns-query
+[/njyy.com/]https://223.5.5.5/dns-query
 [/njyydl.com/]https://223.5.5.5/dns-query
+[/njyz.net/]https://223.5.5.5/dns-query
 [/njyzgz.com/]https://223.5.5.5/dns-query
 [/njyzjaz.com/]https://223.5.5.5/dns-query
 [/njzdyq.com/]https://223.5.5.5/dns-query
@@ -58316,6 +58293,7 @@ quic://dns.tunnel.redteam.club:853
 [/nsfocus.com/]https://223.5.5.5/dns-query
 [/nsfocus.net/]https://223.5.5.5/dns-query
 [/nsforce.net/]https://223.5.5.5/dns-query
+[/nsfz.net/]https://223.5.5.5/dns-query
 [/nshen.net/]https://223.5.5.5/dns-query
 [/nshzpks.com/]https://223.5.5.5/dns-query
 [/nsini.com/]https://223.5.5.5/dns-query
@@ -58377,7 +58355,6 @@ quic://dns.tunnel.redteam.club:853
 [/ntjymall.com/]https://223.5.5.5/dns-query
 [/ntlcjd.com/]https://223.5.5.5/dns-query
 [/ntlmy.com/]https://223.5.5.5/dns-query
-[/ntlw588.com/]https://223.5.5.5/dns-query
 [/ntmlxm.com/]https://223.5.5.5/dns-query
 [/ntmyexp.com/]https://223.5.5.5/dns-query
 [/ntneuro.org/]https://223.5.5.5/dns-query
@@ -58640,7 +58617,6 @@ quic://dns.tunnel.redteam.club:853
 [/oaimai.com/]https://223.5.5.5/dns-query
 [/oait360.com/]https://223.5.5.5/dns-query
 [/oajdsr.xyz/]https://223.5.5.5/dns-query
-[/oakfuture.com/]https://223.5.5.5/dns-query
 [/oaklandjs.com/]https://223.5.5.5/dns-query
 [/oameibang.com/]https://223.5.5.5/dns-query
 [/oaooa.com/]https://223.5.5.5/dns-query
@@ -59010,6 +58986,7 @@ quic://dns.tunnel.redteam.club:853
 [/onenice.tech/]https://223.5.5.5/dns-query
 [/oneniceapp.com/]https://223.5.5.5/dns-query
 [/onenoter.com/]https://223.5.5.5/dns-query
+[/oneonewrite.com/]https://223.5.5.5/dns-query
 [/onephper.com/]https://223.5.5.5/dns-query
 [/oneplus.com/]https://223.5.5.5/dns-query
 [/oneplus.pub/]https://223.5.5.5/dns-query
@@ -59017,6 +58994,7 @@ quic://dns.tunnel.redteam.club:853
 [/oneplusbbs.com/]https://223.5.5.5/dns-query
 [/oneplusmobile.com/]https://223.5.5.5/dns-query
 [/onescorpion.com/]https://223.5.5.5/dns-query
+[/oneself.icu/]https://223.5.5.5/dns-query
 [/oneshao.com/]https://223.5.5.5/dns-query
 [/onesight.com/]https://223.5.5.5/dns-query
 [/onething.net/]https://223.5.5.5/dns-query
@@ -59222,6 +59200,7 @@ quic://dns.tunnel.redteam.club:853
 [/opwill.com/]https://223.5.5.5/dns-query
 [/opython.com/]https://223.5.5.5/dns-query
 [/oq78.com/]https://223.5.5.5/dns-query
+[/oqrstu.com/]https://223.5.5.5/dns-query
 [/oqss.com/]https://223.5.5.5/dns-query
 [/or-sun.com/]https://223.5.5.5/dns-query
 [/or77.net/]https://223.5.5.5/dns-query
@@ -59293,7 +59272,6 @@ quic://dns.tunnel.redteam.club:853
 [/orvibo.com/]https://223.5.5.5/dns-query
 [/oryoy.com/]https://223.5.5.5/dns-query
 [/orz.asia/]https://223.5.5.5/dns-query
-[/orz123.com/]https://223.5.5.5/dns-query
 [/orz520.com/]https://223.5.5.5/dns-query
 [/orz6.com/]https://223.5.5.5/dns-query
 [/orztip.com/]https://223.5.5.5/dns-query
@@ -59595,7 +59573,6 @@ quic://dns.tunnel.redteam.club:853
 [/p6air.com/]https://223.5.5.5/dns-query
 [/p6sai.com/]https://223.5.5.5/dns-query
 [/p8games.com/]https://223.5.5.5/dns-query
-[/p9800.com/]https://223.5.5.5/dns-query
 [/p99998888.com/]https://223.5.5.5/dns-query
 [/pa.ci/]https://223.5.5.5/dns-query
 [/pa18.com/]https://223.5.5.5/dns-query
@@ -60763,7 +60740,6 @@ quic://dns.tunnel.redteam.club:853
 [/plexpt.com/]https://223.5.5.5/dns-query
 [/plfrog.com/]https://223.5.5.5/dns-query
 [/plll-fluid.com/]https://223.5.5.5/dns-query
-[/plmso.net/]https://223.5.5.5/dns-query
 [/plob.org/]https://223.5.5.5/dns-query
 [/plopco.com/]https://223.5.5.5/dns-query
 [/plottersyservicioshdz.com/]https://223.5.5.5/dns-query
@@ -61010,6 +60986,7 @@ quic://dns.tunnel.redteam.club:853
 [/powerleaderidc.com/]https://223.5.5.5/dns-query
 [/powerliber.com/]https://223.5.5.5/dns-query
 [/powerskystudio.com/]https://223.5.5.5/dns-query
+[/powerstationofart.com/]https://223.5.5.5/dns-query
 [/powertensors.ai/]https://223.5.5.5/dns-query
 [/powertradepro.com/]https://223.5.5.5/dns-query
 [/powervision.me/]https://223.5.5.5/dns-query
@@ -61224,6 +61201,7 @@ quic://dns.tunnel.redteam.club:853
 [/protontechcn.com/]https://223.5.5.5/dns-query
 [/proup.club/]https://223.5.5.5/dns-query
 [/providence-chemicals.com/]https://223.5.5.5/dns-query
+[/prowine-shanghai.com/]https://223.5.5.5/dns-query
 [/proya-group.com/]https://223.5.5.5/dns-query
 [/proya.com/]https://223.5.5.5/dns-query
 [/proyy.com/]https://223.5.5.5/dns-query
@@ -61412,7 +61390,6 @@ quic://dns.tunnel.redteam.club:853
 [/pushtime.net/]https://223.5.5.5/dns-query
 [/pushyzheng.com/]https://223.5.5.5/dns-query
 [/pusupvc.com/]https://223.5.5.5/dns-query
-[/putako05.com/]https://223.5.5.5/dns-query
 [/putaoa.com/]https://223.5.5.5/dns-query
 [/putaocdn.com/]https://223.5.5.5/dns-query
 [/putaogame.com/]https://223.5.5.5/dns-query
@@ -61501,7 +61478,6 @@ quic://dns.tunnel.redteam.club:853
 [/pymeng.com/]https://223.5.5.5/dns-query
 [/pyneo.com/]https://223.5.5.5/dns-query
 [/pyou.com/]https://223.5.5.5/dns-query
-[/pyppxs.com/]https://223.5.5.5/dns-query
 [/pypt020.com/]https://223.5.5.5/dns-query
 [/pysdsysc.com/]https://223.5.5.5/dns-query
 [/pyshszh.com/]https://223.5.5.5/dns-query
@@ -61678,7 +61654,6 @@ quic://dns.tunnel.redteam.club:853
 [/qctsw.com/]https://223.5.5.5/dns-query
 [/qctx88.com/]https://223.5.5.5/dns-query
 [/qcwan.com/]https://223.5.5.5/dns-query
-[/qcwdpt.com/]https://223.5.5.5/dns-query
 [/qcwh2021.com/]https://223.5.5.5/dns-query
 [/qcwhxx.com/]https://223.5.5.5/dns-query
 [/qcwlseo.com/]https://223.5.5.5/dns-query
@@ -62938,7 +62913,6 @@ quic://dns.tunnel.redteam.club:853
 [/qqkj66.com/]https://223.5.5.5/dns-query
 [/qqkjj.com/]https://223.5.5.5/dns-query
 [/qqkkb.com/]https://223.5.5.5/dns-query
-[/qqkqw.com/]https://223.5.5.5/dns-query
 [/qqkrmotors.com/]https://223.5.5.5/dns-query
 [/qqku.com/]https://223.5.5.5/dns-query
 [/qqkuyou.com/]https://223.5.5.5/dns-query
@@ -63111,6 +63085,7 @@ quic://dns.tunnel.redteam.club:853
 [/qttunion.com/]https://223.5.5.5/dns-query
 [/qtu8.com/]https://223.5.5.5/dns-query
 [/qtumist.com/]https://223.5.5.5/dns-query
+[/qtvnews.com/]https://223.5.5.5/dns-query
 [/qtw555.com/]https://223.5.5.5/dns-query
 [/qtx.com/]https://223.5.5.5/dns-query
 [/qtyd.com/]https://223.5.5.5/dns-query
@@ -63481,6 +63456,7 @@ quic://dns.tunnel.redteam.club:853
 [/quickjoy.com/]https://223.5.5.5/dns-query
 [/quicklaser.com/]https://223.5.5.5/dns-query
 [/quicklyopen.com/]https://223.5.5.5/dns-query
+[/quickpark.cc/]https://223.5.5.5/dns-query
 [/quicksdk.com/]https://223.5.5.5/dns-query
 [/quicksdk.net/]https://223.5.5.5/dns-query
 [/quickswan.com/]https://223.5.5.5/dns-query
@@ -63920,6 +63896,7 @@ quic://dns.tunnel.redteam.club:853
 [/radius-america.com/]https://223.5.5.5/dns-query
 [/radleybagssaleuk.org/]https://223.5.5.5/dns-query
 [/raeblog.com/]https://223.5.5.5/dns-query
+[/rafflesmedicalchina.com/]https://223.5.5.5/dns-query
 [/ragnarokcn.com/]https://223.5.5.5/dns-query
 [/rahisystems-cn.com/]https://223.5.5.5/dns-query
 [/raidc.com/]https://223.5.5.5/dns-query
@@ -64340,7 +64317,6 @@ quic://dns.tunnel.redteam.club:853
 [/renrzx.com/]https://223.5.5.5/dns-query
 [/rensa-hanno.com/]https://223.5.5.5/dns-query
 [/rensheng123.com/]https://223.5.5.5/dns-query
-[/rensheng2.com/]https://223.5.5.5/dns-query
 [/renshouks.com/]https://223.5.5.5/dns-query
 [/rent.work/]https://223.5.5.5/dns-query
 [/rentaihr.com/]https://223.5.5.5/dns-query
@@ -64352,7 +64328,6 @@ quic://dns.tunnel.redteam.club:853
 [/renwuyi.com/]https://223.5.5.5/dns-query
 [/renxixi.com/]https://223.5.5.5/dns-query
 [/renyiwei.com/]https://223.5.5.5/dns-query
-[/renyunwang.com/]https://223.5.5.5/dns-query
 [/renzaoshu.com/]https://223.5.5.5/dns-query
 [/repai.com/]https://223.5.5.5/dns-query
 [/repaiapp.com/]https://223.5.5.5/dns-query
@@ -64805,6 +64780,7 @@ quic://dns.tunnel.redteam.club:853
 [/rootopen.com/]https://223.5.5.5/dns-query
 [/rootzhushou.com/]https://223.5.5.5/dns-query
 [/roouoo.com/]https://223.5.5.5/dns-query
+[/roozen.top/]https://223.5.5.5/dns-query
 [/ropefitting.com/]https://223.5.5.5/dns-query
 [/ropinsite.com/]https://223.5.5.5/dns-query
 [/ror-game.com/]https://223.5.5.5/dns-query
@@ -65145,20 +65121,17 @@ quic://dns.tunnel.redteam.club:853
 [/runde666.net/]https://223.5.5.5/dns-query
 [/rundefit.com/]https://223.5.5.5/dns-query
 [/rundejy.com/]https://223.5.5.5/dns-query
-[/rundongex.com/]https://223.5.5.5/dns-query
 [/runff.com/]https://223.5.5.5/dns-query
 [/runfox.com/]https://223.5.5.5/dns-query
 [/runfujin.com/]https://223.5.5.5/dns-query
 [/rungonghui.com/]https://223.5.5.5/dns-query
 [/runhe.org/]https://223.5.5.5/dns-query
-[/runhezbj.com/]https://223.5.5.5/dns-query
 [/runhuayou.biz/]https://223.5.5.5/dns-query
 [/runjf.com/]https://223.5.5.5/dns-query
 [/runjian.com/]https://223.5.5.5/dns-query
 [/runjiandianqi.com/]https://223.5.5.5/dns-query
 [/runjiapp.com/]https://223.5.5.5/dns-query
 [/runkodo.com/]https://223.5.5.5/dns-query
-[/runlian365.com/]https://223.5.5.5/dns-query
 [/runmang.com/]https://223.5.5.5/dns-query
 [/runminshop.com/]https://223.5.5.5/dns-query
 [/runnar.com/]https://223.5.5.5/dns-query
@@ -65319,7 +65292,6 @@ quic://dns.tunnel.redteam.club:853
 [/rzok.net/]https://223.5.5.5/dns-query
 [/rzspx.com/]https://223.5.5.5/dns-query
 [/rzszp.com/]https://223.5.5.5/dns-query
-[/rztzgl.com/]https://223.5.5.5/dns-query
 [/rzv5.com/]https://223.5.5.5/dns-query
 [/rzv7.com/]https://223.5.5.5/dns-query
 [/rzwdny.com/]https://223.5.5.5/dns-query
@@ -65339,7 +65311,7 @@ quic://dns.tunnel.redteam.club:853
 [/s163.com/]https://223.5.5.5/dns-query
 [/s1979.com/]https://223.5.5.5/dns-query
 [/s1craft.com/]https://223.5.5.5/dns-query
-[/s231.cc/]https://223.5.5.5/dns-query
+[/s1mplecode.com/]https://223.5.5.5/dns-query
 [/s2ceda.com/]https://223.5.5.5/dns-query
 [/s2cinc.com/]https://223.5.5.5/dns-query
 [/s2g2b2c.com/]https://223.5.5.5/dns-query
@@ -65968,7 +65940,6 @@ quic://dns.tunnel.redteam.club:853
 [/scyqfhw.com/]https://223.5.5.5/dns-query
 [/scytyy.net/]https://223.5.5.5/dns-query
 [/scyxcm.com/]https://223.5.5.5/dns-query
-[/sczby.com/]https://223.5.5.5/dns-query
 [/sczg.com/]https://223.5.5.5/dns-query
 [/sczgzb.com/]https://223.5.5.5/dns-query
 [/sczht.com/]https://223.5.5.5/dns-query
@@ -65991,7 +65962,6 @@ quic://dns.tunnel.redteam.club:853
 [/sd-fjzy.com/]https://223.5.5.5/dns-query
 [/sd-kb.com/]https://223.5.5.5/dns-query
 [/sd-nand.com/]https://223.5.5.5/dns-query
-[/sd-pic.com/]https://223.5.5.5/dns-query
 [/sd-rtn.com/]https://223.5.5.5/dns-query
 [/sd-sma.com/]https://223.5.5.5/dns-query
 [/sd-xd.net/]https://223.5.5.5/dns-query
@@ -66532,7 +66502,6 @@ quic://dns.tunnel.redteam.club:853
 [/sesamestreetenglishchina.com/]https://223.5.5.5/dns-query
 [/sesamewatermelon.com/]https://223.5.5.5/dns-query
 [/sescar.com/]https://223.5.5.5/dns-query
-[/sese339.cc/]https://223.5.5.5/dns-query
 [/seseds.com/]https://223.5.5.5/dns-query
 [/sesier.com/]https://223.5.5.5/dns-query
 [/setb2b.com/]https://223.5.5.5/dns-query
@@ -66679,6 +66648,7 @@ quic://dns.tunnel.redteam.club:853
 [/sh-3ai.com/]https://223.5.5.5/dns-query
 [/sh-anfang.org/]https://223.5.5.5/dns-query
 [/sh-anrong.com/]https://223.5.5.5/dns-query
+[/sh-aquarium.com/]https://223.5.5.5/dns-query
 [/sh-arpm.com/]https://223.5.5.5/dns-query
 [/sh-autofair.com/]https://223.5.5.5/dns-query
 [/sh-azjiadeli.com/]https://223.5.5.5/dns-query
@@ -66697,12 +66667,14 @@ quic://dns.tunnel.redteam.club:853
 [/sh-gelanlishi.com/]https://223.5.5.5/dns-query
 [/sh-henian.com/]https://223.5.5.5/dns-query
 [/sh-hilead.com/]https://223.5.5.5/dns-query
+[/sh-hitech.com/]https://223.5.5.5/dns-query
 [/sh-hlrubber.com/]https://223.5.5.5/dns-query
 [/sh-holfer.com/]https://223.5.5.5/dns-query
 [/sh-holiday.com/]https://223.5.5.5/dns-query
 [/sh-hting.com/]https://223.5.5.5/dns-query
 [/sh-hywin.com/]https://223.5.5.5/dns-query
 [/sh-impact.com/]https://223.5.5.5/dns-query
+[/sh-italent.com/]https://223.5.5.5/dns-query
 [/sh-jingjin.com/]https://223.5.5.5/dns-query
 [/sh-jinxiang.com/]https://223.5.5.5/dns-query
 [/sh-jjsb.com/]https://223.5.5.5/dns-query
@@ -66719,6 +66691,7 @@ quic://dns.tunnel.redteam.club:853
 [/sh-shenming.com/]https://223.5.5.5/dns-query
 [/sh-shenou.com/]https://223.5.5.5/dns-query
 [/sh-srcb.com/]https://223.5.5.5/dns-query
+[/sh-ssci.com/]https://223.5.5.5/dns-query
 [/sh-tangfeng.com/]https://223.5.5.5/dns-query
 [/sh-tencentclb.cloud/]https://223.5.5.5/dns-query
 [/sh-tencentclb.com/]https://223.5.5.5/dns-query
@@ -66858,10 +66831,12 @@ quic://dns.tunnel.redteam.club:853
 [/shanghaiconcerthall.org/]https://223.5.5.5/dns-query
 [/shanghaicup.com/]https://223.5.5.5/dns-query
 [/shanghaidaily.com/]https://223.5.5.5/dns-query
+[/shanghaidelong.com/]https://223.5.5.5/dns-query
 [/shanghaidisneyresort.com/]https://223.5.5.5/dns-query
 [/shanghaifz.com/]https://223.5.5.5/dns-query
 [/shanghaihino.com/]https://223.5.5.5/dns-query
 [/shanghaihuanli.com/]https://223.5.5.5/dns-query
+[/shanghaiinvest.com/]https://223.5.5.5/dns-query
 [/shanghaiiot.org/]https://223.5.5.5/dns-query
 [/shanghaijinyimaoyi.com/]https://223.5.5.5/dns-query
 [/shanghaik11.com/]https://223.5.5.5/dns-query
@@ -66873,6 +66848,7 @@ quic://dns.tunnel.redteam.club:853
 [/shanghaionstar.com/]https://223.5.5.5/dns-query
 [/shanghaipower.com/]https://223.5.5.5/dns-query
 [/shanghaipuying.com/]https://223.5.5.5/dns-query
+[/shanghaiql.org/]https://223.5.5.5/dns-query
 [/shanghairanking.com/]https://223.5.5.5/dns-query
 [/shanghairc.com/]https://223.5.5.5/dns-query
 [/shanghairolexmasters.com/]https://223.5.5.5/dns-query
@@ -66983,10 +66959,10 @@ quic://dns.tunnel.redteam.club:853
 [/shanshangame.com/]https://223.5.5.5/dns-query
 [/shanshanim.vip/]https://223.5.5.5/dns-query
 [/shanshanku.com/]https://223.5.5.5/dns-query
+[/shanshantech.com/]https://223.5.5.5/dns-query
 [/shanshengchongdian.com/]https://223.5.5.5/dns-query
 [/shanshoufu.com/]https://223.5.5.5/dns-query
 [/shanshuiwl.com/]https://223.5.5.5/dns-query
-[/shansoo.com/]https://223.5.5.5/dns-query
 [/shante.me/]https://223.5.5.5/dns-query
 [/shantoujingrui.com/]https://223.5.5.5/dns-query
 [/shantoumama.com/]https://223.5.5.5/dns-query
@@ -67128,6 +67104,7 @@ quic://dns.tunnel.redteam.club:853
 [/shcwmotor.com/]https://223.5.5.5/dns-query
 [/shczssyq.com/]https://223.5.5.5/dns-query
 [/shdancecenter.com/]https://223.5.5.5/dns-query
+[/shdcjt.com/]https://223.5.5.5/dns-query
 [/shdirong.com/]https://223.5.5.5/dns-query
 [/shdjt.com/]https://223.5.5.5/dns-query
 [/shdmgs.com/]https://223.5.5.5/dns-query
@@ -67220,7 +67197,6 @@ quic://dns.tunnel.redteam.club:853
 [/shengchan.biz/]https://223.5.5.5/dns-query
 [/shengdan.com/]https://223.5.5.5/dns-query
 [/shengdaprint.com/]https://223.5.5.5/dns-query
-[/shengdashutong168.com/]https://223.5.5.5/dns-query
 [/shengdianhuadg.com/]https://223.5.5.5/dns-query
 [/shengdianhuadk.com/]https://223.5.5.5/dns-query
 [/shengejing.com/]https://223.5.5.5/dns-query
@@ -67291,6 +67267,7 @@ quic://dns.tunnel.redteam.club:853
 [/shenjian.io/]https://223.5.5.5/dns-query
 [/shenjiballs.com/]https://223.5.5.5/dns-query
 [/shenjumiaosuan.com/]https://223.5.5.5/dns-query
+[/shenkai.com/]https://223.5.5.5/dns-query
 [/shenkexin.com/]https://223.5.5.5/dns-query
 [/shenkong.net/]https://223.5.5.5/dns-query
 [/shenlanbao.com/]https://223.5.5.5/dns-query
@@ -67389,6 +67366,7 @@ quic://dns.tunnel.redteam.club:853
 [/shewantea.com/]https://223.5.5.5/dns-query
 [/sheweikeji.com/]https://223.5.5.5/dns-query
 [/shexcloud.com/]https://223.5.5.5/dns-query
+[/shexgrp.com/]https://223.5.5.5/dns-query
 [/shexiannet.com/]https://223.5.5.5/dns-query
 [/sheying001.net/]https://223.5.5.5/dns-query
 [/sheyingtg.com/]https://223.5.5.5/dns-query
@@ -67491,6 +67469,7 @@ quic://dns.tunnel.redteam.club:853
 [/shifenyuedu.com/]https://223.5.5.5/dns-query
 [/shigaoshan.com/]https://223.5.5.5/dns-query
 [/shige.group/]https://223.5.5.5/dns-query
+[/shiguanghuyu.com/]https://223.5.5.5/dns-query
 [/shiguangkey.com/]https://223.5.5.5/dns-query
 [/shiguangpu.com/]https://223.5.5.5/dns-query
 [/shiguangxu.com/]https://223.5.5.5/dns-query
@@ -67717,6 +67696,7 @@ quic://dns.tunnel.redteam.club:853
 [/shkewen.com/]https://223.5.5.5/dns-query
 [/shkhzc.com/]https://223.5.5.5/dns-query
 [/shkingchem.com/]https://223.5.5.5/dns-query
+[/shkjb.com/]https://223.5.5.5/dns-query
 [/shkjcable.com/]https://223.5.5.5/dns-query
 [/shkjqp.com/]https://223.5.5.5/dns-query
 [/shkjsoft.com/]https://223.5.5.5/dns-query
@@ -67946,7 +67926,6 @@ quic://dns.tunnel.redteam.club:853
 [/shrlig.com/]https://223.5.5.5/dns-query
 [/shrobotpark.com/]https://223.5.5.5/dns-query
 [/shrongxin88.com/]https://223.5.5.5/dns-query
-[/shrqsy.com/]https://223.5.5.5/dns-query
 [/shrtlnks.com/]https://223.5.5.5/dns-query
 [/shruisong.net/]https://223.5.5.5/dns-query
 [/shryhs.com/]https://223.5.5.5/dns-query
@@ -67978,6 +67957,7 @@ quic://dns.tunnel.redteam.club:853
 [/shsjx.org/]https://223.5.5.5/dns-query
 [/shskg.com/]https://223.5.5.5/dns-query
 [/shskin.com/]https://223.5.5.5/dns-query
+[/shsoong-chingling.com/]https://223.5.5.5/dns-query
 [/shsot.com/]https://223.5.5.5/dns-query
 [/shspdq.com/]https://223.5.5.5/dns-query
 [/shspt.com/]https://223.5.5.5/dns-query
@@ -67997,6 +67977,7 @@ quic://dns.tunnel.redteam.club:853
 [/shtianhe.cc/]https://223.5.5.5/dns-query
 [/shtianyuqiche.com/]https://223.5.5.5/dns-query
 [/shtic.com/]https://223.5.5.5/dns-query
+[/shtimessquare.com/]https://223.5.5.5/dns-query
 [/shtimg.com/]https://223.5.5.5/dns-query
 [/shtion.com/]https://223.5.5.5/dns-query
 [/shtopshow.com/]https://223.5.5.5/dns-query
@@ -68127,6 +68108,7 @@ quic://dns.tunnel.redteam.club:853
 [/shuimujiaju.com/]https://223.5.5.5/dns-query
 [/shuimuyulin.com/]https://223.5.5.5/dns-query
 [/shuini.biz/]https://223.5.5.5/dns-query
+[/shuionland.com/]https://223.5.5.5/dns-query
 [/shuipingce.com/]https://223.5.5.5/dns-query
 [/shuipo.com/]https://223.5.5.5/dns-query
 [/shuisj.com/]https://223.5.5.5/dns-query
@@ -68583,7 +68565,6 @@ quic://dns.tunnel.redteam.club:853
 [/singfosolar.com/]https://223.5.5.5/dns-query
 [/singfun.com/]https://223.5.5.5/dns-query
 [/singhead.com/]https://223.5.5.5/dns-query
-[/single6228.icu/]https://223.5.5.5/dns-query
 [/singlecool.com/]https://223.5.5.5/dns-query
 [/singmaan.com/]https://223.5.5.5/dns-query
 [/singoo.cc/]https://223.5.5.5/dns-query
@@ -68655,6 +68636,7 @@ quic://dns.tunnel.redteam.club:853
 [/sinonsh.com/]https://223.5.5.5/dns-query
 [/sinontech.com/]https://223.5.5.5/dns-query
 [/sinoo.cc/]https://223.5.5.5/dns-query
+[/sinooceangroup.com/]https://223.5.5.5/dns-query
 [/sinopec.com/]https://223.5.5.5/dns-query
 [/sinopecgroup.com/]https://223.5.5.5/dns-query
 [/sinopecgx.com/]https://223.5.5.5/dns-query
@@ -68713,6 +68695,7 @@ quic://dns.tunnel.redteam.club:853
 [/sinyoung.site/]https://223.5.5.5/dns-query
 [/sinyuee.com/]https://223.5.5.5/dns-query
 [/sinzk.com/]https://223.5.5.5/dns-query
+[/siomxity.com/]https://223.5.5.5/dns-query
 [/sipai.com/]https://223.5.5.5/dns-query
 [/sipaphoto.com/]https://223.5.5.5/dns-query
 [/sipco.com/]https://223.5.5.5/dns-query
@@ -68754,6 +68737,7 @@ quic://dns.tunnel.redteam.club:853
 [/sitongzixun.com/]https://223.5.5.5/dns-query
 [/sitrigroup.com/]https://223.5.5.5/dns-query
 [/situdata.com/]https://223.5.5.5/dns-query
+[/siud.com/]https://223.5.5.5/dns-query
 [/sivlab.com/]https://223.5.5.5/dns-query
 [/sivps.com/]https://223.5.5.5/dns-query
 [/siwaman.com/]https://223.5.5.5/dns-query
@@ -68782,6 +68766,7 @@ quic://dns.tunnel.redteam.club:853
 [/siyuanedu.com/]https://223.5.5.5/dns-query
 [/siyuanren.com/]https://223.5.5.5/dns-query
 [/siyuefeng.com/]https://223.5.5.5/dns-query
+[/siyunyatwo.com/]https://223.5.5.5/dns-query
 [/siyuweb.com/]https://223.5.5.5/dns-query
 [/sizeofvoid.net/]https://223.5.5.5/dns-query
 [/sizuo.com/]https://223.5.5.5/dns-query
@@ -68934,6 +68919,7 @@ quic://dns.tunnel.redteam.club:853
 [/sketchupbar.com/]https://223.5.5.5/dns-query
 [/sketchupbbs.com/]https://223.5.5.5/dns-query
 [/skg.com/]https://223.5.5.5/dns-query
+[/skhb.com/]https://223.5.5.5/dns-query
 [/skieer.com/]https://223.5.5.5/dns-query
 [/skimit.net/]https://223.5.5.5/dns-query
 [/skinme.cc/]https://223.5.5.5/dns-query
@@ -68997,7 +68983,6 @@ quic://dns.tunnel.redteam.club:853
 [/skyrichpower.com/]https://223.5.5.5/dns-query
 [/skyrivers.org/]https://223.5.5.5/dns-query
 [/skyrj.com/]https://223.5.5.5/dns-query
-[/skyse.icu/]https://223.5.5.5/dns-query
 [/skysea.com/]https://223.5.5.5/dns-query
 [/skysgame.com/]https://223.5.5.5/dns-query
 [/skysriver.com/]https://223.5.5.5/dns-query
@@ -69335,7 +69320,6 @@ quic://dns.tunnel.redteam.club:853
 [/snv1.com/]https://223.5.5.5/dns-query
 [/snxw.com/]https://223.5.5.5/dns-query
 [/snycloud.com/]https://223.5.5.5/dns-query
-[/snyhome.net/]https://223.5.5.5/dns-query
 [/snynas.com/]https://223.5.5.5/dns-query
 [/snyu.com/]https://223.5.5.5/dns-query
 [/snzfj.net/]https://223.5.5.5/dns-query
@@ -69519,7 +69503,6 @@ quic://dns.tunnel.redteam.club:853
 [/somsds.com/]https://223.5.5.5/dns-query
 [/sonbest.com/]https://223.5.5.5/dns-query
 [/soncci.com/]https://223.5.5.5/dns-query
-[/song.pw/]https://223.5.5.5/dns-query
 [/songcn.com/]https://223.5.5.5/dns-query
 [/songcwh.com/]https://223.5.5.5/dns-query
 [/songduwuye.com/]https://223.5.5.5/dns-query
@@ -69578,6 +69561,7 @@ quic://dns.tunnel.redteam.club:853
 [/sonoscapebrasil.com/]https://223.5.5.5/dns-query
 [/sonoschina.com/]https://223.5.5.5/dns-query
 [/sontan.net/]https://223.5.5.5/dns-query
+[/sonyselect.net/]https://223.5.5.5/dns-query
 [/sooal.com/]https://223.5.5.5/dns-query
 [/sooauto.com/]https://223.5.5.5/dns-query
 [/soocang.com/]https://223.5.5.5/dns-query
@@ -69729,6 +69713,7 @@ quic://dns.tunnel.redteam.club:853
 [/southeasternfoxbodies.com/]https://223.5.5.5/dns-query
 [/southei.com/]https://223.5.5.5/dns-query
 [/southernfund.com/]https://223.5.5.5/dns-query
+[/southernmindict.net/]https://223.5.5.5/dns-query
 [/southgis.com/]https://223.5.5.5/dns-query
 [/southinstrument.net/]https://223.5.5.5/dns-query
 [/southmoney.com/]https://223.5.5.5/dns-query
@@ -69831,6 +69816,7 @@ quic://dns.tunnel.redteam.club:853
 [/spgnux.com/]https://223.5.5.5/dns-query
 [/spgykj.com/]https://223.5.5.5/dns-query
 [/sph00852.com/]https://223.5.5.5/dns-query
+[/sphchina.com/]https://223.5.5.5/dns-query
 [/sphkids.com/]https://223.5.5.5/dns-query
 [/spibj.com/]https://223.5.5.5/dns-query
 [/spicescn.com/]https://223.5.5.5/dns-query
@@ -69848,7 +69834,6 @@ quic://dns.tunnel.redteam.club:853
 [/splmcn.com/]https://223.5.5.5/dns-query
 [/spnchinaren.com/]https://223.5.5.5/dns-query
 [/spochikj.com/]https://223.5.5.5/dns-query
-[/spockker.com/]https://223.5.5.5/dns-query
 [/spoience.com/]https://223.5.5.5/dns-query
 [/spointdesign.com/]https://223.5.5.5/dns-query
 [/spondemic.lol/]https://223.5.5.5/dns-query
@@ -69875,7 +69860,6 @@ quic://dns.tunnel.redteam.club:853
 [/springcocoon.com/]https://223.5.5.5/dns-query
 [/springtour.com/]https://223.5.5.5/dns-query
 [/sprixin.com/]https://223.5.5.5/dns-query
-[/sprzny.com/]https://223.5.5.5/dns-query
 [/spsb114.com/]https://223.5.5.5/dns-query
 [/spsy.org/]https://223.5.5.5/dns-query
 [/sptcc.com/]https://223.5.5.5/dns-query
@@ -69982,6 +69966,7 @@ quic://dns.tunnel.redteam.club:853
 [/ss246.com/]https://223.5.5.5/dns-query
 [/ss8899888.com/]https://223.5.5.5/dns-query
 [/ssalegs.store/]https://223.5.5.5/dns-query
+[/ssaocorp.com/]https://223.5.5.5/dns-query
 [/ssaxx.com/]https://223.5.5.5/dns-query
 [/ssaya.win/]https://223.5.5.5/dns-query
 [/ssbbww.com/]https://223.5.5.5/dns-query
@@ -70115,7 +70100,6 @@ quic://dns.tunnel.redteam.club:853
 [/stackoverflow.wiki/]https://223.5.5.5/dns-query
 [/stage1st.com/]https://223.5.5.5/dns-query
 [/stage3rd.com/]https://223.5.5.5/dns-query
-[/stajy.com/]https://223.5.5.5/dns-query
 [/stanbt.com/]https://223.5.5.5/dns-query
 [/standard-groups.com/]https://223.5.5.5/dns-query
 [/standardshop.net/]https://223.5.5.5/dns-query
@@ -70228,7 +70212,6 @@ quic://dns.tunnel.redteam.club:853
 [/steel-mate.com/]https://223.5.5.5/dns-query
 [/steelphone.com/]https://223.5.5.5/dns-query
 [/steelsearcher.com/]https://223.5.5.5/dns-query
-[/steelxf.com/]https://223.5.5.5/dns-query
 [/stefg.org/]https://223.5.5.5/dns-query
 [/stegameskins.com/]https://223.5.5.5/dns-query
 [/stellarplayer.com/]https://223.5.5.5/dns-query
@@ -70338,6 +70321,7 @@ quic://dns.tunnel.redteam.club:853
 [/stuq.com/]https://223.5.5.5/dns-query
 [/sturgeonnews.com/]https://223.5.5.5/dns-query
 [/stutimes.com/]https://223.5.5.5/dns-query
+[/stvf.com/]https://223.5.5.5/dns-query
 [/stvgame.com/]https://223.5.5.5/dns-query
 [/stvue.com/]https://223.5.5.5/dns-query
 [/stwj.com/]https://223.5.5.5/dns-query
@@ -70530,6 +70514,7 @@ quic://dns.tunnel.redteam.club:853
 [/summercampschina.com/]https://223.5.5.5/dns-query
 [/summerfarm.net/]https://223.5.5.5/dns-query
 [/summerlight.name/]https://223.5.5.5/dns-query
+[/summerpalace-china.com/]https://223.5.5.5/dns-query
 [/summit-ceramics.com/]https://223.5.5.5/dns-query
 [/sumoon.com/]https://223.5.5.5/dns-query
 [/sumrday.net/]https://223.5.5.5/dns-query
@@ -71646,7 +71631,6 @@ quic://dns.tunnel.redteam.club:853
 [/szsia.com/]https://223.5.5.5/dns-query
 [/szsing.com/]https://223.5.5.5/dns-query
 [/szsjhts.com/]https://223.5.5.5/dns-query
-[/szsjjgy.com/]https://223.5.5.5/dns-query
 [/szsjtjj.com/]https://223.5.5.5/dns-query
 [/szsjxxpt.com/]https://223.5.5.5/dns-query
 [/szsky.com/]https://223.5.5.5/dns-query
@@ -72090,7 +72074,6 @@ quic://dns.tunnel.redteam.club:853
 [/taobao2136.com/]https://223.5.5.5/dns-query
 [/taobao92.com/]https://223.5.5.5/dns-query
 [/taobaocdn.com/]https://223.5.5.5/dns-query
-[/taobaocdn.net/]https://223.5.5.5/dns-query
 [/taobaocity.com/]https://223.5.5.5/dns-query
 [/taobc.com/]https://223.5.5.5/dns-query
 [/taobeihai.com/]https://223.5.5.5/dns-query
@@ -72317,6 +72300,7 @@ quic://dns.tunnel.redteam.club:853
 [/tbwyl.com/]https://223.5.5.5/dns-query
 [/tbxt.com/]https://223.5.5.5/dns-query
 [/tbyfsoft.com/]https://223.5.5.5/dns-query
+[/tbyfz.xyz/]https://223.5.5.5/dns-query
 [/tc-21.com/]https://223.5.5.5/dns-query
 [/tc-semi.com/]https://223.5.5.5/dns-query
 [/tc0770.com/]https://223.5.5.5/dns-query
@@ -72473,7 +72457,6 @@ quic://dns.tunnel.redteam.club:853
 [/tebiezan.com/]https://223.5.5.5/dns-query
 [/teboncapital.com/]https://223.5.5.5/dns-query
 [/tec73.com/]https://223.5.5.5/dns-query
-[/tecaimao.cyou/]https://223.5.5.5/dns-query
 [/tecbbs.com/]https://223.5.5.5/dns-query
 [/tecenet.com/]https://223.5.5.5/dns-query
 [/tech-mx.com/]https://223.5.5.5/dns-query
@@ -72505,6 +72488,7 @@ quic://dns.tunnel.redteam.club:853
 [/techsir.com/]https://223.5.5.5/dns-query
 [/techsize.com/]https://223.5.5.5/dns-query
 [/techtmt.com/]https://223.5.5.5/dns-query
+[/techtop.com/]https://223.5.5.5/dns-query
 [/techuangyi.com/]https://223.5.5.5/dns-query
 [/techug.com/]https://223.5.5.5/dns-query
 [/techvisum.com/]https://223.5.5.5/dns-query
@@ -72586,7 +72570,6 @@ quic://dns.tunnel.redteam.club:853
 [/tencentcloudapi.com/]https://223.5.5.5/dns-query
 [/tencentcloudbase.com/]https://223.5.5.5/dns-query
 [/tencentcs.com/]https://223.5.5.5/dns-query
-[/tencentdba.com/]https://223.5.5.5/dns-query
 [/tencentdevices.com/]https://223.5.5.5/dns-query
 [/tencenticp.com/]https://223.5.5.5/dns-query
 [/tencentipv6.com/]https://223.5.5.5/dns-query
@@ -72632,8 +72615,6 @@ quic://dns.tunnel.redteam.club:853
 [/tengrant.com/]https://223.5.5.5/dns-query
 [/tengshiauto.com/]https://223.5.5.5/dns-query
 [/tengtiegongyi.com/]https://223.5.5.5/dns-query
-[/tengtongedu.com/]https://223.5.5.5/dns-query
-[/tengwa.net/]https://223.5.5.5/dns-query
 [/tengwen.com/]https://223.5.5.5/dns-query
 [/tengwen001.com/]https://223.5.5.5/dns-query
 [/tengxunlct.com/]https://223.5.5.5/dns-query
@@ -72641,7 +72622,6 @@ quic://dns.tunnel.redteam.club:853
 [/tengxunqiyeyou.com/]https://223.5.5.5/dns-query
 [/tengy.com/]https://223.5.5.5/dns-query
 [/tengyang666.com/]https://223.5.5.5/dns-query
-[/tengyangblg.com/]https://223.5.5.5/dns-query
 [/tengyeshiye.com/]https://223.5.5.5/dns-query
 [/tengyuejz.com/]https://223.5.5.5/dns-query
 [/tengzhihh.com/]https://223.5.5.5/dns-query
@@ -72731,7 +72711,6 @@ quic://dns.tunnel.redteam.club:853
 [/tfax.com/]https://223.5.5.5/dns-query
 [/tfbestea.com/]https://223.5.5.5/dns-query
 [/tfcaijing.com/]https://223.5.5.5/dns-query
-[/tfchangyou.cyou/]https://223.5.5.5/dns-query
 [/tfcloud.com/]https://223.5.5.5/dns-query
 [/tfclub.com/]https://223.5.5.5/dns-query
 [/tfedu.net/]https://223.5.5.5/dns-query
@@ -72864,6 +72843,7 @@ quic://dns.tunnel.redteam.club:853
 [/theorychina.org/]https://223.5.5.5/dns-query
 [/thepeak.com.my/]https://223.5.5.5/dns-query
 [/thepotboiler.com/]https://223.5.5.5/dns-query
+[/thepuli.com/]https://223.5.5.5/dns-query
 [/therasaganga.com/]https://223.5.5.5/dns-query
 [/thereszhaiproject.com/]https://223.5.5.5/dns-query
 [/thersheng.cyou/]https://223.5.5.5/dns-query
@@ -72882,6 +72862,7 @@ quic://dns.tunnel.redteam.club:853
 [/thewowa.com/]https://223.5.5.5/dns-query
 [/thexinji.com/]https://223.5.5.5/dns-query
 [/thexnode.com/]https://223.5.5.5/dns-query
+[/theytree.com/]https://223.5.5.5/dns-query
 [/theyun.com/]https://223.5.5.5/dns-query
 [/thfdc.net/]https://223.5.5.5/dns-query
 [/thfdcsoft.com/]https://223.5.5.5/dns-query
@@ -73064,7 +73045,6 @@ quic://dns.tunnel.redteam.club:853
 [/tianpeng.com/]https://223.5.5.5/dns-query
 [/tianqi.cc/]https://223.5.5.5/dns-query
 [/tianqi.com/]https://223.5.5.5/dns-query
-[/tianqi2020.com/]https://223.5.5.5/dns-query
 [/tianqi24.com/]https://223.5.5.5/dns-query
 [/tianqi321.com/]https://223.5.5.5/dns-query
 [/tianqi518.com/]https://223.5.5.5/dns-query
@@ -73309,6 +73289,7 @@ quic://dns.tunnel.redteam.club:853
 [/timepill.net/]https://223.5.5.5/dns-query
 [/timeread.com/]https://223.5.5.5/dns-query
 [/timeread.net/]https://223.5.5.5/dns-query
+[/timesartmuseum.com/]https://223.5.5.5/dns-query
 [/timesboom.com/]https://223.5.5.5/dns-query
 [/timesdf-hn.com/]https://223.5.5.5/dns-query
 [/timeshijin.com/]https://223.5.5.5/dns-query
@@ -73480,7 +73461,6 @@ quic://dns.tunnel.redteam.club:853
 [/tjmama.com/]https://223.5.5.5/dns-query
 [/tjmcgc.com/]https://223.5.5.5/dns-query
 [/tjmhc.com/]https://223.5.5.5/dns-query
-[/tjmingda.net/]https://223.5.5.5/dns-query
 [/tjmuch.com/]https://223.5.5.5/dns-query
 [/tjmulin.com/]https://223.5.5.5/dns-query
 [/tjnjw.com/]https://223.5.5.5/dns-query
@@ -73549,6 +73529,7 @@ quic://dns.tunnel.redteam.club:853
 [/tkww.hk/]https://223.5.5.5/dns-query
 [/tkxxd.net/]https://223.5.5.5/dns-query
 [/tky001.com/]https://223.5.5.5/dns-query
+[/tkyks.xyz/]https://223.5.5.5/dns-query
 [/tl-self.com/]https://223.5.5.5/dns-query
 [/tl-shida.com/]https://223.5.5.5/dns-query
 [/tl-tek.com/]https://223.5.5.5/dns-query
@@ -73652,7 +73633,6 @@ quic://dns.tunnel.redteam.club:853
 [/tmwxxcx.com/]https://223.5.5.5/dns-query
 [/tmwzs.com/]https://223.5.5.5/dns-query
 [/tmxmall.com/]https://223.5.5.5/dns-query
-[/tmxsjx.com/]https://223.5.5.5/dns-query
 [/tmxxw.com/]https://223.5.5.5/dns-query
 [/tn2000.com/]https://223.5.5.5/dns-query
 [/tnblog.net/]https://223.5.5.5/dns-query
@@ -73808,6 +73788,7 @@ quic://dns.tunnel.redteam.club:853
 [/tongshiling.net/]https://223.5.5.5/dns-query
 [/tongshilu.com/]https://223.5.5.5/dns-query
 [/tongshuai.com/]https://223.5.5.5/dns-query
+[/tongshun6.com/]https://223.5.5.5/dns-query
 [/tongsuo.net/]https://223.5.5.5/dns-query
 [/tongtaiamc.com/]https://223.5.5.5/dns-query
 [/tongtech.com/]https://223.5.5.5/dns-query
@@ -74068,6 +74049,7 @@ quic://dns.tunnel.redteam.club:853
 [/toutiaolite1.com/]https://223.5.5.5/dns-query
 [/toutiaonanren.com/]https://223.5.5.5/dns-query
 [/toutiaopage.com/]https://223.5.5.5/dns-query
+[/toutiaopanapi.com/]https://223.5.5.5/dns-query
 [/toutiaostatic.com/]https://223.5.5.5/dns-query
 [/toutiaovod.com/]https://223.5.5.5/dns-query
 [/toutiaoyule.com/]https://223.5.5.5/dns-query
@@ -74151,6 +74133,7 @@ quic://dns.tunnel.redteam.club:853
 [/tqmba.com/]https://223.5.5.5/dns-query
 [/tqmdp.net/]https://223.5.5.5/dns-query
 [/tqmy168.com/]https://223.5.5.5/dns-query
+[/tqpac.com/]https://223.5.5.5/dns-query
 [/tqqa.com/]https://223.5.5.5/dns-query
 [/tqqkc.com/]https://223.5.5.5/dns-query
 [/tqqyun.com/]https://223.5.5.5/dns-query
@@ -74334,7 +74317,6 @@ quic://dns.tunnel.redteam.club:853
 [/tryine.com/]https://223.5.5.5/dns-query
 [/tryineapp.com/]https://223.5.5.5/dns-query
 [/trykan.com/]https://223.5.5.5/dns-query
-[/trylist.net/]https://223.5.5.5/dns-query
 [/trymoka.com/]https://223.5.5.5/dns-query
 [/tryudesk.com/]https://223.5.5.5/dns-query
 [/tryurbest.com/]https://223.5.5.5/dns-query
@@ -74667,7 +74649,6 @@ quic://dns.tunnel.redteam.club:853
 [/tuipinpai.com/]https://223.5.5.5/dns-query
 [/tuiplay.com/]https://223.5.5.5/dns-query
 [/tuirice.com/]https://223.5.5.5/dns-query
-[/tuisaded.com/]https://223.5.5.5/dns-query
 [/tuishao.net/]https://223.5.5.5/dns-query
 [/tuishark.com/]https://223.5.5.5/dns-query
 [/tuishubang.com/]https://223.5.5.5/dns-query
@@ -74833,6 +74814,7 @@ quic://dns.tunnel.redteam.club:853
 [/tuwenzhibo.com/]https://223.5.5.5/dns-query
 [/tux.red/]https://223.5.5.5/dns-query
 [/tuxi.com/]https://223.5.5.5/dns-query
+[/tuxiangyan.com/]https://223.5.5.5/dns-query
 [/tuxiaobei.com/]https://223.5.5.5/dns-query
 [/tuxiu.com/]https://223.5.5.5/dns-query
 [/tuxs.cc/]https://223.5.5.5/dns-query
@@ -74982,6 +74964,7 @@ quic://dns.tunnel.redteam.club:853
 [/txrzx.com/]https://223.5.5.5/dns-query
 [/txsdk.com/]https://223.5.5.5/dns-query
 [/txssw.com/]https://223.5.5.5/dns-query
+[/txstatic.com/]https://223.5.5.5/dns-query
 [/txt321.com/]https://223.5.5.5/dns-query
 [/txtanghu.com/]https://223.5.5.5/dns-query
 [/txtbbs.com/]https://223.5.5.5/dns-query
@@ -75190,6 +75173,7 @@ quic://dns.tunnel.redteam.club:853
 [/uakwj.com/]https://223.5.5.5/dns-query
 [/uancf.com/]https://223.5.5.5/dns-query
 [/uandi-wireless.com/]https://223.5.5.5/dns-query
+[/uangee.com/]https://223.5.5.5/dns-query
 [/uao-online.com/]https://223.5.5.5/dns-query
 [/uao.so/]https://223.5.5.5/dns-query
 [/uauc.net/]https://223.5.5.5/dns-query
@@ -75317,6 +75301,7 @@ quic://dns.tunnel.redteam.club:853
 [/uehchina.com/]https://223.5.5.5/dns-query
 [/uehtml.com/]https://223.5.5.5/dns-query
 [/ueibo.com/]https://223.5.5.5/dns-query
+[/ueiibi.com/]https://223.5.5.5/dns-query
 [/uelike.com/]https://223.5.5.5/dns-query
 [/uemo.net/]https://223.5.5.5/dns-query
 [/ueno-china.com/]https://223.5.5.5/dns-query
@@ -75608,6 +75593,7 @@ quic://dns.tunnel.redteam.club:853
 [/unisguard.com/]https://223.5.5.5/dns-query
 [/unishy.com/]https://223.5.5.5/dns-query
 [/unisoc.com/]https://223.5.5.5/dns-query
+[/unisonal.com/]https://223.5.5.5/dns-query
 [/unisound.com/]https://223.5.5.5/dns-query
 [/unispc.com/]https://223.5.5.5/dns-query
 [/unispim.com/]https://223.5.5.5/dns-query
@@ -75619,7 +75605,6 @@ quic://dns.tunnel.redteam.club:853
 [/united-water.com/]https://223.5.5.5/dns-query
 [/unitedbank.ltd/]https://223.5.5.5/dns-query
 [/unitedmoney.com/]https://223.5.5.5/dns-query
-[/unitedpawns.com/]https://223.5.5.5/dns-query
 [/unitek-it.com/]https://223.5.5.5/dns-query
 [/uniteyun.com/]https://223.5.5.5/dns-query
 [/unithelper.com/]https://223.5.5.5/dns-query
@@ -75730,6 +75715,7 @@ quic://dns.tunnel.redteam.club:853
 [/upsapp.com/]https://223.5.5.5/dns-query
 [/upsclan.com/]https://223.5.5.5/dns-query
 [/upsdydc.com/]https://223.5.5.5/dns-query
+[/upskyshanghai.com/]https://223.5.5.5/dns-query
 [/upst86.com/]https://223.5.5.5/dns-query
 [/upsunet.com/]https://223.5.5.5/dns-query
 [/uptougu.com/]https://223.5.5.5/dns-query
@@ -75775,6 +75761,7 @@ quic://dns.tunnel.redteam.club:853
 [/urbetter.net/]https://223.5.5.5/dns-query
 [/urbtix.hk/]https://223.5.5.5/dns-query
 [/urcb.com/]https://223.5.5.5/dns-query
+[/urcove-hotels.com/]https://223.5.5.5/dns-query
 [/urfire.com/]https://223.5.5.5/dns-query
 [/urgaffel.com/]https://223.5.5.5/dns-query
 [/urgc.net/]https://223.5.5.5/dns-query
@@ -76225,7 +76212,6 @@ quic://dns.tunnel.redteam.club:853
 [/vecentek.com/]https://223.5.5.5/dns-query
 [/veclightyear.com/]https://223.5.5.5/dns-query
 [/vecrp.com/]https://223.5.5.5/dns-query
-[/vectonio.lol/]https://223.5.5.5/dns-query
 [/vectorplaces.com/]https://223.5.5.5/dns-query
 [/vedamobi.com/]https://223.5.5.5/dns-query
 [/vedcdnlb.com/]https://223.5.5.5/dns-query
@@ -76634,6 +76620,7 @@ quic://dns.tunnel.redteam.club:853
 [/vlong.tv/]https://223.5.5.5/dns-query
 [/vlongbiz.com/]https://223.5.5.5/dns-query
 [/vlportal.download.prss.microsoft.com/]https://223.5.5.5/dns-query
+[/vlrzgf.sbs/]https://223.5.5.5/dns-query
 [/vlss.com/]https://223.5.5.5/dns-query
 [/vlssu.com/]https://223.5.5.5/dns-query
 [/vlwwu.com/]https://223.5.5.5/dns-query
@@ -76685,6 +76672,7 @@ quic://dns.tunnel.redteam.club:853
 [/vodjk.com/]https://223.5.5.5/dns-query
 [/vodn-valve.com/]https://223.5.5.5/dns-query
 [/vodplayvideo.net/]https://223.5.5.5/dns-query
+[/voguecafebeijing.com/]https://223.5.5.5/dns-query
 [/voguechinese.com/]https://223.5.5.5/dns-query
 [/voguelife.net/]https://223.5.5.5/dns-query
 [/voh1.com/]https://223.5.5.5/dns-query
@@ -76845,7 +76833,6 @@ quic://dns.tunnel.redteam.club:853
 [/vsbuys.com/]https://223.5.5.5/dns-query
 [/vscode.download.prss.microsoft.com/]https://223.5.5.5/dns-query
 [/vscops.com/]https://223.5.5.5/dns-query
-[/vsean.net/]https://223.5.5.5/dns-query
 [/vsean.net/]https://223.5.5.5/dns-query
 [/vsens.com/]https://223.5.5.5/dns-query
 [/vshangdaili.com/]https://223.5.5.5/dns-query
@@ -77087,6 +77074,7 @@ quic://dns.tunnel.redteam.club:853
 [/wainconnector.com/]https://223.5.5.5/dns-query
 [/waiqiangban123.com/]https://223.5.5.5/dns-query
 [/waiqin365.com/]https://223.5.5.5/dns-query
+[/waisnj.com/]https://223.5.5.5/dns-query
 [/waitingfy.com/]https://223.5.5.5/dns-query
 [/waitsun.com/]https://223.5.5.5/dns-query
 [/waiyuedu.com/]https://223.5.5.5/dns-query
@@ -77127,6 +77115,7 @@ quic://dns.tunnel.redteam.club:853
 [/wallstreetcn.com/]https://223.5.5.5/dns-query
 [/wallswitch.com/]https://223.5.5.5/dns-query
 [/walsongreenhouse.com/]https://223.5.5.5/dns-query
+[/walton-xuzhou.com/]https://223.5.5.5/dns-query
 [/waltzsy.com/]https://223.5.5.5/dns-query
 [/waluer.com/]https://223.5.5.5/dns-query
 [/wamawama.com/]https://223.5.5.5/dns-query
@@ -77287,7 +77276,6 @@ quic://dns.tunnel.redteam.club:853
 [/wangpu365.com/]https://223.5.5.5/dns-query
 [/wangpuzhi.com/]https://223.5.5.5/dns-query
 [/wangqi.com/]https://223.5.5.5/dns-query
-[/wangqingfabu.com/]https://223.5.5.5/dns-query
 [/wangqingzx.com/]https://223.5.5.5/dns-query
 [/wangren.com/]https://223.5.5.5/dns-query
 [/wangrunze.com/]https://223.5.5.5/dns-query
@@ -77460,7 +77448,6 @@ quic://dns.tunnel.redteam.club:853
 [/wanwushuo.com/]https://223.5.5.5/dns-query
 [/wanwuxia.com/]https://223.5.5.5/dns-query
 [/wanwuzhinan.com/]https://223.5.5.5/dns-query
-[/wanxiangliyi.com/]https://223.5.5.5/dns-query
 [/wanxiangqihang.com/]https://223.5.5.5/dns-query
 [/wanxiangshu.com/]https://223.5.5.5/dns-query
 [/wanxiangyouxian.com/]https://223.5.5.5/dns-query
@@ -77596,7 +77583,6 @@ quic://dns.tunnel.redteam.club:853
 [/waytoagi.com/]https://223.5.5.5/dns-query
 [/wayzim.com/]https://223.5.5.5/dns-query
 [/wazhuti.com/]https://223.5.5.5/dns-query
-[/wb-tkd.com/]https://223.5.5.5/dns-query
 [/wb133.com/]https://223.5.5.5/dns-query
 [/wb321.com/]https://223.5.5.5/dns-query
 [/wb521.net/]https://223.5.5.5/dns-query
@@ -77732,8 +77718,6 @@ quic://dns.tunnel.redteam.club:853
 [/weatherdt.com/]https://223.5.5.5/dns-query
 [/weatherol.com/]https://223.5.5.5/dns-query
 [/weavatar.com/]https://223.5.5.5/dns-query
-[/weaverdream.com/]https://223.5.5.5/dns-query
-[/weaversoftware.com/]https://223.5.5.5/dns-query
 [/weavi.com/]https://223.5.5.5/dns-query
 [/weaview.com/]https://223.5.5.5/dns-query
 [/web-tinker.com/]https://223.5.5.5/dns-query
@@ -77824,6 +77808,7 @@ quic://dns.tunnel.redteam.club:853
 [/wechat77.com/]https://223.5.5.5/dns-query
 [/wechatapp.com/]https://223.5.5.5/dns-query
 [/wechatify.net/]https://223.5.5.5/dns-query
+[/wechatlegal.net/]https://223.5.5.5/dns-query
 [/wechatpay-global.com/]https://223.5.5.5/dns-query
 [/wechatpay.com.hk/]https://223.5.5.5/dns-query
 [/wechatpay.com.my/]https://223.5.5.5/dns-query
@@ -78340,6 +78325,7 @@ quic://dns.tunnel.redteam.club:853
 [/wenwen.com/]https://223.5.5.5/dns-query
 [/wenwo.com/]https://223.5.5.5/dns-query
 [/wenwu8.com/]https://223.5.5.5/dns-query
+[/wenxiaha.com/]https://223.5.5.5/dns-query
 [/wenxiang.org/]https://223.5.5.5/dns-query
 [/wenxiaobai.com/]https://223.5.5.5/dns-query
 [/wenxiaoyou.com/]https://223.5.5.5/dns-query
@@ -78477,11 +78463,11 @@ quic://dns.tunnel.redteam.club:853
 [/wfjgzs.com/]https://223.5.5.5/dns-query
 [/wfjienuo.com/]https://223.5.5.5/dns-query
 [/wfjimg.com/]https://223.5.5.5/dns-query
-[/wfjjfzcjh.com/]https://223.5.5.5/dns-query
 [/wfjtjy.com/]https://223.5.5.5/dns-query
 [/wfk168.com/]https://223.5.5.5/dns-query
 [/wfkji.com/]https://223.5.5.5/dns-query
 [/wflgjx.com/]https://223.5.5.5/dns-query
+[/wflps.com/]https://223.5.5.5/dns-query
 [/wflushebei.com/]https://223.5.5.5/dns-query
 [/wfmzjscl.com/]https://223.5.5.5/dns-query
 [/wfnmjx.com/]https://223.5.5.5/dns-query
@@ -78631,7 +78617,6 @@ quic://dns.tunnel.redteam.club:853
 [/whh9988.com/]https://223.5.5.5/dns-query
 [/whhaifang.com/]https://223.5.5.5/dns-query
 [/whhaiyue.com/]https://223.5.5.5/dns-query
-[/whhaxfjc.com/]https://223.5.5.5/dns-query
 [/whhbxh.org/]https://223.5.5.5/dns-query
 [/whhdcz.com/]https://223.5.5.5/dns-query
 [/whhdgk.com/]https://223.5.5.5/dns-query
@@ -78822,7 +78807,6 @@ quic://dns.tunnel.redteam.club:853
 [/whxunw.com/]https://223.5.5.5/dns-query
 [/whxwxzxc.com/]https://223.5.5.5/dns-query
 [/whxy.net/]https://223.5.5.5/dns-query
-[/whxyqb.com/]https://223.5.5.5/dns-query
 [/whxysz.net/]https://223.5.5.5/dns-query
 [/whybh2015.com/]https://223.5.5.5/dns-query
 [/whycan.com/]https://223.5.5.5/dns-query
@@ -79155,6 +79139,7 @@ quic://dns.tunnel.redteam.club:853
 [/wjrcb.com/]https://223.5.5.5/dns-query
 [/wjshw.com/]https://223.5.5.5/dns-query
 [/wjsldy.com/]https://223.5.5.5/dns-query
+[/wjsms.net/]https://223.5.5.5/dns-query
 [/wjsw.com/]https://223.5.5.5/dns-query
 [/wjtzyg.com/]https://223.5.5.5/dns-query
 [/wjwuqiang.com/]https://223.5.5.5/dns-query
@@ -79406,7 +79391,6 @@ quic://dns.tunnel.redteam.club:853
 [/wodanw.com/]https://223.5.5.5/dns-query
 [/wodasi.com/]https://223.5.5.5/dns-query
 [/wodavip.com/]https://223.5.5.5/dns-query
-[/wodcloud.com/]https://223.5.5.5/dns-query
 [/wode.bid/]https://223.5.5.5/dns-query
 [/wode.im/]https://223.5.5.5/dns-query
 [/wodeabc.com/]https://223.5.5.5/dns-query
@@ -80008,7 +79992,6 @@ quic://dns.tunnel.redteam.club:853
 [/wujiit.com/]https://223.5.5.5/dns-query
 [/wujijiasu.com/]https://223.5.5.5/dns-query
 [/wujinimg.com/]https://223.5.5.5/dns-query
-[/wujinkk.com/]https://223.5.5.5/dns-query
 [/wujiok.com/]https://223.5.5.5/dns-query
 [/wujixiaoshuo.com/]https://223.5.5.5/dns-query
 [/wujixsw.info/]https://223.5.5.5/dns-query
@@ -80176,7 +80159,6 @@ quic://dns.tunnel.redteam.club:853
 [/wuzhiwei.net/]https://223.5.5.5/dns-query
 [/wuzhoucj.com/]https://223.5.5.5/dns-query
 [/wuzhoudonghui.com/]https://223.5.5.5/dns-query
-[/wuzhoukunyuan.com/]https://223.5.5.5/dns-query
 [/wuzhouqianzheng.com/]https://223.5.5.5/dns-query
 [/wuzhourcw.com/]https://223.5.5.5/dns-query
 [/wuzhouwahson.com/]https://223.5.5.5/dns-query
@@ -80406,7 +80388,6 @@ quic://dns.tunnel.redteam.club:853
 [/wydns.com/]https://223.5.5.5/dns-query
 [/wyduihua.com/]https://223.5.5.5/dns-query
 [/wydx88.com/]https://223.5.5.5/dns-query
-[/wyfantastic.link/]https://223.5.5.5/dns-query
 [/wyfluorine.com/]https://223.5.5.5/dns-query
 [/wyfx2014.com/]https://223.5.5.5/dns-query
 [/wyh138.com/]https://223.5.5.5/dns-query
@@ -80828,7 +80809,6 @@ quic://dns.tunnel.redteam.club:853
 [/xcharger.net/]https://223.5.5.5/dns-query
 [/xchjw.org/]https://223.5.5.5/dns-query
 [/xchuandai.com/]https://223.5.5.5/dns-query
-[/xchuizi.com/]https://223.5.5.5/dns-query
 [/xchuxing.com/]https://223.5.5.5/dns-query
 [/xciic.com/]https://223.5.5.5/dns-query
 [/xcj.com/]https://223.5.5.5/dns-query
@@ -80920,6 +80900,7 @@ quic://dns.tunnel.redteam.club:853
 [/xdhcn.com/]https://223.5.5.5/dns-query
 [/xdhyty.com/]https://223.5.5.5/dns-query
 [/xdiarys.com/]https://223.5.5.5/dns-query
+[/xdingerp.com/]https://223.5.5.5/dns-query
 [/xdiscuz.com/]https://223.5.5.5/dns-query
 [/xdj-sz.com/]https://223.5.5.5/dns-query
 [/xdja.com/]https://223.5.5.5/dns-query
@@ -81165,6 +81146,7 @@ quic://dns.tunnel.redteam.club:853
 [/xhlaowu.com/]https://223.5.5.5/dns-query
 [/xhlcsl.com/]https://223.5.5.5/dns-query
 [/xhma.com/]https://223.5.5.5/dns-query
+[/xhmedia.com/]https://223.5.5.5/dns-query
 [/xhmwxy.com/]https://223.5.5.5/dns-query
 [/xhnews.net/]https://223.5.5.5/dns-query
 [/xhofe.top/]https://223.5.5.5/dns-query
@@ -81183,7 +81165,6 @@ quic://dns.tunnel.redteam.club:853
 [/xhslw.com/]https://223.5.5.5/dns-query
 [/xhsyqx.com/]https://223.5.5.5/dns-query
 [/xhsyww.com/]https://223.5.5.5/dns-query
-[/xht.com.hk/]https://223.5.5.5/dns-query
 [/xhtheme.com/]https://223.5.5.5/dns-query
 [/xhtw.com/]https://223.5.5.5/dns-query
 [/xhtwb.com/]https://223.5.5.5/dns-query
@@ -81714,6 +81695,7 @@ quic://dns.tunnel.redteam.club:853
 [/xiaoten.com/]https://223.5.5.5/dns-query
 [/xiaotengyouxi.com/]https://223.5.5.5/dns-query
 [/xiaotiancai.com/]https://223.5.5.5/dns-query
+[/xiaoting.com/]https://223.5.5.5/dns-query
 [/xiaotongqq.com/]https://223.5.5.5/dns-query
 [/xiaotud.com/]https://223.5.5.5/dns-query
 [/xiaotut.com/]https://223.5.5.5/dns-query
@@ -81815,7 +81797,6 @@ quic://dns.tunnel.redteam.club:853
 [/xiaozhu.hk/]https://223.5.5.5/dns-query
 [/xiaozhu2.com/]https://223.5.5.5/dns-query
 [/xiaozhua.com/]https://223.5.5.5/dns-query
-[/xiaozhuanlan.com/]https://223.5.5.5/dns-query
 [/xiaozhulanjuwei.com/]https://223.5.5.5/dns-query
 [/xiaozhuseo.com/]https://223.5.5.5/dns-query
 [/xiaozhustatic1.com/]https://223.5.5.5/dns-query
@@ -81916,7 +81897,6 @@ quic://dns.tunnel.redteam.club:853
 [/xieso.net/]https://223.5.5.5/dns-query
 [/xietonghuaxue.com/]https://223.5.5.5/dns-query
 [/xietui.com/]https://223.5.5.5/dns-query
-[/xiewangfu.net/]https://223.5.5.5/dns-query
 [/xiexiaoyuan.com/]https://223.5.5.5/dns-query
 [/xiexinbao.com/]https://223.5.5.5/dns-query
 [/xiexingcun.com/]https://223.5.5.5/dns-query
@@ -81948,7 +81928,6 @@ quic://dns.tunnel.redteam.club:853
 [/xiguaplayer.com/]https://223.5.5.5/dns-query
 [/xiguasuwu.com/]https://223.5.5.5/dns-query
 [/xiguavideo.net/]https://223.5.5.5/dns-query
-[/xiguazhongzi.cc/]https://223.5.5.5/dns-query
 [/xigushan.com/]https://223.5.5.5/dns-query
 [/xigushan.net/]https://223.5.5.5/dns-query
 [/xihachina.com/]https://223.5.5.5/dns-query
@@ -82376,6 +82355,7 @@ quic://dns.tunnel.redteam.club:853
 [/xintajixie.com/]https://223.5.5.5/dns-query
 [/xintengmenchuang.com/]https://223.5.5.5/dns-query
 [/xintheme.com/]https://223.5.5.5/dns-query
+[/xintiandi.com/]https://223.5.5.5/dns-query
 [/xintianw.com/]https://223.5.5.5/dns-query
 [/xintiao100.com/]https://223.5.5.5/dns-query
 [/xintiao80.com/]https://223.5.5.5/dns-query
@@ -82411,7 +82391,6 @@ quic://dns.tunnel.redteam.club:853
 [/xinxing.org/]https://223.5.5.5/dns-query
 [/xinxing001.com/]https://223.5.5.5/dns-query
 [/xinxing100.com/]https://223.5.5.5/dns-query
-[/xinxingly.com/]https://223.5.5.5/dns-query
 [/xinxingsudi.com/]https://223.5.5.5/dns-query
 [/xinxinhot.net/]https://223.5.5.5/dns-query
 [/xinxinhotel.com/]https://223.5.5.5/dns-query
@@ -82706,6 +82685,7 @@ quic://dns.tunnel.redteam.club:853
 [/xjfoshan.com/]https://223.5.5.5/dns-query
 [/xjfzb.com/]https://223.5.5.5/dns-query
 [/xjgameapi.com/]https://223.5.5.5/dns-query
+[/xjgameinfo.com/]https://223.5.5.5/dns-query
 [/xjggjy.com/]https://223.5.5.5/dns-query
 [/xjgj.com/]https://223.5.5.5/dns-query
 [/xjgkzs.com/]https://223.5.5.5/dns-query
@@ -82828,7 +82808,6 @@ quic://dns.tunnel.redteam.club:853
 [/xlcgjg.com/]https://223.5.5.5/dns-query
 [/xlcidc.com/]https://223.5.5.5/dns-query
 [/xlctyd.com/]https://223.5.5.5/dns-query
-[/xlcz.com/]https://223.5.5.5/dns-query
 [/xlczg.com/]https://223.5.5.5/dns-query
 [/xldlive.com/]https://223.5.5.5/dns-query
 [/xlewen5.com/]https://223.5.5.5/dns-query
@@ -83321,6 +83300,7 @@ quic://dns.tunnel.redteam.club:853
 [/xnjcw.com/]https://223.5.5.5/dns-query
 [/xnjdcbs.com/]https://223.5.5.5/dns-query
 [/xnjty.com/]https://223.5.5.5/dns-query
+[/xnjxnz.com/]https://223.5.5.5/dns-query
 [/xnmcjgpt.com/]https://223.5.5.5/dns-query
 [/xnnpc.com/]https://223.5.5.5/dns-query
 [/xnongren.com/]https://223.5.5.5/dns-query
@@ -83471,7 +83451,6 @@ quic://dns.tunnel.redteam.club:853
 [/xschuban.com/]https://223.5.5.5/dns-query
 [/xscxzcz.com/]https://223.5.5.5/dns-query
 [/xscz.online/]https://223.5.5.5/dns-query
-[/xsdgjxy.com/]https://223.5.5.5/dns-query
 [/xsdma.com/]https://223.5.5.5/dns-query
 [/xsdmr.com/]https://223.5.5.5/dns-query
 [/xsdoudou.com/]https://223.5.5.5/dns-query
@@ -83505,6 +83484,7 @@ quic://dns.tunnel.redteam.club:853
 [/xsjedu.org/]https://223.5.5.5/dns-query
 [/xsjit.com/]https://223.5.5.5/dns-query
 [/xsjny.com/]https://223.5.5.5/dns-query
+[/xsjplm.com/]https://223.5.5.5/dns-query
 [/xsjrc.com/]https://223.5.5.5/dns-query
 [/xsjs-cifs.com/]https://223.5.5.5/dns-query
 [/xsjtxt.com/]https://223.5.5.5/dns-query
@@ -83540,6 +83520,7 @@ quic://dns.tunnel.redteam.club:853
 [/xstqj.com/]https://223.5.5.5/dns-query
 [/xsttop.com/]https://223.5.5.5/dns-query
 [/xstx.info/]https://223.5.5.5/dns-query
+[/xstzgs.com/]https://223.5.5.5/dns-query
 [/xsu.cc/]https://223.5.5.5/dns-query
 [/xsui.com/]https://223.5.5.5/dns-query
 [/xswang.com/]https://223.5.5.5/dns-query
@@ -83983,6 +83964,7 @@ quic://dns.tunnel.redteam.club:853
 [/xuzai.com/]https://223.5.5.5/dns-query
 [/xuzhi.net/]https://223.5.5.5/dns-query
 [/xuzhoudeyu.com/]https://223.5.5.5/dns-query
+[/xuzhoufabu.com/]https://223.5.5.5/dns-query
 [/xuzhoujob.com/]https://223.5.5.5/dns-query
 [/xuzhoumuseum.com/]https://223.5.5.5/dns-query
 [/xuzhousports.com/]https://223.5.5.5/dns-query
@@ -84033,7 +84015,6 @@ quic://dns.tunnel.redteam.club:853
 [/xwy-powder.com/]https://223.5.5.5/dns-query
 [/xwylhh.com/]https://223.5.5.5/dns-query
 [/xwyun.net/]https://223.5.5.5/dns-query
-[/xwz999.com/]https://223.5.5.5/dns-query
 [/xwzc.net/]https://223.5.5.5/dns-query
 [/xwzw5.com/]https://223.5.5.5/dns-query
 [/xwzxldfx.com/]https://223.5.5.5/dns-query
@@ -84146,6 +84127,7 @@ quic://dns.tunnel.redteam.club:853
 [/xy-colomi.com/]https://223.5.5.5/dns-query
 [/xy-ddh.com/]https://223.5.5.5/dns-query
 [/xy-display.com/]https://223.5.5.5/dns-query
+[/xy-invite.com/]https://223.5.5.5/dns-query
 [/xy-mp.com/]https://223.5.5.5/dns-query
 [/xy.com/]https://223.5.5.5/dns-query
 [/xy007.net/]https://223.5.5.5/dns-query
@@ -84195,6 +84177,7 @@ quic://dns.tunnel.redteam.club:853
 [/xyffvip.com/]https://223.5.5.5/dns-query
 [/xyflcp.com/]https://223.5.5.5/dns-query
 [/xyfnz.com/]https://223.5.5.5/dns-query
+[/xyfsy.com/]https://223.5.5.5/dns-query
 [/xygmed.com/]https://223.5.5.5/dns-query
 [/xygsjt.com/]https://223.5.5.5/dns-query
 [/xygt666.com/]https://223.5.5.5/dns-query
@@ -84331,12 +84314,14 @@ quic://dns.tunnel.redteam.club:853
 [/xz-juming.com/]https://223.5.5.5/dns-query
 [/xz.com/]https://223.5.5.5/dns-query
 [/xz3733.com/]https://223.5.5.5/dns-query
+[/xz3z.com/]https://223.5.5.5/dns-query
 [/xz577.com/]https://223.5.5.5/dns-query
 [/xz5jin.com/]https://223.5.5.5/dns-query
 [/xz6.com/]https://223.5.5.5/dns-query
 [/xz6699.com/]https://223.5.5.5/dns-query
 [/xz66gxnnjyl.com/]https://223.5.5.5/dns-query
 [/xz8.com/]https://223.5.5.5/dns-query
+[/xzairport.com/]https://223.5.5.5/dns-query
 [/xzb360.com/]https://223.5.5.5/dns-query
 [/xzbahd.com/]https://223.5.5.5/dns-query
 [/xzbzq.com/]https://223.5.5.5/dns-query
@@ -84345,6 +84330,8 @@ quic://dns.tunnel.redteam.club:853
 [/xzcdc.com/]https://223.5.5.5/dns-query
 [/xzcjyjt.com/]https://223.5.5.5/dns-query
 [/xzcoder.com/]https://223.5.5.5/dns-query
+[/xzdag.com/]https://223.5.5.5/dns-query
+[/xzdfyy.com/]https://223.5.5.5/dns-query
 [/xzdtjt.com/]https://223.5.5.5/dns-query
 [/xzfile.com/]https://223.5.5.5/dns-query
 [/xzfmg.com/]https://223.5.5.5/dns-query
@@ -84352,16 +84339,20 @@ quic://dns.tunnel.redteam.club:853
 [/xzggjyzpw.com/]https://223.5.5.5/dns-query
 [/xzgjj.com/]https://223.5.5.5/dns-query
 [/xzgqm.com/]https://223.5.5.5/dns-query
+[/xzgtjt.com/]https://223.5.5.5/dns-query
 [/xzgxwq.com/]https://223.5.5.5/dns-query
 [/xzhh966888.com/]https://223.5.5.5/dns-query
 [/xzhhbfesco.com/]https://223.5.5.5/dns-query
 [/xzhichang.com/]https://223.5.5.5/dns-query
 [/xzhizao.com/]https://223.5.5.5/dns-query
+[/xzhlz.com/]https://223.5.5.5/dns-query
 [/xzhome.com/]https://223.5.5.5/dns-query
 [/xzhzkd.com/]https://223.5.5.5/dns-query
+[/xzjsxy.com/]https://223.5.5.5/dns-query
 [/xzjtkg.com/]https://223.5.5.5/dns-query
 [/xzkd.com/]https://223.5.5.5/dns-query
 [/xzking.com/]https://223.5.5.5/dns-query
+[/xzkx.com/]https://223.5.5.5/dns-query
 [/xzlogo.com/]https://223.5.5.5/dns-query
 [/xzlres.com/]https://223.5.5.5/dns-query
 [/xzlsqy.com/]https://223.5.5.5/dns-query
@@ -84374,8 +84365,10 @@ quic://dns.tunnel.redteam.club:853
 [/xzpxrc.com/]https://223.5.5.5/dns-query
 [/xzqixing.com/]https://223.5.5.5/dns-query
 [/xzqxj.com/]https://223.5.5.5/dns-query
+[/xzrbw.com/]https://223.5.5.5/dns-query
 [/xzrdwq.com/]https://223.5.5.5/dns-query
 [/xzrzscq.com/]https://223.5.5.5/dns-query
+[/xzsdszx.com/]https://223.5.5.5/dns-query
 [/xzsdyyy.com/]https://223.5.5.5/dns-query
 [/xzsec.com/]https://223.5.5.5/dns-query
 [/xzsmartmetro.com/]https://223.5.5.5/dns-query
@@ -84383,11 +84376,15 @@ quic://dns.tunnel.redteam.club:853
 [/xzsnw.com/]https://223.5.5.5/dns-query
 [/xzstatic.com/]https://223.5.5.5/dns-query
 [/xzsthj.com/]https://223.5.5.5/dns-query
+[/xzsw.net/]https://223.5.5.5/dns-query
+[/xzszb.net/]https://223.5.5.5/dns-query
+[/xztcm.com/]https://223.5.5.5/dns-query
 [/xztdesign.com/]https://223.5.5.5/dns-query
 [/xztvip.com/]https://223.5.5.5/dns-query
 [/xztzb.com/]https://223.5.5.5/dns-query
 [/xzw.com/]https://223.5.5.5/dns-query
 [/xzw.pw/]https://223.5.5.5/dns-query
+[/xzwhg.com/]https://223.5.5.5/dns-query
 [/xzx.com/]https://223.5.5.5/dns-query
 [/xzxkjd.com/]https://223.5.5.5/dns-query
 [/xzxw.com/]https://223.5.5.5/dns-query
@@ -84396,6 +84393,7 @@ quic://dns.tunnel.redteam.club:853
 [/xzyhealth.com/]https://223.5.5.5/dns-query
 [/xzyjl.com/]https://223.5.5.5/dns-query
 [/xzzhongye.com/]https://223.5.5.5/dns-query
+[/xzzlyy.com/]https://223.5.5.5/dns-query
 [/xzzp.net/]https://223.5.5.5/dns-query
 [/xzzulin.com/]https://223.5.5.5/dns-query
 [/y-feng.com/]https://223.5.5.5/dns-query
@@ -84444,7 +84442,6 @@ quic://dns.tunnel.redteam.club:853
 [/yafdev.com/]https://223.5.5.5/dns-query
 [/yafeilinux.com/]https://223.5.5.5/dns-query
 [/yafshb.com/]https://223.5.5.5/dns-query
-[/yageo.tech/]https://223.5.5.5/dns-query
 [/yago-mall.com/]https://223.5.5.5/dns-query
 [/yahacode.com/]https://223.5.5.5/dns-query
 [/yahaha.net/]https://223.5.5.5/dns-query
@@ -84463,6 +84460,7 @@ quic://dns.tunnel.redteam.club:853
 [/yaiyuan.com/]https://223.5.5.5/dns-query
 [/yajun168.com/]https://223.5.5.5/dns-query
 [/yajxc.com/]https://223.5.5.5/dns-query
+[/yake5.com/]https://223.5.5.5/dns-query
 [/yakjhfh.com/]https://223.5.5.5/dns-query
 [/yakool.com/]https://223.5.5.5/dns-query
 [/yalayi.net/]https://223.5.5.5/dns-query
@@ -84730,7 +84728,6 @@ quic://dns.tunnel.redteam.club:853
 [/yarncm.com/]https://223.5.5.5/dns-query
 [/yarnn.com/]https://223.5.5.5/dns-query
 [/yasee-zs.com/]https://223.5.5.5/dns-query
-[/yashangmedia.com/]https://223.5.5.5/dns-query
 [/yashengfu.com/]https://223.5.5.5/dns-query
 [/yashowmarket.com/]https://223.5.5.5/dns-query
 [/yasishuo.com/]https://223.5.5.5/dns-query
@@ -84751,7 +84748,6 @@ quic://dns.tunnel.redteam.club:853
 [/yatiwang.com/]https://223.5.5.5/dns-query
 [/yatsenglobal.com/]https://223.5.5.5/dns-query
 [/yatsoft.com/]https://223.5.5.5/dns-query
-[/yatspa.com/]https://223.5.5.5/dns-query
 [/yaucn.com/]https://223.5.5.5/dns-query
 [/yauuy.com/]https://223.5.5.5/dns-query
 [/yawancaiwu.com/]https://223.5.5.5/dns-query
@@ -84876,6 +84872,7 @@ quic://dns.tunnel.redteam.club:853
 [/ychxiex.com/]https://223.5.5.5/dns-query
 [/ycig.com/]https://223.5.5.5/dns-query
 [/ycigilink.com/]https://223.5.5.5/dns-query
+[/ycis-bj.com/]https://223.5.5.5/dns-query
 [/yciyun.com/]https://223.5.5.5/dns-query
 [/ycjmgk.com/]https://223.5.5.5/dns-query
 [/ycjt2007.com/]https://223.5.5.5/dns-query
@@ -85213,7 +85210,6 @@ quic://dns.tunnel.redteam.club:853
 [/yfwpt.vip/]https://223.5.5.5/dns-query
 [/yfycrc.com/]https://223.5.5.5/dns-query
 [/yfycyboil.com/]https://223.5.5.5/dns-query
-[/yfzhgr.com/]https://223.5.5.5/dns-query
 [/yg-dk.com/]https://223.5.5.5/dns-query
 [/yg1997.com/]https://223.5.5.5/dns-query
 [/yg84.com/]https://223.5.5.5/dns-query
@@ -85927,7 +85923,6 @@ quic://dns.tunnel.redteam.club:853
 [/yishangwang.com/]https://223.5.5.5/dns-query
 [/yishangye.com/]https://223.5.5.5/dns-query
 [/yishaw.com/]https://223.5.5.5/dns-query
-[/yisheng1399.com/]https://223.5.5.5/dns-query
 [/yishengfanyi.com/]https://223.5.5.5/dns-query
 [/yishengjiaoyu.com/]https://223.5.5.5/dns-query
 [/yishidian.com/]https://223.5.5.5/dns-query
@@ -86159,6 +86154,7 @@ quic://dns.tunnel.redteam.club:853
 [/yjliquan.com/]https://223.5.5.5/dns-query
 [/yjllq.com/]https://223.5.5.5/dns-query
 [/yjluyun.com/]https://223.5.5.5/dns-query
+[/yjmuseum.com/]https://223.5.5.5/dns-query
 [/yjopen.com/]https://223.5.5.5/dns-query
 [/yjpal.com/]https://223.5.5.5/dns-query
 [/yjpoo.com/]https://223.5.5.5/dns-query
@@ -86527,7 +86523,6 @@ quic://dns.tunnel.redteam.club:853
 [/ynzzwl.com/]https://223.5.5.5/dns-query
 [/yo4399.com/]https://223.5.5.5/dns-query
 [/yoagoa.com/]https://223.5.5.5/dns-query
-[/yobbom.com/]https://223.5.5.5/dns-query
 [/yobo.ink/]https://223.5.5.5/dns-query
 [/yobo360.com/]https://223.5.5.5/dns-query
 [/yobochina.com/]https://223.5.5.5/dns-query
@@ -87054,7 +87049,6 @@ quic://dns.tunnel.redteam.club:853
 [/youyiweizhan.com/]https://223.5.5.5/dns-query
 [/youyix.com/]https://223.5.5.5/dns-query
 [/youyizhidao.com/]https://223.5.5.5/dns-query
-[/youyizs.com/]https://223.5.5.5/dns-query
 [/youyo88.com/]https://223.5.5.5/dns-query
 [/youyou234.com/]https://223.5.5.5/dns-query
 [/youyouwin.com/]https://223.5.5.5/dns-query
@@ -87319,7 +87313,6 @@ quic://dns.tunnel.redteam.club:853
 [/ysug.com/]https://223.5.5.5/dns-query
 [/ysupan.com/]https://223.5.5.5/dns-query
 [/ysw1950.com/]https://223.5.5.5/dns-query
-[/ysw365.com/]https://223.5.5.5/dns-query
 [/ysw68.com/]https://223.5.5.5/dns-query
 [/yswebportal.cc/]https://223.5.5.5/dns-query
 [/yswh.com/]https://223.5.5.5/dns-query
@@ -88001,7 +87994,6 @@ quic://dns.tunnel.redteam.club:853
 [/yunshibuluo.com/]https://223.5.5.5/dns-query
 [/yunshiketang.xyz/]https://223.5.5.5/dns-query
 [/yunshipei.com/]https://223.5.5.5/dns-query
-[/yunshipei.net/]https://223.5.5.5/dns-query
 [/yunshouji123.com/]https://223.5.5.5/dns-query
 [/yunshow.com/]https://223.5.5.5/dns-query
 [/yunshtk.com/]https://223.5.5.5/dns-query
@@ -88234,6 +88226,7 @@ quic://dns.tunnel.redteam.club:853
 [/ywgd.com/]https://223.5.5.5/dns-query
 [/ywhack.com/]https://223.5.5.5/dns-query
 [/ywhqs.com/]https://223.5.5.5/dns-query
+[/ywies-bj.com/]https://223.5.5.5/dns-query
 [/ywies-shpd.com/]https://223.5.5.5/dns-query
 [/ywindex.com/]https://223.5.5.5/dns-query
 [/ywinf.com/]https://223.5.5.5/dns-query
@@ -88453,7 +88446,6 @@ quic://dns.tunnel.redteam.club:853
 [/yyhao.com/]https://223.5.5.5/dns-query
 [/yyhh.com/]https://223.5.5.5/dns-query
 [/yyhn365.com/]https://223.5.5.5/dns-query
-[/yyhsjs.com/]https://223.5.5.5/dns-query
 [/yyi100.com/]https://223.5.5.5/dns-query
 [/yyiren.com/]https://223.5.5.5/dns-query
 [/yyixx.com/]https://223.5.5.5/dns-query
@@ -88514,7 +88506,6 @@ quic://dns.tunnel.redteam.club:853
 [/yyylll.com/]https://223.5.5.5/dns-query
 [/yyyncp.com/]https://223.5.5.5/dns-query
 [/yyyqm.com/]https://223.5.5.5/dns-query
-[/yyyrkjgs.com/]https://223.5.5.5/dns-query
 [/yyyvvv.com/]https://223.5.5.5/dns-query
 [/yyyxbl.com/]https://223.5.5.5/dns-query
 [/yyyy.games/]https://223.5.5.5/dns-query
@@ -89330,7 +89321,6 @@ quic://dns.tunnel.redteam.club:853
 [/zgrybhw.com/]https://223.5.5.5/dns-query
 [/zgsclp.com/]https://223.5.5.5/dns-query
 [/zgsd.net/]https://223.5.5.5/dns-query
-[/zgsdwl.com/]https://223.5.5.5/dns-query
 [/zgserver.com/]https://223.5.5.5/dns-query
 [/zgsglp.com/]https://223.5.5.5/dns-query
 [/zgshenglu.com/]https://223.5.5.5/dns-query
@@ -90322,6 +90312,7 @@ quic://dns.tunnel.redteam.club:853
 [/zhongniu.com/]https://223.5.5.5/dns-query
 [/zhongnongjimu.com/]https://223.5.5.5/dns-query
 [/zhongpaiwang.com/]https://223.5.5.5/dns-query
+[/zhongpingcapital.com/]https://223.5.5.5/dns-query
 [/zhongpujiancai.com/]https://223.5.5.5/dns-query
 [/zhongqingshao.com/]https://223.5.5.5/dns-query
 [/zhongqixin360.com/]https://223.5.5.5/dns-query
@@ -90344,7 +90335,6 @@ quic://dns.tunnel.redteam.club:853
 [/zhongso.com/]https://223.5.5.5/dns-query
 [/zhongsou.com/]https://223.5.5.5/dns-query
 [/zhongsou.net/]https://223.5.5.5/dns-query
-[/zhongsuizb.com/]https://223.5.5.5/dns-query
 [/zhongtaipcb.com/]https://223.5.5.5/dns-query
 [/zhongtaitrust.com/]https://223.5.5.5/dns-query
 [/zhongtaiyitong.com/]https://223.5.5.5/dns-query
@@ -90393,6 +90383,7 @@ quic://dns.tunnel.redteam.club:853
 [/zhongyinlawyer.com/]https://223.5.5.5/dns-query
 [/zhongyishangwu.com/]https://223.5.5.5/dns-query
 [/zhongyisousuo.com/]https://223.5.5.5/dns-query
+[/zhongyiyisheng.com/]https://223.5.5.5/dns-query
 [/zhongyoo.com/]https://223.5.5.5/dns-query
 [/zhongyouai.com/]https://223.5.5.5/dns-query
 [/zhongyouex.com/]https://223.5.5.5/dns-query
@@ -90793,7 +90784,6 @@ quic://dns.tunnel.redteam.club:853
 [/zifumao.com/]https://223.5.5.5/dns-query
 [/zigaokj.com/]https://223.5.5.5/dns-query
 [/zige365.com/]https://223.5.5.5/dns-query
-[/zigecha.com/]https://223.5.5.5/dns-query
 [/zigeer.com/]https://223.5.5.5/dns-query
 [/zigonggroup.com/]https://223.5.5.5/dns-query
 [/zigongyinuo.com/]https://223.5.5.5/dns-query
@@ -90817,7 +90807,6 @@ quic://dns.tunnel.redteam.club:853
 [/zijinfx.com/]https://223.5.5.5/dns-query
 [/zijinji.com/]https://223.5.5.5/dns-query
 [/zijizhang.com/]https://223.5.5.5/dns-query
-[/zijun99.com/]https://223.5.5.5/dns-query
 [/zikao-zikao.com/]https://223.5.5.5/dns-query
 [/zikao.gd/]https://223.5.5.5/dns-query
 [/zikao211.com/]https://223.5.5.5/dns-query
@@ -91211,13 +91200,13 @@ quic://dns.tunnel.redteam.club:853
 [/zjwttools.com/]https://223.5.5.5/dns-query
 [/zjwxbank.com/]https://223.5.5.5/dns-query
 [/zjwynn.com/]https://223.5.5.5/dns-query
-[/zjwzsb.com/]https://223.5.5.5/dns-query
 [/zjxc.com/]https://223.5.5.5/dns-query
 [/zjxdjz.com/]https://223.5.5.5/dns-query
 [/zjxf119.com/]https://223.5.5.5/dns-query
 [/zjxhbj.com/]https://223.5.5.5/dns-query
 [/zjxhgd.com/]https://223.5.5.5/dns-query
 [/zjxindu.com/]https://223.5.5.5/dns-query
+[/zjxlyp.com/]https://223.5.5.5/dns-query
 [/zjxpp.com/]https://223.5.5.5/dns-query
 [/zjxqyy.com/]https://223.5.5.5/dns-query
 [/zjxsbank.com/]https://223.5.5.5/dns-query
@@ -91472,11 +91461,9 @@ quic://dns.tunnel.redteam.club:853
 [/znlc2015.com/]https://223.5.5.5/dns-query
 [/znlcn.org/]https://223.5.5.5/dns-query
 [/znlerp.com/]https://223.5.5.5/dns-query
-[/znnee.com/]https://223.5.5.5/dns-query
 [/znonline.net/]https://223.5.5.5/dns-query
 [/znp9.com/]https://223.5.5.5/dns-query
 [/znpin.com/]https://223.5.5.5/dns-query
-[/znqnet.com/]https://223.5.5.5/dns-query
 [/znrfwy.com/]https://223.5.5.5/dns-query
 [/znrom.com/]https://223.5.5.5/dns-query
 [/znrsc.com/]https://223.5.5.5/dns-query
@@ -91493,7 +91480,6 @@ quic://dns.tunnel.redteam.club:853
 [/znxhd.com/]https://223.5.5.5/dns-query
 [/znxsw.com/]https://223.5.5.5/dns-query
 [/znyp.com/]https://223.5.5.5/dns-query
-[/znyseo.com/]https://223.5.5.5/dns-query
 [/znyshurufa.com/]https://223.5.5.5/dns-query
 [/znzmo.com/]https://223.5.5.5/dns-query
 [/znznet.net/]https://223.5.5.5/dns-query
@@ -91507,6 +91493,7 @@ quic://dns.tunnel.redteam.club:853
 [/zocoxx.com/]https://223.5.5.5/dns-query
 [/zoe360.com/]https://223.5.5.5/dns-query
 [/zoebon.com/]https://223.5.5.5/dns-query
+[/zoeess.com/]https://223.5.5.5/dns-query
 [/zoezt.com/]https://223.5.5.5/dns-query
 [/zoform.com/]https://223.5.5.5/dns-query
 [/zofund.com/]https://223.5.5.5/dns-query
@@ -91745,6 +91732,7 @@ quic://dns.tunnel.redteam.club:853
 [/zsglrj.com/]https://223.5.5.5/dns-query
 [/zsgoodlighting.com/]https://223.5.5.5/dns-query
 [/zsgsly.com/]https://223.5.5.5/dns-query
+[/zsgzc.com/]https://223.5.5.5/dns-query
 [/zsh.com/]https://223.5.5.5/dns-query
 [/zsh8.com/]https://223.5.5.5/dns-query
 [/zshangtai.com/]https://223.5.5.5/dns-query
@@ -91813,7 +91801,6 @@ quic://dns.tunnel.redteam.club:853
 [/zszq.com/]https://223.5.5.5/dns-query
 [/zszqw.com/]https://223.5.5.5/dns-query
 [/zszxsz.com/]https://223.5.5.5/dns-query
-[/zszzwly.com/]https://223.5.5.5/dns-query
 [/zt-express.com/]https://223.5.5.5/dns-query
 [/zt-info.com/]https://223.5.5.5/dns-query
 [/zt-job.com/]https://223.5.5.5/dns-query
@@ -91843,6 +91830,7 @@ quic://dns.tunnel.redteam.club:853
 [/ztfssc.com/]https://223.5.5.5/dns-query
 [/ztgame.com/]https://223.5.5.5/dns-query
 [/ztgcglzx.com/]https://223.5.5.5/dns-query
+[/ztgha.xyz/]https://223.5.5.5/dns-query
 [/ztgy.org/]https://223.5.5.5/dns-query
 [/zthrv.com/]https://223.5.5.5/dns-query
 [/zthsqx.com/]https://223.5.5.5/dns-query
@@ -92271,6 +92259,7 @@ quic://dns.tunnel.redteam.club:853
 [/zyczg.com/]https://223.5.5.5/dns-query
 [/zydlks.com/]https://223.5.5.5/dns-query
 [/zydown.com/]https://223.5.5.5/dns-query
+[/zydsy.com/]https://223.5.5.5/dns-query
 [/zydtrip.net/]https://223.5.5.5/dns-query
 [/zydzkjcloud.com/]https://223.5.5.5/dns-query
 [/zye.cc/]https://223.5.5.5/dns-query
@@ -92431,7 +92420,6 @@ quic://dns.tunnel.redteam.club:853
 [/zzhx56.com/]https://223.5.5.5/dns-query
 [/zzhybz.com/]https://223.5.5.5/dns-query
 [/zzidc.com/]https://223.5.5.5/dns-query
-[/zzjfcwzx.com/]https://223.5.5.5/dns-query
 [/zzjianyun.com/]https://223.5.5.5/dns-query
 [/zzjsled.com/]https://223.5.5.5/dns-query
 [/zzjunzhi.com/]https://223.5.5.5/dns-query
