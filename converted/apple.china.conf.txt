@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/cds.apple.com/]https://223.5.5.5/dns-query
 [/cdsassets.apple.com/]https://223.5.5.5/dns-query
+[/certs.apple.com/]https://223.5.5.5/dns-query
 [/cl1-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/cl1.apple.com/]https://223.5.5.5/dns-query
 [/cl2-cn.apple.com/]https://223.5.5.5/dns-query
