@@ -1,167 +1,167 @@
-[/a1.mzstatic.com/]https://223.5.5.5/dns-query
-[/a2.mzstatic.com/]https://223.5.5.5/dns-query
-[/a3.mzstatic.com/]https://223.5.5.5/dns-query
-[/a4.mzstatic.com/]https://223.5.5.5/dns-query
-[/a5.mzstatic.com/]https://223.5.5.5/dns-query
-[/adcdownload.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/adcdownload.apple.com/]https://223.5.5.5/dns-query
-[/amp-api-updates.apps.apple.com/]https://223.5.5.5/dns-query
-[/amp-api.media.apple.com/]https://223.5.5.5/dns-query
-[/app-site-association.cdn-apple.com/]https://223.5.5.5/dns-query
-[/appldnld.apple.com/]https://223.5.5.5/dns-query
-[/appldnld.g.aaplimg.com/]https://223.5.5.5/dns-query
-[/appleid.cdn-apple.com/]https://223.5.5.5/dns-query
-[/apps.apple.com/]https://223.5.5.5/dns-query
-[/apps.mzstatic.com/]https://223.5.5.5/dns-query
-[/bag-cdn.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cdn-cn1.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn-cn2.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn-cn3.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn-cn4.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn1.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn2.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn3.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cdn4.apple-mapkit.com/]https://223.5.5.5/dns-query
-[/cds-cdn.v.aaplimg.com/]https://223.5.5.5/dns-query
-[/cds.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cds.apple.com/]https://223.5.5.5/dns-query
-[/cdsassets.apple.com/]https://223.5.5.5/dns-query
-[/certs.apple.com/]https://223.5.5.5/dns-query
-[/cl1-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cl1.apple.com/]https://223.5.5.5/dns-query
-[/cl2-cn.apple.com/]https://223.5.5.5/dns-query
-[/cl2.apple.com/]https://223.5.5.5/dns-query
-[/cl3-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cl3.apple.com/]https://223.5.5.5/dns-query
-[/cl4-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cl4-cn.apple.com/]https://223.5.5.5/dns-query
-[/cl4.apple.com/]https://223.5.5.5/dns-query
-[/cl5-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/cl5.apple.com/]https://223.5.5.5/dns-query
-[/clientflow.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/clientflow.apple.com/]https://223.5.5.5/dns-query
-[/cn-smp-paymentservices.apple.com/]https://223.5.5.5/dns-query
-[/configuration.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/configuration.apple.com/]https://223.5.5.5/dns-query
-[/crl.apple.com/]https://223.5.5.5/dns-query
-[/cstat.apple.com/]https://223.5.5.5/dns-query
-[/cstat.cdn-apple.com/]https://223.5.5.5/dns-query
-[/dd-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/dejavu.apple.com/]https://223.5.5.5/dns-query
-[/devimages-cdn.apple.com/]https://223.5.5.5/dns-query
-[/devstreaming-cdn.apple.com/]https://223.5.5.5/dns-query
-[/download.developer.apple.com/]https://223.5.5.5/dns-query
-[/experiments.apple.com/]https://223.5.5.5/dns-query
-[/gs-loc-cn.apple.com/]https://223.5.5.5/dns-query
-[/gs-loc.apple.com/]https://223.5.5.5/dns-query
-[/gsp10-ssl-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gsp12-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gsp13-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query
-[/gsp4-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gsp5-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gsp85-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe19-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe19-cn.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/gspe19-cn.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe21-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe35-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/gspe79-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
-[/guzzoni-apple-com.v.aaplimg.com/]https://223.5.5.5/dns-query
-[/guzzoni.apple.com/]https://223.5.5.5/dns-query
-[/guzzoni.smoot.apple.com/]https://223.5.5.5/dns-query
-[/iadsdk.apple.com/]https://223.5.5.5/dns-query
-[/icloud-cdn.icloud.com.akadns.net/]https://223.5.5.5/dns-query
-[/icloud.cdn-apple.com/]https://223.5.5.5/dns-query
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query
-[/init-kt.apple.com/]https://223.5.5.5/dns-query
-[/init-p01md-lb.push-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/init-p01md.apple.com/]https://223.5.5.5/dns-query
-[/init-p01st-lb.push-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/init-p01st.push.apple.com/]https://223.5.5.5/dns-query
-[/init-s01st-lb.push-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/init-s01st.push.apple.com/]https://223.5.5.5/dns-query
-[/init.ess.apple.com/]https://223.5.5.5/dns-query
-[/iosapps.itunes.g.aaplimg.com/]https://223.5.5.5/dns-query
-[/ipcdn.apple.com/]https://223.5.5.5/dns-query
-[/iphone-ld.apple.com/]https://223.5.5.5/dns-query
-[/iphone-ld.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/is1-ssl.mzstatic.com/]https://223.5.5.5/dns-query
-[/is1.mzstatic.com/]https://223.5.5.5/dns-query
-[/is2-ssl.mzstatic.com/]https://223.5.5.5/dns-query
-[/is2.mzstatic.com/]https://223.5.5.5/dns-query
-[/is3-ssl.mzstatic.com/]https://223.5.5.5/dns-query
-[/is3.mzstatic.com/]https://223.5.5.5/dns-query
-[/is4-ssl.mzstatic.com/]https://223.5.5.5/dns-query
-[/is4.mzstatic.com/]https://223.5.5.5/dns-query
-[/is5-ssl.mzstatic.com/]https://223.5.5.5/dns-query
-[/is5.mzstatic.com/]https://223.5.5.5/dns-query
-[/itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/itunes.apple.com/]https://223.5.5.5/dns-query
-[/itunesconnect.apple.com/]https://223.5.5.5/dns-query
-[/mesu-cdn.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/mesu-china.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/mesu.apple.com/]https://223.5.5.5/dns-query
-[/ml.cdn-apple.com/]https://223.5.5.5/dns-query
-[/music.apple.com/]https://223.5.5.5/dns-query
-[/ocsp-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/ocsp.apple.com/]https://223.5.5.5/dns-query
-[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/ocsp2.apple.com/]https://223.5.5.5/dns-query
-[/oscdn.apple.com/]https://223.5.5.5/dns-query
-[/oscdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/osxapps.itunes.g.aaplimg.com/]https://223.5.5.5/dns-query
-[/pancake.apple.com/]https://223.5.5.5/dns-query
-[/pancake.cdn-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/pba0.apple.com/]https://223.5.5.5/dns-query
-[/probe.siri.apple.com/]https://223.5.5.5/dns-query
-[/prod-support.apple-support.akadns.net/]https://223.5.5.5/dns-query
-[/publicassets.cdn-apple.com/]https://223.5.5.5/dns-query
-[/reserve-prime.apple.com/]https://223.5.5.5/dns-query
-[/s.mzstatic.com/]https://223.5.5.5/dns-query
-[/seed-sequoia.siri.apple.com/]https://223.5.5.5/dns-query
-[/seed-swallow.siri.apple.com/]https://223.5.5.5/dns-query
-[/seed.siri.apple.com/]https://223.5.5.5/dns-query
-[/sequoia.apple.com/]https://223.5.5.5/dns-query
-[/sh-pod2-smp-device.apple.com/]https://223.5.5.5/dns-query
-[/shazam-insights.cdn-apple.com/]https://223.5.5.5/dns-query
-[/smp-device-content.apple.com/]https://223.5.5.5/dns-query
-[/static.gc.apple.com/]https://223.5.5.5/dns-query
-[/stocks-sparkline-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/stocks-sparkline.apple.com/]https://223.5.5.5/dns-query
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query
-[/store.apple.com.edgekey.net/]https://223.5.5.5/dns-query
-[/store.apple.com/]https://223.5.5.5/dns-query
-[/store.storeimages.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/store.storeimages.cdn-apple.com/]https://223.5.5.5/dns-query
-[/support-china.apple-support.akadns.net/]https://223.5.5.5/dns-query
-[/support.apple.com/]https://223.5.5.5/dns-query
-[/swallow-apple-com.v.aaplimg.com/]https://223.5.5.5/dns-query
-[/swallow.apple.com/]https://223.5.5.5/dns-query
-[/swcatalog-cdn.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/swcatalog.apple.com/]https://223.5.5.5/dns-query
-[/swcdn.apple.com/]https://223.5.5.5/dns-query
-[/swcdn.g.aaplimg.com/]https://223.5.5.5/dns-query
-[/swdist.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/swdist.apple.com/]https://223.5.5.5/dns-query
-[/swscan-cdn.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/swscan.apple.com/]https://223.5.5.5/dns-query
-[/sylvan.apple.com/]https://223.5.5.5/dns-query
-[/tj-pod1-smp-device.apple.com/]https://223.5.5.5/dns-query
-[/updates-http.cdn-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/updates-http.cdn-apple.com/]https://223.5.5.5/dns-query
-[/updates.cdn-apple.com/]https://223.5.5.5/dns-query
-[/valid.apple.com/]https://223.5.5.5/dns-query
-[/valid.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/weather-data.apple.com.akadns.net/]https://223.5.5.5/dns-query
-[/weather-data.apple.com/]https://223.5.5.5/dns-query
-[/weather-map.apple.com/]https://223.5.5.5/dns-query
-[/weather-map2.apple.com/]https://223.5.5.5/dns-query
-[/weatherkit.apple.com/]https://223.5.5.5/dns-query
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query
-[/www.apple.com/]https://223.5.5.5/dns-query
-[/xp.apple.com/]https://223.5.5.5/dns-query
+[/a1.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/a2.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/a3.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/a4.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/a5.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/adcdownload.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/adcdownload.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/amp-api-updates.apps.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/amp-api.media.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/app-site-association.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/appldnld.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/appldnld.g.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/appleid.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/apps.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/apps.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/bag-cdn.itunes-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn-cn1.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn-cn2.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn-cn3.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn-cn4.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn1.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn2.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn3.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdn4.apple-mapkit.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cds-cdn.v.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cds.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cds.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cdsassets.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/certs.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl1-cdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl1.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl2-cn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl2.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl3-cdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl3.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl4-cdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl4-cn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl4.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl5-cdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cl5.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/clientflow.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/clientflow.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cn-smp-paymentservices.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/configuration.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/configuration.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/crl.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cstat.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/cstat.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/dejavu.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/devimages-cdn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/devstreaming-cdn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/download.developer.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/experiments.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gs-loc-cn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gs-loc.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp10-ssl-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp12-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp13-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp4-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp5-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gsp85-cn-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe19-2-cn-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe19-cn-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe19-cn.ls-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe19-cn.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe21-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe35-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/gspe79-cn-ssl.ls.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/guzzoni-apple-com.v.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/guzzoni.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/guzzoni.smoot.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/iadsdk.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/icloud-cdn.icloud.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/icloud.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-kt.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-p01md-lb.push-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-p01md.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-p01st-lb.push-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-p01st.push.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-s01st-lb.push-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init-s01st.push.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/init.ess.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/iosapps.itunes.g.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ipcdn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/iphone-ld.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/iphone-ld.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is1-ssl.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is1.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is2-ssl.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is2.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is3-ssl.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is3.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is4-ssl.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is4.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is5-ssl.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/is5.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/itunes-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/itunes.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/itunesconnect.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/mesu-cdn.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/mesu-china.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/mesu.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ml.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/music.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ocsp-lb.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ocsp.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/ocsp2.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/oscdn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/oscdn.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/osxapps.itunes.g.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/pancake.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/pancake.cdn-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/pba0.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/probe.siri.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/prod-support.apple-support.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/publicassets.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/reserve-prime.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/s.mzstatic.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/seed-sequoia.siri.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/seed-swallow.siri.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/seed.siri.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/sequoia.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/sh-pod2-smp-device.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/shazam-insights.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/smp-device-content.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/static.gc.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/stocks-sparkline-lb.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/stocks-sparkline.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/store.apple.com.edgekey.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/store.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/store.storeimages.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/store.storeimages.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/support-china.apple-support.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/support.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swallow-apple-com.v.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swallow.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swcatalog-cdn.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swcatalog.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swcdn.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swcdn.g.aaplimg.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swdist.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swdist.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swscan-cdn.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/swscan.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/sylvan.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/tj-pod1-smp-device.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/updates-http.cdn-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/updates-http.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/updates.cdn-apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/valid.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/valid.origin-apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/weather-data.apple.com.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/weather-data.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/weather-map.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/weather-map2.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/weatherkit.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/www.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
+[/xp.apple.com/]223.5.5.5 223.6.6.6 2400:3200:baba::1 2400:3200::1
