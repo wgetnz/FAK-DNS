@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]223.5.5.5
 [/c.admob.com/]223.5.5.5
 [/c.android.clients.google.com/]223.5.5.5
+[/c.pki.goog/]223.5.5.5
 [/cache-management-prod.google.com/]223.5.5.5
 [/cache.pack.google.com/]223.5.5.5
 [/checkin.gstatic.com/]223.5.5.5
