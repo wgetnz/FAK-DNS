@@ -5,21 +5,21 @@ on:
     - cron: "0 1 * * *" # every day
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert_conf_files:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Set up Python
-      uses: actions/setup-python@v2.2.2
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.9
-    
-    - name: Install dependencies
-      run: pip3 install glob2
+        python-version: "3.12"
 
     - name: Convert Conf Files
       env:
@@ -27,20 +27,15 @@ jobs:
         THE_DNS: ${{ secrets.THE_DNS }}
       run: python convert.py
 
-    - name: Check for changes
+    - name: Commit and push changes
       run: |
-        if ! git diff --quiet; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          current_time=$(date +'%Y-%m-%d %H:%M:%S')
-          git add .
-          git commit -m "Convert conf files to txt - $current_time"
-        else
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --cached --quiet; then
           echo "No changes to commit."
+          exit 0
         fi
-
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        current_time=$(date +'%Y-%m-%d %H:%M:%S')
+        git commit -m "Convert conf files to txt - $current_time"
+        git push
